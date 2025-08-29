@@ -1,0 +1,34 @@
+# Site settings
+title: "Prakhar Singh"
+description: "Strategy & Planning @ Uber Eats ANZ. Writing about work, travel, coffee and AI."
+url: ""  # e.g., https://prakharsingh.com (set after you connect your domain)
+baseurl: ""  # leave blank for user site or custom domain
+timezone: "Australia/Melbourne"
+lang: "en-AU"
+
+# Theme
+remote_theme: pages-themes/minimal@v0.2.0
+
+# Plugins supported by GitHub Pages
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Author block (used by SEO tag)
+author:
+  name: "Prakhar Singh"
+  # email: ""  # add later if you want it public
+  # links:
+  #   - label: "LinkedIn"
+  #     icon: "fab fa-linkedin"
+  #     url: "https://www.linkedin.com/in/..."
+
+# Feed
+feed:
+  path: feed.xml
