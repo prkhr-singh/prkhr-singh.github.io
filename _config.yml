@@ -23,11 +23,14 @@ permalink: pretty
 # Author block (used by SEO tag)
 author:
   name: "Prakhar Singh"
-  # email: ""  # add later if you want it public
-  # links:
-  #   - label: "LinkedIn"
-  #     icon: "fab fa-linkedin"
-  #     url: "https://www.linkedin.com/in/..."
+  email: "prkhr.singh+website@gmail.com"
+  links:
+  - label: "LinkedIn"
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/prkhrsingh"
+  - label: "X"
+  icon: "fab fa-x"
+  url: "https://x.com/prkhr"
 
 # Feed
 feed:
