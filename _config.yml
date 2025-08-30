@@ -5,6 +5,7 @@ url: ""  # e.g., https://prakharsingh.com (set after you connect your domain)
 baseurl: ""  # leave blank for user site or custom domain
 timezone: "Australia/Melbourne"
 lang: "en-AU"
+logo: "/assets/og.png"
 
 # Theme
 remote_theme: pages-themes/minimal@v0.2.0
@@ -26,11 +27,18 @@ author:
   email: "prkhr.singh+website@gmail.com"
   links:
   - label: "LinkedIn"
-  icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/in/prkhrsingh"
+    icon: "fab fa-linkedin"
+    url: "https://www.linkedin.com/in/prkhrsingh"
   - label: "X"
-  icon: "fab fa-x"
-  url: "https://x.com/prkhr"
+    icon: "fab fa-x"
+    url: "https://x.com/prkhr"
+  - label: "Instagram"
+    icon: "fab fa-instagram"
+    url: "https://www.instagram.com/prakhar_singh/"
+
+# SEO Tag settings
+twitter:
+  username: prkhr
 
 # Feed
 feed:
