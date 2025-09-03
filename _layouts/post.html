@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<article class="post">
+  <h1>{{ page.title }}</h1>
+  {% if page.date %}
+  <p><small><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d %b %Y" }}</time></small></p>
+  {% endif %}
+
+  {{ content }}
+</article>
