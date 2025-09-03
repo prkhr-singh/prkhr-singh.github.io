@@ -11,6 +11,7 @@ Here I share selected work, short notes, and the things I’m learning — from 
 - 👉 [About]({{ '/about/' | relative_url }})
 - 🧭 [Work Highlights]({{ '/work/' | relative_url }})
 - ✍️ [Writing]({{ '/writing/' | relative_url }})
+- 🧪 [Experiments with AI]({{ '/ai/' | relative_url }})
 - 📄 [CV]({{ '/cv/' | relative_url }}){% if site.url %} ([PDF]({{ '/assets/cv/Prakhar_Singh_CV.pdf' | relative_url }})){% endif %}
 
 ---
