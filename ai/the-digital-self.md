@@ -16,4 +16,4 @@ Notes and caveats:
 
 ---
 
-{% include_relative ../assets/The_Digital_Self_A_Biography.md %}
+{% include digital_self_bio.md %}
