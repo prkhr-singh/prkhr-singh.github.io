@@ -1,0 +1,33 @@
+---
+layout: null
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {%- assign pages = site.pages | where_exp: "p", "p.sitemap != false" -%}
+  {%- for page in pages -%}
+    {%- assign url = page.url | to_s -%}
+    {%- if url contains 'assets/' or url contains 'feed.xml' or url contains 'google' -%}
+      {%- continue -%}
+    {%- endif -%}
+    <url>
+      <loc>{{ site.url }}{{ site.baseurl }}{{ page.url }}</loc>
+      {%- if page.last_modified_at -%}
+      <lastmod>{{ page.last_modified_at | date_to_xmlschema }}</lastmod>
+      {%- elsif page.date -%}
+      <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
+      {%- endif -%}
+      <changefreq>weekly</changefreq>
+    </url>
+  {%- endfor -%}
+  {%- if site.posts -%}
+    {%- for post in site.posts -%}
+    <url>
+      <loc>{{ site.url }}{{ site.baseurl }}{{ post.url }}</loc>
+      <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+      <changefreq>monthly</changefreq>
+    </url>
+    {%- endfor -%}
+  {%- endif -%}
+</urlset>
+
