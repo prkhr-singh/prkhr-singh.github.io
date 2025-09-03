@@ -1,7 +1,7 @@
 # Site settings
 title: "Prakhar Singh"
 description: "Strategy & Planning @ Uber Eats ANZ. Writing about work, travel, coffee and AI."
-url: ""  # e.g., https://prakharsingh.com (set after you connect your domain)
+url: "https://prkhr-singh.github.io"  # Set to your live site URL or custom domain
 baseurl: ""  # leave blank for user site or custom domain
 timezone: "Australia/Melbourne"
 lang: "en-AU"
@@ -43,3 +43,11 @@ twitter:
 # Feed
 feed:
   path: feed.xml
+
+# Search/analytics (optional)
+# Paste tokens/IDs here to enable meta verification and analytics snippets.
+# After updating, Pages deploy picks them up automatically.
+google_site_verification: ""   # e.g., ABCDEFG12345 from Google Search Console
+bing_site_verification: ""     # e.g., 12345ABCDE from Bing Webmaster Tools
+google_analytics_id: ""        # e.g., G-XXXXXXXXXX (GA4)
+plausible_domain: ""           # e.g., prakharsingh.com (for Plausible)
