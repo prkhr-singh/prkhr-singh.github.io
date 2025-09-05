@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+echo "==> Checking Bundler"
+if ! command -v bundle >/dev/null 2>&1; then
+  echo "Bundler not found. Install Ruby and Bundler first (e.g., brew install ruby && gem install bundler)." >&2
+  exit 1
+fi
+
+echo "==> Installing gems (first run may take a minute)"
+bundle install
+
+echo "==> Starting local server at http://127.0.0.1:4000"
+echo "    Live reload enabled; press Ctrl+C to stop."
+JEKYLL_ENV=development bundle exec jekyll serve --host 127.0.0.1 --livereload
+

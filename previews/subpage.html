@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Preview — Subpage</title>
+    <link rel="stylesheet" href="../assets/css/overrides.css" />
+    <style>
+      /* Minimal baseline to mimic theme for preview only */
+      body { font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; margin: 0; padding: 0 1rem; color: #111; }
+      a { color: #0366d6; }
+      .wrapper { max-width: 860px; margin: 0 auto; padding: 2rem 0; }
+      header h1 { margin: 0 0 .5rem; }
+      @media (min-width: 600px) {
+        .wrapper > header { float: left; width: 260px; }
+        .wrapper > section { margin-left: 280px; min-width: 0; }
+      }
+      /* Hide hero bits to simulate subpage */
+      header img, header > p, .social-media-list { display: none; }
+    </style>
+  </head>
+  <body class="subpage">
+    <div class="wrapper">
+      <header>
+        <h1><a href="#">Prakhar Singh</a></h1>
+        <nav class="site-nav">
+          <a href="#">Home</a>
+          <a href="#">About</a>
+          <a href="#">Work</a>
+          <a href="#">Writing</a>
+          <a href="#">AI</a>
+          <a href="#">CV</a>
+        </nav>
+      </header>
+      <section>
+        <h1>Writing</h1>
+        <p>A mix of short notes and longer posts.</p>
+        <ul>
+          <li><a href="#">Hello, world — new site</a> <small>— 29 Aug 2025</small></li>
+        </ul>
+        <hr />
+        <h2>Another subpage sample</h2>
+        <p>This subpage preview shows the compact header (no large photo/description/socials) with the nav repeated for easier navigation.</p>
+      </section>
+    </div>
+  </body>
+  </html>
+

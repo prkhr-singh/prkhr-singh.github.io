@@ -8,8 +8,26 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.wrapper {
-  max-width: 740px;
+/* Ensure clear two-column separation like the Minimal theme expects */
+@media (min-width: 600px) {
+  .wrapper > header {
+    float: left;
+    width: 260px;
+  }
+  .wrapper > section {
+    margin-left: 280px; /* header width + gap */
+    min-width: 0; /* avoid overflow */
+  }
+}
+
+@media (max-width: 599px) {
+  .wrapper > header {
+    float: none;
+    width: auto;
+  }
+  .wrapper > section {
+    margin-left: 0;
+  }
 }
 
 header img { /* site logo */
@@ -52,3 +70,12 @@ article.post p small { color: #666; }
 
 footer small { color: #666; }
 
+/* Subpages: compact header (hide big blocks already removed in template) */
+body.subpage .social-media-list,
+body.subpage header img,
+body.subpage header > p {
+  display: none !important; /* guard in case of future template changes */
+}
+
+/* Optional: slightly wider content for readability */
+.wrapper { max-width: 860px; }
