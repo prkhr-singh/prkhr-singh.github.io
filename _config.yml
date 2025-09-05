@@ -1,7 +1,7 @@
 # Site settings
 title: "Prakhar Singh"
 description: "Strategy & Planning @ Uber Eats ANZ. Writing about work, travel, coffee and AI."
-url: "https://prkhr-singh.github.io"  # Set to your live site URL or custom domain
+url: "https://prakharsingh.com"
 baseurl: ""  # leave blank for user site or custom domain
 timezone: "Australia/Melbourne"
 lang: "en-AU"
