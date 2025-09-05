@@ -19,4 +19,12 @@ Here are a few highlight areas I gravitate to. I’ll expand these into short ca
 - Simple automations and AI agent workflows that save hours and reduce errors.
 - Documentation that’s good enough for someone else to pick up tomorrow.
 
-If you’d like the formal version, see the **[CV]({{ '/cv/' | relative_url }})**.
+If you’d like the formal version, see the CV section below.
+ 
+---
+
+### CV
+
+- Download: **[Prakhar_Singh_CV.pdf]({{ '/assets/cv/Prakhar_Singh_CV.pdf' | relative_url }})**
+
+I keep the latest copy here. If the link doesn’t work, I’m probably updating it — check back soon.
