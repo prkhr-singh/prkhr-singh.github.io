@@ -1,6 +1,15 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
 {%- comment -%}
+  Favicon: uses site.favicon if set, otherwise falls back to site.logo
+{%- endcomment -%}
+{%- assign favicon_src = site.favicon | default: site.logo -%}
+{%- if favicon_src and favicon_src != '' -%}
+<link rel="icon" type="image/png" sizes="32x32" href="{{ favicon_src | relative_url }}">
+<link rel="shortcut icon" type="image/png" href="{{ favicon_src | relative_url }}">
+{%- endif -%}
+
+{%- comment -%}
   Search engine verification (set tokens in _config.yml)
 {%- endcomment -%}
 {%- if site.google_site_verification and site.google_site_verification != '' -%}

@@ -6,6 +6,7 @@ baseurl: ""  # leave blank for user site or custom domain
 timezone: "Australia/Melbourne"
 lang: "en-AU"
 logo: "/assets/og.png"
+favicon: "/assets/og.png"  # temporary; replace with your photo at /assets/favicon.png and update this path
 
 # Theme
 remote_theme: pages-themes/minimal@v0.2.0
@@ -30,11 +31,14 @@ author:
     icon: "fab fa-linkedin"
     url: "https://www.linkedin.com/in/prkhrsingh"
   - label: "X"
-    icon: "fab fa-x"
+    icon: "fab fa-twitter"
     url: "https://x.com/prkhr"
   - label: "Instagram"
     icon: "fab fa-instagram"
     url: "https://www.instagram.com/prakhar_singh/"
+  - label: "Substack"
+    icon: "fas fa-newspaper"
+    url: "https://substack.com/@prakharsingh"
 
 # SEO Tag settings
 twitter:
