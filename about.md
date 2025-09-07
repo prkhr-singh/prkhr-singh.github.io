@@ -40,5 +40,7 @@ Given that my dad was in Indian Railways, it meant two things:
 
 ### 1990s  
 Born and brought up in Madhya Pradesh, India, in a family of four— Dad, Mom, me, and a younger brother. 
+
 Dad worked in Indian Railways. He started as a humble technician and had an unassuming integrity (hard for someone in a government job) and an unassuming dedication to the job— he went over and above (without doing calculations on how that would benefit him materially, etc.). It worked out well for him— he retired as a fairly senior officer (possibly a p99 outcome among his batchmates). It worked out well for the family— his integrity and hard work rubbed off on us, and fairly significant career progression came with right and measured capital infusion for the education of the kids.
+
 Mom had the typical sacrificing attitude, coupled with intellectual depth (she had a PhD, back in the 90s, in India), upon which my (and my brother's) academic successes were built. Parents cared about us doing well, but they were so non-prescriptive about anything in our lives— which was liberating.

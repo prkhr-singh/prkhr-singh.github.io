@@ -28,6 +28,6 @@ If you’d like the formal version, see the CV section below.
 
 ### CV
 
-- Download: **[Prakhar_Singh_CV.pdf]({{ '/assets/cv/Prakhar_Singh_CV.pdf' | relative_url }})**
+- Download: **[Prakhar Singh — Redacted CV (Sep 2025)]({{ '/assets/cv/Prakhar%20Singh%20-%20Redacted%20CV%20for%20Website%20-%20Sep%202025.pdf' | relative_url }})**
 
 I keep the latest copy here. If the link doesn’t work, I’m probably updating it — check back soon.

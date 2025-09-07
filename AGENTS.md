@@ -31,7 +31,7 @@ Local preview (optional):
 - `assets/`
   - `css/overrides.css`: Light typography + two‑column rules + subpage header compacting.
   - `og.png`: Current Open Graph image; also used as default favicon.
-  - `cv/Prakhar_Singh_CV.pdf`: CV file linked from Work page.
+  - `cv/Prakhar Singh - Redacted CV for Website - Sep 2025.pdf`: CV file linked from Work page.
 - Pages
   - `index.md`: Home (links to About, Work, Personal, AI).
   - `about.md`: About page.
@@ -104,7 +104,7 @@ Local preview (optional):
 - Replace `assets/og.png` (OG) and/or add `assets/favicon.png`. Update `_config.yml` `logo` and `favicon`.
 
 5) Move/organize CV
-- The canonical link is in `work.md` under the CV subsection and points to `assets/cv/Prakhar_Singh_CV.pdf`.
+- The canonical link is in `work.md` under the CV subsection and points to `assets/cv/Prakhar Singh - Redacted CV for Website - Sep 2025.pdf`.
 - If you rename the file, update that link.
 
 6) Analytics / verification

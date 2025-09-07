@@ -19,7 +19,7 @@ This is a minimal, fast, and low-maintenance personal site using **GitHub Pages*
 ## Editing content
 - Add/edit pages in Markdown (`.md`): `index.md`, `about.md`, `work.md`, `personal.md` (and optionally `writing.md` for blog posts).
 - New posts go in `_posts/` with filenames like `YYYY-MM-DD-title.md`.
-- Your CV PDF lives at `assets/cv/Prakhar_Singh_CV.pdf`. Link to it from the Work page.
+- Your CV PDF lives at `assets/cv/Prakhar Singh - Redacted CV for Website - Sep 2025.pdf`. Link to it from the Work page.
 
 ## SEO & AI readability
 - `jekyll-seo-tag`, `jekyll-feed`, and `jekyll-sitemap` are enabled.
