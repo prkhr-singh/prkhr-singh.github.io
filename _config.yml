@@ -17,6 +17,8 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+exclude:
+  - AGENTS.md
 
 # Build settings
 markdown: kramdown

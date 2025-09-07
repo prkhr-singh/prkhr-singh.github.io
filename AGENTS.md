@@ -1,3 +1,8 @@
+---
+layout: null
+sitemap: false
+---
+{% raw %}
 # Repo Guide for Agents
 
 Single‑file context to work effectively on this site.
@@ -123,4 +128,4 @@ Local preview (optional):
 - Feed: `/feed.xml`
 
 This document should give a future agent everything needed to navigate, modify, and extend the site safely and consistently.
-
+{% endraw %}
