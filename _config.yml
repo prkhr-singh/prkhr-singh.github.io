@@ -1,6 +1,7 @@
 # Site settings
 title: "Prakhar Singh"
 description: "Strategy & Planning @ Uber Eats ANZ. Writing about work, travel, coffee and AI."
+tagline: "Building, testing, learning — in AI, strategy, travel, and fitness."
 url: "https://prakharsingh.com"
 baseurl: ""  # leave blank for user site or custom domain
 timezone: "Australia/Melbourne"
