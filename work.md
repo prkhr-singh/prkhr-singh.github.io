@@ -6,18 +6,21 @@ permalink: /work/
 
 Here are a few highlight areas I gravitate to. I’ll expand these into short case notes over time.
 
-### Strategy & Planning — Uber Eats ANZ
-- Geo‑strategy & competitive intelligence to inform where and how we win.
-- Cross‑functional projects that link **data**, **ops**, and **comms** for crisp execution.
-- Social impact & “Tech for Good” initiatives I care about personally.
+### Research  
+- Market studies across consumer, mobility, energy, and public-sector domains  
+- Methods ranging from surveys and interviews to ethnography and digital listening  
 
-### Analysis → Insight → Decision
-- Light modelling and strong narrative to help leaders choose with confidence.
-- Clear artefacts: one‑pagers, write‑ups, and dashboards that survive the meeting.
+### Insight  
+- Competitive and market intelligence to shape investment choices  
+- Translating data into clear artefacts — reports, dashboards, and decision memos  
 
-### Systems & Automation
-- Simple automations and AI agent workflows that save hours and reduce errors.
-- Documentation that’s good enough for someone else to pick up tomorrow.
+### Strategy  
+- Go-to-market, expansion, and transformation strategies across industries  
+- Policy, partnership, and investment strategy for both corporate and government clients  
+
+### Implementation  
+- Running pilots, coordinating multi-stakeholder teams, and scaling programs  
+- Leading cross-functional execution linking product, operations, marketing, and comms  
 
 If you’d like the formal version, see the CV section below.
  

@@ -4,38 +4,27 @@ title: Personal Pursuits
 permalink: /personal/
 ---
 
-Notes and projects from outside work — travel, coffee, cycling, and other things I’m exploring in Melbourne and beyond. I’ll add short write‑ups and links here over time.
+A hub for things outside work — brief intros below, with details on their own pages.
 
 ---
 
-### Writing
-
-Selected posts and notes.
-
-<ul>
-{% for post in site.posts limit:5 %}
-  <li>
-    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    <small>— <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d %b %Y" }}</time></small>
-  </li>
-{% endfor %}
-</ul>
-
-<p><a href="{{ '/writing/' | relative_url }}">See all writing →</a></p>
+### <a href="{{ '/writing/' | relative_url }}">Writing</a>
+Short essays and notes on work, tools, and ideas. Collected in an archive.
 
 ---
 
-### Travel & Photography
+### <a href="{{ '/personal/travel-photography/' | relative_url }}">Travel & Photography</a>
+Quick trip logs and selected photo sets; a lightweight place to remember routes and moments.
 
-Short notes from trips and photo sets. More soon.
+---
 
-### Coffee
+### <a href="{{ '/personal/fitness/' | relative_url }}">Fitness</a>
+Cycling and fitness logs focused on simple routines and consistency.
 
-Dial‑ins, beans, and moka‑pot experiments.
+---
 
-### Cycling
-
-Routes around Melbourne and occasional gear notes.
+### <a href="{{ '/personal/consumption/' | relative_url }}">Consumption</a>
+Books, articles, podcasts, and tools I found useful — with short notes.
 
 ---
 
