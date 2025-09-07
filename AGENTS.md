@@ -36,28 +36,35 @@ Local preview (optional):
   - `index.md`: Home (links to About, Work, Personal, AI).
   - `about.md`: About page.
   - `work.md`: Work highlights + CV subsection linking to the PDF.
-  - `personal.md`: Personal Pursuits. Includes a Writing subsection listing recent posts.
+  - `personal.md`: Personal Pursuits hub with four linked subsections (brief overviews only):
+    - Writing → `/writing/`
+    - Travel & Photography → `/personal/travel-photography/`
+    - Fitness → `/personal/fitness/`
+    - Consumption → `/personal/consumption/`
   - `writing.md`: All posts list (not in top nav, still useful as an archive).
-  - `ai/index.md`, `ai/the-digital-self.md`: AI Experiments.
+  - `ai/index.md`: AI Projects landing (links to subpages).
+  - `ai/how-this-site-was-built.md`: Details on the site build workflow.
+  - `ai/the-digital-self.md`: The AI autobiography project.
   - `404.md`: Friendly not‑found page.
 - Posts: `_posts/YYYY-MM-DD-title.md`
 - Root extras: `robots.txt`, `sitemap.xml` (see note below), `google82a9247e862f3f74.html` (verification).
 
 ## Layout & Presentation
 - Two‑column layout on desktop (header left, content right) with explicit CSS in `assets/css/overrides.css` to prevent overlap.
+- Left column content is center‑aligned.
 - Mobile stacks naturally.
-- Homepage‑only hero: The logo, short description, and social links are rendered only on `/`.
+- Homepage‑only hero: The logo, tagline, and social links are rendered only on `/`.
   - Implementation: `default.html` sets `is_home = page.url == '/'` and conditionally renders hero blocks.
+  - Tagline comes from `site.tagline`; SEO description remains in `site.description`.
   - Non‑home pages add `body.subpage` class for compact header; CSS hides hero bits defensively.
-- Nav (in `default.html`): `Home`, `About`, `Work`, `Personal`, `AI`.
+- Nav (in `default.html`): `About`, `Work`, `Personal`, `AI` (Home via the site title).
   - If you change permalinks, update the nav links accordingly.
 
 ## Content Model
 - Homepage (`index.md`) links to sections; copy may change freely.
-- Personal (`personal.md`) acts as a hub for non‑work content and embeds a Writing subsection:
-  - Uses `{% for post in site.posts limit:5 %}` to show recent posts and links to the full archive at `/writing/`.
-- Writing archive (`writing.md`) still lists all posts and uses `layout: default` (not in top nav).
-- Work (`work.md`) contains CV subsection with a direct link to the PDF.
+- Personal hub (`personal.md`) shows four concise intros with links to detail pages; details live on their own URLs.
+- Writing archive (`writing.md`) lists all posts and uses `layout: default` (not in top nav).
+- Work (`work.md`) contains a CV subsection that links directly to the PDF.
 
 ## SEO & Analytics
 - Enabled: `jekyll-seo-tag`, `jekyll-feed`, `jekyll-sitemap`.
