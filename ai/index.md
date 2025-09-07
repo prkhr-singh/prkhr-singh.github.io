@@ -8,12 +8,16 @@ permalink: /ai/
 
 I’m experimenting with AI assistants to build, maintain, and extend this site, and to explore personal data projects. Below is a quick summary of how I’m using these tools and links to individual experiments.
 
-## How this site was built with Codex and Gemini CLI
+## How this site was built
 
-- Workflow: I use `Codex CLI` (an agentic coding assistant) to scaffold pages, wire navigation, refactor content, and keep everything consistent across the Jekyll setup. Changes are applied directly in this repository and previewed locally.
-- Generation: I use `Gemini CLI` for content generation/refinement where helpful (summaries, intros, and draft copy), keeping edits transparent and minimally intrusive.
-- Publishing: Everything is versioned in Git and deployed via GitHub Pages. The site keeps a simple structure (Markdown pages, minimal theme) so AI edits stay readable and maintainable.
-- Intent: Keep the stack lightweight and auditable while using AI tools to speed up tedious tasks and enable new experiments.
+- **Platform**: Hosted on **GitHub Pages** for simplicity and low cost. The site is static, lightweight, and easy to maintain.  
+- **Framework**: Built with **Jekyll**, which keeps everything as Markdown + layouts. This makes the site auditable and easy to version-control.  
+- **Coding assistant**: I use **Codex CLI** (agentic coding assistant) to scaffold new pages, wire navigation, adjust layouts, and keep the Jekyll setup consistent.  
+- **Content editing**: I use **ChatGPT** to refine and edit text (draft copy, summaries, rewrites) while keeping the voice authentic and edits transparent.  
+- **Domain & DNS**: Registered and managed via **Cloudflare**, which also handles DNS and provides extra reliability/security.  
+- **Exploration**: Testing **Vercel** and other modern platforms for possible app hosting and future experiments alongside the static site.  
+- **Publishing**: Everything is versioned in Git and deployed automatically with GitHub Pages. Changes remain simple, clear, and auditable.  
+- **Intent**: Keep the stack minimal and future-proof—lightweight enough to be low maintenance, but flexible enough to integrate AI tools and new experiments over time.  
 
 ## Experiment: The Digital Self (AI Autobiography)
 
