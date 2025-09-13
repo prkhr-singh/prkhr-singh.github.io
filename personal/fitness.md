@@ -7,8 +7,6 @@ permalink: /personal/fitness/
 # Fitness
 
 
-# Fitness
-
 ## Philosophy
 I’m not chasing aesthetics. Optimising for looks alone feels counter-productive, even unhealthy. My focus is functional fitness: gradual improvement, consistency, and the ability to enjoy life — whether that’s a long hike, a weekend ride, or a casual game with friends.
 
