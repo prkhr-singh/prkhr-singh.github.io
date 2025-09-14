@@ -1,3 +1,4 @@
+---
 layout: default
 title: "I tried a data‑labeling bootcamp. Here’s what I learned."
 permalink: /ai/mercor-rubrics/
