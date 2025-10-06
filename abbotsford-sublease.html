@@ -16,8 +16,16 @@
     .chip { border-radius: 1rem; border: 1px solid rgb(229 231 235); padding: .4rem .75rem; display: inline-flex; align-items: center; gap:.5rem; font-size:.9rem; }
     .icon { width: 18px; height: 18px; }
     .shadow-soft { box-shadow: 0 10px 20px rgba(0,0,0,.06); }
-    .grid-gallery { height: 420px; }
-    @media (max-width: 640px){ .grid-gallery { height: auto; } }
+    .gallery-nav { position: absolute; top: 50%; transform: translateY(-50%); display: flex; height: 2.5rem; width: 2.5rem; align-items: center; justify-content: center; border-radius: 9999px; background: rgba(0,0,0,0.55); color: white; transition: background .2s ease; }
+    .gallery-nav:hover { background: rgba(0,0,0,0.7); }
+    .gallery-nav svg { width: 1.1rem; height: 1.1rem; }
+    .thumb { position: relative; flex: 0 0 auto; border-radius: 0.75rem; overflow: hidden; border: 2px solid transparent; transition: border-color .2s ease, transform .2s ease; }
+    .thumb img { display: block; transition: transform .2s ease; }
+    .thumb:hover img { transform: scale(1.02); }
+    .thumb.active { border-color: rgb(23 23 23); }
+    .thumb:focus-visible { outline: 2px solid rgb(23 23 23); outline-offset: 2px; }
+    #lightbox { backdrop-filter: blur(4px); }
+    #lightbox img { max-height: min(80vh, 900px); margin: 0 auto; }
   </style>
 </head>
 <body class="bg-neutral-50 text-neutral-900">
@@ -28,7 +36,7 @@
         <span class="inline-flex h-8 w-8 items-center justify-center rounded-xl bg-neutral-900 text-white font-semibold">AB</span>
         <span class="font-semibold">Abbotsford Sublease</span>
       </div>
-      <a href="mailto:prkhr.singh@gmail.com?subject=Abbotsford%20Sublease%20Enquiry" class="rounded-2xl px-4 py-2 border border-neutral-300 hover:bg-neutral-100 transition">Enquire / Request Viewing</a>
+      <a href="mailto:prkhr.singh@gmail.com?subject=Abbotsford%20Sublease%20Enquiry" target="_blank" rel="noopener noreferrer" class="rounded-2xl px-4 py-2 border border-neutral-300 hover:bg-neutral-100 transition">Enquire / Request Viewing</a>
     </div>
   </header>
 
@@ -61,13 +69,60 @@
     </section>
 
     <!-- Gallery -->
-    <section class="mt-6 grid gap-3 grid-cols-4 grid-rows-2 grid-gallery rounded-3xl overflow-hidden">
-      <div class="col-span-2 row-span-2"><img src="assets/abbotsford-sublease/IMG_4317.JPG" loading="lazy" alt="Living room with sectional sofa, TV console, and balcony view" class="h-full w-full object-cover"></div>
-      <div><img src="assets/abbotsford-sublease/IMG_4325.JPG" loading="lazy" alt="Balcony doors opening to city views" class="h-full w-full object-cover"></div>
-      <div><img src="assets/abbotsford-sublease/IMG_4321.JPG" loading="lazy" alt="Fully equipped kitchen with island and appliances" class="h-full w-full object-cover"></div>
-      <div><img src="assets/abbotsford-sublease/IMG_4323.JPG" loading="lazy" alt="Dedicated workspace with standing desk and chair" class="h-full w-full object-cover"></div>
-      <div><img src="assets/abbotsford-sublease/IMG_4319.JPG" loading="lazy" alt="Living space facing TV console and hallway to bedroom" class="h-full w-full object-cover"></div>
+    <section class="mt-6 space-y-4" aria-label="Photo gallery">
+      <div class="relative overflow-hidden rounded-3xl bg-neutral-200">
+        <img id="gallery-main" src="assets/abbotsford-sublease/IMG_4317.JPG" tabindex="0" loading="lazy" alt="Living room with sectional sofa, TV console, and balcony view" class="aspect-[4/3] w-full cursor-zoom-in object-cover sm:aspect-[16/9]">
+        <button type="button" data-gallery="prev" class="gallery-nav left-3" aria-label="View previous photo">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m15 18-6-6 6-6"/></svg>
+        </button>
+        <button type="button" data-gallery="next" class="gallery-nav right-3" aria-label="View next photo">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m9 18 6-6-6-6"/></svg>
+        </button>
+        <div class="absolute bottom-3 right-3 rounded-full bg-black/60 px-3 py-1 text-xs text-white" id="gallery-counter">1 / 10</div>
+      </div>
+      <div class="flex gap-3 overflow-x-auto pb-2" id="gallery-thumbs" aria-label="Photo thumbnails">
+        <button type="button" class="thumb active" data-index="0">
+          <img src="assets/abbotsford-sublease/IMG_4317.JPG" loading="lazy" alt="Living room with sectional sofa, TV console, and balcony view" class="h-20 w-28 rounded-xl object-cover">
+        </button>
+        <button type="button" class="thumb" data-index="1">
+          <img src="assets/abbotsford-sublease/IMG_4314.JPG" loading="lazy" alt="Open-plan living room with sofa and kitchen view" class="h-20 w-28 rounded-xl object-cover">
+        </button>
+        <button type="button" class="thumb" data-index="2">
+          <img src="assets/abbotsford-sublease/IMG_4325.JPG" loading="lazy" alt="Balcony doors with city skyline view" class="h-20 w-28 rounded-xl object-cover">
+        </button>
+        <button type="button" class="thumb" data-index="3">
+          <img src="assets/abbotsford-sublease/IMG_4321.JPG" loading="lazy" alt="Kitchen with island, appliances, and storage" class="h-20 w-28 rounded-xl object-cover">
+        </button>
+        <button type="button" class="thumb" data-index="4">
+          <img src="assets/abbotsford-sublease/IMG_4320.JPG" loading="lazy" alt="Kitchen island with espresso machine and cookware" class="h-20 w-28 rounded-xl object-cover">
+        </button>
+        <button type="button" class="thumb" data-index="5">
+          <img src="assets/abbotsford-sublease/IMG_4319.JPG" loading="lazy" alt="TV console and hallway leading to bedroom" class="h-20 w-28 rounded-xl object-cover">
+        </button>
+        <button type="button" class="thumb" data-index="6">
+          <img src="assets/abbotsford-sublease/IMG_4315.JPG" loading="lazy" alt="Sectional sofa with floor lamp and bookshelf" class="h-20 w-28 rounded-xl object-cover">
+        </button>
+        <button type="button" class="thumb" data-index="7">
+          <img src="assets/abbotsford-sublease/IMG_4323.JPG" loading="lazy" alt="Second bedroom workspace with standing desk and chair" class="h-20 w-28 rounded-xl object-cover">
+        </button>
+        <button type="button" class="thumb" data-index="8">
+          <img src="assets/abbotsford-sublease/IMG_4324.JPG" loading="lazy" alt="Bathroom with shower, vanity, and mirror storage" class="h-20 w-28 rounded-xl object-cover">
+        </button>
+        <button type="button" class="thumb" data-index="9">
+          <img src="assets/abbotsford-sublease/IMG_4313.JPG" loading="lazy" alt="Entryway view toward living room and kitchen" class="h-20 w-28 rounded-xl object-cover">
+        </button>
+      </div>
     </section>
+
+    <div id="lightbox" class="fixed inset-0 z-50 hidden flex items-center justify-center bg-black/80 p-6" role="dialog" aria-modal="true">
+      <button type="button" id="lightbox-close" class="absolute top-6 right-6 rounded-full bg-white/90 p-2 text-neutral-900 shadow" aria-label="Close photo viewer">
+        <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m7 7 10 10"/><path d="m17 7-10 10"/></svg>
+      </button>
+      <div class="max-w-5xl w-full space-y-3">
+        <img id="lightbox-image" src="assets/abbotsford-sublease/IMG_4317.JPG" alt="Living room with sectional sofa, TV console, and balcony view" class="w-full rounded-3xl object-contain">
+        <p id="lightbox-caption" class="text-center text-sm text-white/80"></p>
+      </div>
+    </div>
 
     <section class="mt-6 grid grid-cols-1 lg:grid-cols-3 gap-6">
       <!-- Left column -->
@@ -110,58 +165,64 @@
             and Victoria Gardens for shopping and essentials.
           </p>
 
-          <div class="grid sm:grid-cols-2 gap-6">
+          <div class="space-y-6">
             <div>
-              <h3 class="font-medium mb-2">Sleeping arrangements</h3>
-              <ul class="space-y-2 text-neutral-700">
-                <li>Bedroom 1 — Queen bed (frame + mattress), large cupboard with drawers &amp; hangers, great natural light</li>
-                <li>Bedroom 2 — King mattress (use or stow), dedicated workspace</li>
-                <li>Living — Sofa‑cum‑bed</li>
+              <h3 class="flex items-center gap-2 font-medium text-neutral-900">
+                <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 10h18"/><path d="M4 18V6"/><path d="M20 18V8a4 4 0 0 0-4-4h-6a4 4 0 0 0-4 4v10"/></svg>
+                Sleeping arrangements
+              </h3>
+              <ul class="mt-2 list-disc list-outside space-y-2 pl-5 text-neutral-700">
+                <li>Bedroom 1 — Queen bed, large cupboard with drawers &amp; hangers, great natural light</li>
+                <li>Bedroom 2 — King mattress (use or stow) plus dedicated workspace</li>
+                <li>Living area — Sofa-bed for extra guests</li>
               </ul>
             </div>
             <div>
-              <h3 class="font-medium mb-2">Bathroom</h3>
-              <ul class="space-y-2 text-neutral-700">
-                <li>Modern shower (no bathtub)</li>
-                <li>Private to the apartment with reliable hot water</li>
+              <h3 class="flex items-center gap-2 font-medium text-neutral-900">
+                <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16"/><path d="M5 4v8"/><path d="M19 4v8"/><path d="M6 12h12"/><path d="M8 12v4"/><path d="M16 12v4"/><path d="M9 16h6"/></svg>
+                Bathroom
+              </h3>
+              <ul class="mt-2 list-disc list-outside space-y-2 pl-5 text-neutral-700">
+                <li>Private bathroom with glass shower and great water pressure</li>
+                <li>Wall-to-wall mirrored storage for toiletries and linens</li>
               </ul>
             </div>
-          </div>
-
-          <div>
-            <h3 class="font-medium mb-2">Living &amp; work</h3>
-            <ul class="space-y-2 text-neutral-700">
-              <li>Open living with TV, sofa‑bed, balcony with views</li>
-              <li>Two ergonomic workstations (can be used as standing desks)</li>
-              <li>Kitchen: oven, Breville espresso machine, air fryer, mixer grinder, fridge, daily staples (salt, sugar, coffee, spices), full cutlery &amp; cookware</li>
-              <li>Laundry: separate washer &amp; dryer</li>
-            </ul>
-          </div>
-
-          <div>
-            <h3 class="font-medium mb-2">Amenities</h3>
-            <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-3 text-neutral-800">
-              <div>Split‑system heating &amp; cooling (living)</div>
-              <div>2 portable fans</div>
-              <div>TV</div>
-              <div>2 workspaces, ergonomic chairs</div>
-              <div>Building gym</div>
-              <div>Building pool</div>
-              <div>FOB‑based building security</div>
-              <div>5 plant babies (please water)</div>
-              <div>No on‑title parking (nearby options)</div>
-              <div>Level 9 with lift</div>
+            <div>
+              <h3 class="flex items-center gap-2 font-medium text-neutral-900">
+                <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 7h18"/><path d="M5 7v10"/><path d="M19 7v10"/><path d="M7 17h10"/><path d="M9 13h6"/></svg>
+                Living &amp; work
+              </h3>
+              <ul class="mt-2 list-disc list-outside space-y-2 pl-5 text-neutral-700">
+                <li>Open-plan living with TV, sofa-bed, and balcony views</li>
+                <li>Two ergonomic workstations with adjustable-height desks</li>
+                <li>Kitchen with oven, Breville espresso machine, air fryer, mixer grinder, fridge, and pantry staples</li>
+                <li>Separate washer &amp; dryer in internal laundry</li>
+              </ul>
             </div>
-          </div>
-
-          <div>
-            <h3 class="font-medium mb-2">Neighbourhood</h3>
-            <ul class="space-y-2 text-neutral-700">
-              <li>Victoria St eateries</li>
-              <li>Victoria Gardens Shopping Centre</li>
-              <li>Yarra River Trail — runs &amp; walks</li>
-              <li>Trams 12 &amp; 109 to CBD + train connections (~15 min)</li>
-            </ul>
+            <div>
+              <h3 class="flex items-center gap-2 font-medium text-neutral-900">
+                <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 12h18"/><path d="M3 6h18"/><path d="M3 18h18"/><circle cx="6" cy="6" r="1"/><circle cx="6" cy="12" r="1"/><circle cx="6" cy="18" r="1"/></svg>
+                Amenities
+              </h3>
+              <ul class="mt-2 list-disc list-outside space-y-2 pl-5 text-neutral-700">
+                <li>Split-system heating & cooling plus two portable fans</li>
+                <li>Building gym and pool access</li>
+                <li>FOB-secured entry and lift to Level 9</li>
+                <li>Five low-maintenance plants (occasional watering)</li>
+                <li>No on-title parking; street and nearby options available</li>
+              </ul>
+            </div>
+            <div>
+              <h3 class="flex items-center gap-2 font-medium text-neutral-900">
+                <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13S3 17 3 10a9 9 0 1 1 18 0Z"/><circle cx="12" cy="10" r="3"/></svg>
+                Neighbourhood
+              </h3>
+              <ul class="mt-2 list-disc list-outside space-y-2 pl-5 text-neutral-700">
+                <li>Steps to Victoria St eateries and Victoria Gardens Shopping Centre</li>
+                <li>2-minute walk to Yarra River Trail for runs and walks</li>
+                <li>Trams 12 &amp; 109 to CBD; train connections within ~15 minutes</li>
+              </ul>
+            </div>
           </div>
         </div>
       </div>
@@ -194,11 +255,7 @@
             </div>
           </div>
 
-          <a href="mailto:prkhr.singh@gmail.com?subject=Abbotsford%20Sublease%20Enquiry" class="mt-5 block w-full text-center rounded-2xl bg-neutral-900 text-white py-3 font-medium hover:bg-neutral-800 transition">Enquire / Request Viewing</a>
-
-          <div class="mt-4 text-xs text-neutral-500 leading-relaxed">
-            TIP: For public posts, keep availability broad (“Dec–Mar”). Share exact dates privately after enquiry for security.
-          </div>
+          <a href="mailto:prkhr.singh@gmail.com?subject=Abbotsford%20Sublease%20Enquiry" target="_blank" rel="noopener noreferrer" class="mt-5 block w-full text-center rounded-2xl bg-neutral-900 text-white py-3 font-medium hover:bg-neutral-800 transition">Enquire / Request Viewing</a>
 
           <div class="mt-5 border-t pt-4 text-sm space-y-2">
             <div>Ideal stay: ~3 months (entire period preferred)</div>
@@ -219,7 +276,7 @@
         and ~15 minutes to the CBD with trams at the doorstep. If you're new to the area, we're happy to share our favourite eats, coffee spots, and walks!
       </p>
       <div class="flex flex-wrap gap-3 text-sm text-neutral-700">
-        <a href="mailto:prkhr.singh@gmail.com?subject=Abbotsford%20Sublease%20Enquiry" class="inline-flex items-center gap-2 rounded-2xl border border-neutral-300 px-3 py-2 hover:bg-neutral-100 transition">Enquire / Request Viewing</a>
+        <a href="mailto:prkhr.singh@gmail.com?subject=Abbotsford%20Sublease%20Enquiry" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-2 rounded-2xl border border-neutral-300 px-3 py-2 hover:bg-neutral-100 transition">Enquire / Request Viewing</a>
       </div>
     </section>
 
@@ -229,5 +286,106 @@
       <script>document.getElementById('year').textContent = new Date().getFullYear()</script>
     </footer>
   </main>
+  <script>
+    (function () {
+      const galleryPhotos = [
+        { src: 'assets/abbotsford-sublease/IMG_4317.JPG', alt: 'Living room with sectional sofa, TV console, and balcony view' },
+        { src: 'assets/abbotsford-sublease/IMG_4314.JPG', alt: 'Open-plan living room with sofa and kitchen view' },
+        { src: 'assets/abbotsford-sublease/IMG_4325.JPG', alt: 'Balcony doors with city skyline view' },
+        { src: 'assets/abbotsford-sublease/IMG_4321.JPG', alt: 'Kitchen with island, appliances, and storage' },
+        { src: 'assets/abbotsford-sublease/IMG_4320.JPG', alt: 'Kitchen island with espresso machine and cookware' },
+        { src: 'assets/abbotsford-sublease/IMG_4319.JPG', alt: 'TV console and hallway leading to bedroom' },
+        { src: 'assets/abbotsford-sublease/IMG_4315.JPG', alt: 'Sectional sofa with floor lamp and bookshelf' },
+        { src: 'assets/abbotsford-sublease/IMG_4323.JPG', alt: 'Second bedroom workspace with standing desk and chair' },
+        { src: 'assets/abbotsford-sublease/IMG_4324.JPG', alt: 'Bathroom with shower, vanity, and mirror storage' },
+        { src: 'assets/abbotsford-sublease/IMG_4313.JPG', alt: 'Entryway view toward living room and kitchen' }
+      ];
+      let current = 0;
+      const mainImage = document.getElementById('gallery-main');
+      const counter = document.getElementById('gallery-counter');
+      const thumbButtons = Array.from(document.querySelectorAll('#gallery-thumbs .thumb'));
+      const prevButton = document.querySelector('[data-gallery="prev"]');
+      const nextButton = document.querySelector('[data-gallery="next"]');
+      const lightbox = document.getElementById('lightbox');
+      const lightboxImage = document.getElementById('lightbox-image');
+      const lightboxCaption = document.getElementById('lightbox-caption');
+      const lightboxClose = document.getElementById('lightbox-close');
+
+      function syncLightbox() {
+        const photo = galleryPhotos[current];
+        if (!photo) return;
+        lightboxImage.src = photo.src;
+        lightboxImage.alt = photo.alt;
+        lightboxCaption.textContent = photo.alt;
+      }
+
+      function setPhoto(index) {
+        const total = galleryPhotos.length;
+        current = (index + total) % total;
+        const photo = galleryPhotos[current];
+        if (!photo) return;
+        mainImage.src = photo.src;
+        mainImage.alt = photo.alt;
+        counter.textContent = `${current + 1} / ${total}`;
+        thumbButtons.forEach((btn, idx) => {
+          btn.classList.toggle('active', idx === current);
+        });
+        const activeThumb = thumbButtons[current];
+        if (activeThumb && typeof activeThumb.scrollIntoView === "function") {
+          activeThumb.scrollIntoView({ behavior: "smooth", inline: "center", block: "nearest" });
+        }
+        if (!lightbox.classList.contains('hidden')) {
+          syncLightbox();
+        }
+      }
+
+      function openLightbox(index = current) {
+        setPhoto(index);
+        syncLightbox();
+        lightbox.classList.remove('hidden');
+        lightboxClose?.focus({ preventScroll: true });
+      }
+
+      function closeLightbox() {
+        lightbox.classList.add('hidden');
+        mainImage.focus?.();
+      }
+
+      prevButton?.addEventListener('click', () => setPhoto(current - 1));
+      nextButton?.addEventListener('click', () => setPhoto(current + 1));
+      mainImage?.addEventListener('click', () => openLightbox(current));
+
+      thumbButtons.forEach((btn, idx) => {
+        btn.addEventListener('click', () => setPhoto(idx));
+        btn.addEventListener('keydown', (event) => {
+          if (event.key === 'Enter' || event.key === ' ') {
+            event.preventDefault();
+            openLightbox(idx);
+          }
+        });
+      });
+
+      lightboxClose?.addEventListener('click', closeLightbox);
+      lightbox?.addEventListener('click', (event) => {
+        if (event.target === lightbox) closeLightbox();
+      });
+
+      document.addEventListener('keydown', (event) => {
+        if (lightbox.classList.contains('hidden')) return;
+        if (event.key === 'ArrowRight') {
+          event.preventDefault();
+          setPhoto(current + 1);
+        } else if (event.key === 'ArrowLeft') {
+          event.preventDefault();
+          setPhoto(current - 1);
+        } else if (event.key === 'Escape') {
+          event.preventDefault();
+          closeLightbox();
+        }
+      });
+
+      setPhoto(0);
+    })();
+  </script>
 </body>
 </html>
