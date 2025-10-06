@@ -8,6 +8,9 @@ permalink: /ai/
 
 Projects and notes. Click through for details.
 
+## [Abbotsford Sublease Landing Page]({{ '/abbotsford-sublease.html' | relative_url }})
+A rapid Airbnb-style listing generated with AI prompts, then tuned with real photos, pricing, and context to market our Abbotsford apartment sublease.
+
 ## [How this site was built]({{ '/ai/how-this-site-was-built/' | relative_url }})
 How a coding assistant and an LLM help me build and maintain a minimal Jekyll site: small, auditable changes; simple CSS; and GitHub Pages for deployment.
 
