@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Example furnished sublease listing — layout template</title>
-  <meta name="description" content="Demonstration layout for a furnished apartment sublease. Placeholder copy and images only; this listing is not active.">
+  <title>Abbotsford 2BR Sublease — Balcony Views, Walk to Yarra & Victoria Gardens</title>
+  <meta name="description" content="Fully furnished 2BR apartment in Abbotsford, VIC. Bills included. Gym & pool in building. Walk to Yarra Trail & Victoria Gardens. Trams 12/109.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -29,52 +29,49 @@
   </style>
 </head>
 <body class="bg-neutral-50 text-neutral-900">
-  <!-- Filled: this URL is kept as a reusable layout example -->
-  <div class="bg-emerald-800 text-white" role="status" aria-live="polite">
-    <div class="mx-auto max-w-6xl px-4 py-3 text-sm sm:text-base leading-snug">
-      <p class="font-semibold">Sublease filled — thanks to everyone who reached out.</p>
-      <p class="mt-1 text-emerald-100">
-        This page is no longer an active listing. Everything below is <strong class="text-white">generic placeholder content</strong> so the layout can be reused or adapted for a future place.
-      </p>
-    </div>
-  </div>
-
+  <!-- Header -->
   <header class="sticky top-0 z-40 bg-white/80 backdrop-blur border-b border-neutral-200">
-    <div class="mx-auto max-w-6xl px-4 py-3 flex items-center justify-between gap-3 flex-wrap">
+    <div class="mx-auto max-w-6xl px-4 py-3 flex items-center justify-between">
       <div class="flex items-center gap-2">
-        <span class="inline-flex h-8 w-8 items-center justify-center rounded-xl bg-neutral-900 text-white font-semibold">Ex</span>
-        <span class="font-semibold">Example sublease listing</span>
+        <span class="inline-flex h-8 w-8 items-center justify-center rounded-xl bg-neutral-900 text-white font-semibold">AB</span>
+        <span class="font-semibold">Abbotsford Sublease</span>
       </div>
-      <div class="rounded-2xl px-4 py-2 border border-neutral-300 bg-white text-sm font-medium text-neutral-700">Contact: <span class="text-neutral-500">your.email@example.com</span></div>
+      <div class="rounded-2xl px-4 py-2 border border-neutral-300 bg-white text-sm font-medium text-neutral-700">Email: prkhr.singh@gmail.com</div>
     </div>
   </header>
 
   <main class="mx-auto max-w-6xl px-4 py-8">
+    <!-- Title & meta -->
     <section class="space-y-2">
-      <h1 class="text-3xl font-semibold leading-tight">Bright 2BR with balcony — example headline</h1>
+      <h1 class="text-3xl font-semibold leading-tight">Bright 2BR with Balcony Views — Walk to Yarra &amp; Victoria Gardens</h1>
       <div class="flex flex-wrap items-center gap-3 text-sm text-neutral-600">
         <span class="inline-flex items-center gap-1">
+          <!-- map-pin -->
           <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 1 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg>
-          Inner-city area (placeholder)
+          Abbotsford, VIC (near Victoria Gardens Mall)
         </span>
         <span class="inline-flex items-center gap-1">
+          <!-- calendar -->
           <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>
-          Example date range
+          Dec – Mar (approx.)
         </span>
         <span class="inline-flex items-center gap-1">
+          <!-- users -->
           <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 21v-2a4 4 0 0 0-4-4H7a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
-          Up to 4 guests (example)
+          Up to 6 guests
         </span>
         <span class="inline-flex items-center gap-1">
+          <!-- building-2 -->
           <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M7 7h.01M7 11h.01M11 7h.01M11 11h.01M15 7h.01M15 11h.01M7 15h10M7 19h10"/></svg>
-          Upper level · lift access (example)
+          Level 9 • Lift access
         </span>
       </div>
     </section>
 
-    <section class="mt-6 space-y-4" aria-label="Photo gallery (placeholder images)">
+    <!-- Gallery -->
+    <section class="mt-6 space-y-4" aria-label="Photo gallery">
       <div class="relative overflow-hidden rounded-3xl bg-neutral-200">
-        <img id="gallery-main" src="https://picsum.photos/seed/subtpl1/1600/900" tabindex="0" loading="lazy" alt="Example interior photo 1" class="aspect-[4/3] w-full cursor-zoom-in object-cover sm:aspect-[16/9]">
+        <img id="gallery-main" src="assets/abbotsford-sublease/IMG_4317.JPG" tabindex="0" loading="lazy" alt="Living room with sectional sofa, TV console, and balcony view" class="aspect-[4/3] w-full cursor-zoom-in object-cover sm:aspect-[16/9]">
         <button type="button" data-gallery="prev" class="gallery-nav left-3" aria-label="View previous photo">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m15 18-6-6 6-6"/></svg>
         </button>
@@ -85,37 +82,37 @@
       </div>
       <div class="flex gap-3 overflow-x-auto pb-2" id="gallery-thumbs" aria-label="Photo thumbnails">
         <button type="button" class="thumb active" data-index="0">
-          <img src="https://picsum.photos/seed/subtpl1/280/200" loading="lazy" alt="Thumbnail 1" class="h-20 w-28 rounded-xl object-cover">
+          <img src="assets/abbotsford-sublease/IMG_4317.JPG" loading="lazy" alt="Living room with sectional sofa, TV console, and balcony view" class="h-20 w-28 rounded-xl object-cover">
         </button>
         <button type="button" class="thumb" data-index="1">
-          <img src="https://picsum.photos/seed/subtpl2/280/200" loading="lazy" alt="Thumbnail 2" class="h-20 w-28 rounded-xl object-cover">
+          <img src="assets/abbotsford-sublease/IMG_4314.JPG" loading="lazy" alt="Open-plan living room with sofa and kitchen view" class="h-20 w-28 rounded-xl object-cover">
         </button>
         <button type="button" class="thumb" data-index="2">
-          <img src="https://picsum.photos/seed/subtpl3/280/200" loading="lazy" alt="Thumbnail 3" class="h-20 w-28 rounded-xl object-cover">
+          <img src="assets/abbotsford-sublease/IMG_4325.JPG" loading="lazy" alt="Balcony doors with city skyline view" class="h-20 w-28 rounded-xl object-cover">
         </button>
         <button type="button" class="thumb" data-index="3">
-          <img src="https://picsum.photos/seed/subtpl4/280/200" loading="lazy" alt="Thumbnail 4" class="h-20 w-28 rounded-xl object-cover">
+          <img src="assets/abbotsford-sublease/IMG_4321.JPG" loading="lazy" alt="Kitchen with island, appliances, and storage" class="h-20 w-28 rounded-xl object-cover">
         </button>
         <button type="button" class="thumb" data-index="4">
-          <img src="https://picsum.photos/seed/subtpl5/280/200" loading="lazy" alt="Thumbnail 5" class="h-20 w-28 rounded-xl object-cover">
+          <img src="assets/abbotsford-sublease/IMG_4320.JPG" loading="lazy" alt="Kitchen island with espresso machine and cookware" class="h-20 w-28 rounded-xl object-cover">
         </button>
         <button type="button" class="thumb" data-index="5">
-          <img src="https://picsum.photos/seed/subtpl6/280/200" loading="lazy" alt="Thumbnail 6" class="h-20 w-28 rounded-xl object-cover">
+          <img src="assets/abbotsford-sublease/IMG_4319.JPG" loading="lazy" alt="TV console and hallway leading to bedroom" class="h-20 w-28 rounded-xl object-cover">
         </button>
         <button type="button" class="thumb" data-index="6">
-          <img src="https://picsum.photos/seed/subtpl7/280/200" loading="lazy" alt="Thumbnail 7" class="h-20 w-28 rounded-xl object-cover">
+          <img src="assets/abbotsford-sublease/IMG_4315.JPG" loading="lazy" alt="Sectional sofa with floor lamp and bookshelf" class="h-20 w-28 rounded-xl object-cover">
         </button>
         <button type="button" class="thumb" data-index="7">
-          <img src="https://picsum.photos/seed/subtpl8/280/200" loading="lazy" alt="Thumbnail 8" class="h-20 w-28 rounded-xl object-cover">
+          <img src="assets/abbotsford-sublease/IMG_4323.JPG" loading="lazy" alt="Second bedroom workspace with standing desk and chair" class="h-20 w-28 rounded-xl object-cover">
         </button>
         <button type="button" class="thumb" data-index="8">
-          <img src="https://picsum.photos/seed/subtpl9/280/200" loading="lazy" alt="Thumbnail 9" class="h-20 w-28 rounded-xl object-cover">
+          <img src="assets/abbotsford-sublease/IMG_4324.JPG" loading="lazy" alt="Bathroom with shower, vanity, and mirror storage" class="h-20 w-28 rounded-xl object-cover">
         </button>
         <button type="button" class="thumb" data-index="9">
-          <img src="https://picsum.photos/seed/subtpl10/280/200" loading="lazy" alt="Thumbnail 10" class="h-20 w-28 rounded-xl object-cover">
+          <img src="assets/abbotsford-sublease/IMG_4313.JPG" loading="lazy" alt="Entryway view toward living room and kitchen" class="h-20 w-28 rounded-xl object-cover">
         </button>
       </div>
-      <p class="text-sm text-neutral-600">More photos? <span class="text-neutral-500">Add a link to your full album here (e.g. Google Photos or a folder).</span></p>
+      <p class="text-sm text-neutral-600">Need more angles? <a href="https://photos.app.goo.gl/Eem5aGppJet9jDCU6" target="_blank" rel="noopener noreferrer" class="underline">Browse the full Google Photos album</a>.</p>
     </section>
 
     <div id="lightbox" class="fixed inset-0 z-50 hidden flex items-center justify-center bg-black/80 p-6" role="dialog" aria-modal="true">
@@ -123,42 +120,50 @@
         <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m7 7 10 10"/><path d="m17 7-10 10"/></svg>
       </button>
       <div class="max-w-5xl w-full space-y-3">
-        <img id="lightbox-image" src="https://picsum.photos/seed/subtpl1/1600/900" alt="Example interior photo 1" class="w-full rounded-3xl object-contain">
+        <img id="lightbox-image" src="assets/abbotsford-sublease/IMG_4317.JPG" alt="Living room with sectional sofa, TV console, and balcony view" class="w-full rounded-3xl object-contain">
         <p id="lightbox-caption" class="text-center text-sm text-white/80"></p>
       </div>
     </div>
 
     <section class="mt-6 grid grid-cols-1 lg:grid-cols-3 gap-6">
+      <!-- Left column -->
       <div class="lg:col-span-2 space-y-6">
+        <!-- Highlights -->
         <div class="card p-6">
           <div class="flex flex-wrap gap-3">
             <span class="chip">
+              <!-- users -->
               <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 21v-2a4 4 0 0 0-4-4H7a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/></svg>
-              2BR + sofa-bed (example)
+              2BR + sofa‑bed (max 6)
             </span>
             <span class="chip">
+              <!-- map-pin -->
               <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 1 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg>
-              Near shops &amp; parkland (placeholder)
+              Near Victoria Gardens &amp; Yarra Trail
             </span>
             <span class="chip">
+              <!-- wifi -->
               <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12.55a11 11 0 0 1 14.08 0"/><path d="M1.42 9a16 16 0 0 1 21.16 0"/><path d="M8.53 16.11a6 6 0 0 1 6.95 0"/><circle cx="12" cy="20" r="1"/></svg>
-              High-speed Wi‑Fi (example)
+              100 Mbps Wi‑Fi
             </span>
             <span class="chip">
+              <!-- building -->
               <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M7 7h.01M7 11h.01M11 7h.01M11 11h.01M15 7h.01M15 11h.01M7 15h10M7 19h10"/></svg>
-              Views + lift (example)
+              9th‑floor views + lift
             </span>
           </div>
           <p class="mt-4 text-sm text-neutral-600">
-            Example note: state whether bills are included and which utilities apply.
+            Price includes water, hot water, electricity, internet, and gas.
           </p>
         </div>
 
+        <!-- About -->
         <div class="card p-6 space-y-6">
           <h2 class="text-xl font-semibold">About this space</h2>
           <p class="text-neutral-700 leading-relaxed">
-            Replace this block with a short pitch: who the place suits, what makes it comfortable, and how connected it is to work or leisure.
-            Keep specifics factual and update transport, parking, and building rules to match your actual listing.
+            Comfortable, light‑filled 2‑bedroom apartment with a private balcony and open‑plan living. Ideal for a couple, small family, or
+            visiting professionals needing a well‑connected base close to the CBD. Trams at your doorstep, Yarra River Trail two minutes away,
+            and Victoria Gardens for shopping and essentials.
           </p>
 
           <div class="space-y-6">
@@ -168,9 +173,9 @@
                 Sleeping arrangements
               </h3>
               <ul class="mt-2 list-disc list-outside space-y-2 pl-5 text-neutral-700">
-                <li>Bedroom 1 — bed size and storage (customise)</li>
-                <li>Bedroom 2 — desk or second bed (customise)</li>
-                <li>Living area — sofa-bed or extra mattress (if applicable)</li>
+                <li>Bedroom 1 — Queen bed, large cupboard with drawers &amp; hangers, great natural light</li>
+                <li>Bedroom 2 — King mattress (use or stow) plus dedicated workspace</li>
+                <li>Living area — Sofa-bed for extra guests</li>
               </ul>
             </div>
             <div>
@@ -179,8 +184,8 @@
                 Bathroom
               </h3>
               <ul class="mt-2 list-disc list-outside space-y-2 pl-5 text-neutral-700">
-                <li>Private bathroom — shower over bath, walk-in, etc. (customise)</li>
-                <li>Storage for linens and toiletries (customise)</li>
+                <li>Private bathroom with glass shower and great water pressure</li>
+                <li>Wall-to-wall mirrored storage for toiletries and linens</li>
               </ul>
             </div>
             <div>
@@ -189,10 +194,10 @@
                 Living &amp; work
               </h3>
               <ul class="mt-2 list-disc list-outside space-y-2 pl-5 text-neutral-700">
-                <li>Open-plan living with TV and balcony (if applicable)</li>
-                <li>Desk or dedicated workspace (customise)</li>
-                <li>Kitchen appliances you are happy for guests to use</li>
-                <li>Laundry: washer / dryer (customise)</li>
+                <li>Open-plan living with TV, sofa-bed, and balcony views</li>
+                <li>Two ergonomic workstations with adjustable-height desks</li>
+                <li>Kitchen with oven, Breville espresso machine, air fryer, mixer grinder, fridge, and pantry staples</li>
+                <li>Separate washer &amp; dryer in internal laundry</li>
               </ul>
             </div>
             <div>
@@ -201,11 +206,11 @@
                 Amenities
               </h3>
               <ul class="mt-2 list-disc list-outside space-y-2 pl-5 text-neutral-700">
-                <li>Heating and cooling (customise)</li>
-                <li>Building facilities you can offer (gym, pool, etc.) — only if allowed</li>
-                <li>Entry: intercom, fob, or other (customise)</li>
-                <li>Plants or pets: spell out expectations clearly</li>
-                <li>Parking: on-site, street, or none (customise)</li>
+                <li>Split-system heating & cooling plus two portable fans</li>
+                <li>Building gym and pool access</li>
+                <li>FOB-secured entry and lift to Level 9</li>
+                <li>Five low-maintenance plants (occasional watering)</li>
+                <li>No on-title parking; street and nearby options available</li>
               </ul>
             </div>
             <div>
@@ -214,83 +219,87 @@
                 Neighbourhood
               </h3>
               <ul class="mt-2 list-disc list-outside space-y-2 pl-5 text-neutral-700">
-                <li>Cafés, groceries, and green space within walking distance (customise)</li>
-                <li>Public transport options you actually use (customise)</li>
-                <li>Typical commute times to places guests care about (optional)</li>
+                <li>Steps to Victoria St eateries and Victoria Gardens Shopping Centre</li>
+                <li>2-minute walk to Yarra River Trail for runs and walks</li>
+                <li>Trams 12 &amp; 109 to CBD; train connections within ~15 minutes</li>
               </ul>
             </div>
           </div>
         </div>
       </div>
 
+      <!-- Booking card -->
       <aside class="lg:col-span-1">
         <div class="card p-6 sticky top-24 shadow-soft">
           <div class="flex items-baseline gap-2">
-            <div class="text-2xl font-semibold">A$XXX</div>
-            <div class="text-sm text-neutral-600">per week · example only</div>
+            <div class="text-2xl font-semibold">A$600</div>
+            <div class="text-sm text-neutral-600">per week · bills included</div>
           </div>
-          <div class="mt-1 text-sm text-neutral-600">Bond: set your amount (example)</div>
+          <div class="mt-1 text-sm text-neutral-600">Bond: A$2000</div>
 
           <div class="mt-4 grid grid-cols-2 gap-2 text-sm">
             <div class="rounded-2xl border border-neutral-300 px-3 py-2 flex items-center gap-2">
               <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>
-              Dates (example)
+              Dec – Mar
             </div>
             <div class="rounded-2xl border border-neutral-300 px-3 py-2 flex items-center gap-2">
               <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 21v-2a4 4 0 0 0-4-4H7a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/></svg>
-              Guest cap (example)
+              Up to 6 guests
             </div>
             <div class="rounded-2xl border border-neutral-300 px-3 py-2 flex items-center gap-2">
               <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15V6a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v9M7 22h10M8 18h8"/></svg>
-              Trams / buses (example)
+              Trams 12 &amp; 109
             </div>
             <div class="rounded-2xl border border-neutral-300 px-3 py-2 flex items-center gap-2">
               <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2v7"/><path d="M5 10h14l-1 9H6l-1-9Z"/><circle cx="6.5" cy="19.5" r="1.5"/><circle cx="17.5" cy="19.5" r="1.5"/></svg>
-              Train distance (example)
+              Train ~1 km
             </div>
           </div>
 
-          <div class="mt-5 rounded-2xl border border-neutral-300 bg-white px-3 py-3 text-center text-sm font-medium text-neutral-800">Contact: <span class="text-neutral-600">your.email@example.com</span></div>
+          <div class="mt-5 rounded-2xl border border-neutral-300 bg-white px-3 py-3 text-center text-sm font-medium text-neutral-800">Email us at <span class="text-neutral-950">prkhr.singh@gmail.com</span></div>
 
           <div class="mt-5 border-t pt-4 text-sm space-y-2">
-            <div>Ideal stay length and flexibility (customise)</div>
-            <div>Pets policy (customise)</div>
-            <div>What bills or utilities are included (customise)</div>
+            <div>Ideal stay: ~3 months (entire period preferred)</div>
+            <div>No pets</div>
+            <div>Utilities included: water, hot water, electricity, internet, gas</div>
           </div>
         </div>
       </aside>
     </section>
 
+    <!-- Host -->
     <section class="mt-6 card p-6 space-y-4">
-      <h2 class="text-xl font-semibold">Hosted by [your names]</h2>
+      <h2 class="text-xl font-semibold">Hosted by Prakhar &amp; Cearet</h2>
       <p class="text-neutral-700 leading-relaxed">
-        Short host blurb: how long you have lived in the home, what you are looking for in a guest, and any house-sitting expectations
-        (plants, mail, etc.). Keep tone friendly and boundaries clear.
+        We've lived here for 2+ years, so the home is set up for day‑to‑day living — just bring clothes, groceries, and toiletries.
+        We'll be overseas for ~3 months and would love to share our space with someone who'll enjoy it as much as we do.
+        You'll also be looking after 5 plant babies (occasional watering). The apartment is bright, has lovely views, and is 2 minutes to the Yarra Trail
+        and ~15 minutes to the CBD with trams at the doorstep. If you're new to the area, we're happy to share our favourite eats, coffee spots, and walks!
       </p>
       <div class="flex flex-wrap gap-3 text-sm text-neutral-700">
-        <div class="inline-flex items-center gap-2 rounded-2xl border border-neutral-300 px-3 py-2 text-sm">Contact: <span class="font-medium text-neutral-900">your.email@example.com</span></div>
+        <div class="inline-flex items-center gap-2 rounded-2xl border border-neutral-300 px-3 py-2 text-sm">Email: <span class="font-medium text-neutral-900">prkhr.singh@gmail.com</span></div>
       </div>
     </section>
 
+    <!-- Footer -->
     <footer class="py-10 text-center text-xs text-neutral-500">
-      <p>Example listing layout only — not a real vacancy. Inspired by common short-stay listing patterns.</p>
-      <p class="mt-2">© <span id="year"></span> — template page</p>
+      <p>© <span id="year"></span> Prakhar &amp; Cearet — Temporary sublease listing inspired by Airbnb layouts.</p>
       <script>document.getElementById('year').textContent = new Date().getFullYear()</script>
     </footer>
   </main>
   <script>
     (function () {
       const galleryPhotos = [
-        { src: 'https://picsum.photos/seed/subtpl1/1600/900', alt: 'Example interior photo 1' },
-        { src: 'https://picsum.photos/seed/subtpl2/1600/900', alt: 'Example interior photo 2' },
-        { src: 'https://picsum.photos/seed/subtpl3/1600/900', alt: 'Example interior photo 3' },
-        { src: 'https://picsum.photos/seed/subtpl4/1600/900', alt: 'Example interior photo 4' },
-        { src: 'https://picsum.photos/seed/subtpl5/1600/900', alt: 'Example interior photo 5' },
-        { src: 'https://picsum.photos/seed/subtpl6/1600/900', alt: 'Example interior photo 6' },
-        { src: 'https://picsum.photos/seed/subtpl7/1600/900', alt: 'Example interior photo 7' },
-        { src: 'https://picsum.photos/seed/subtpl8/1600/900', alt: 'Example interior photo 8' },
-        { src: 'https://picsum.photos/seed/subtpl9/1600/900', alt: 'Example interior photo 9' },
-        { src: 'https://picsum.photos/seed/subtpl10/1600/900', alt: 'Example interior photo 10' }
+        { src: 'assets/abbotsford-sublease/IMG_4317.JPG', alt: 'Living room with sectional sofa, TV console, and balcony view' },
+        { src: 'assets/abbotsford-sublease/IMG_4314.JPG', alt: 'Open-plan living room with sofa and kitchen view' },
+        { src: 'assets/abbotsford-sublease/IMG_4325.JPG', alt: 'Balcony doors with city skyline view' },
+        { src: 'assets/abbotsford-sublease/IMG_4321.JPG', alt: 'Kitchen with island, appliances, and storage' },
+        { src: 'assets/abbotsford-sublease/IMG_4320.JPG', alt: 'Kitchen island with espresso machine and cookware' },
+        { src: 'assets/abbotsford-sublease/IMG_4319.JPG', alt: 'TV console and hallway leading to bedroom' },
+        { src: 'assets/abbotsford-sublease/IMG_4315.JPG', alt: 'Sectional sofa with floor lamp and bookshelf' },
+        { src: 'assets/abbotsford-sublease/IMG_4323.JPG', alt: 'Second bedroom workspace with standing desk and chair' },
+        { src: 'assets/abbotsford-sublease/IMG_4324.JPG', alt: 'Bathroom with shower, vanity, and mirror storage' },
+        { src: 'assets/abbotsford-sublease/IMG_4313.JPG', alt: 'Entryway view toward living room and kitchen' }
       ];
       let current = 0;
       const mainImage = document.getElementById('gallery-main');
