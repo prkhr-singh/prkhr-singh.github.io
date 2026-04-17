@@ -86,6 +86,11 @@ body.subpage header > p {
 /* Optional: slightly wider content for readability */
 .wrapper { max-width: 860px; }
 
+/* Sublease template: give the listing room beside the site nav */
+body.subpage.has-sublease .wrapper {
+  max-width: 1320px;
+}
+
 /* Social list centering and spacing */
 ul.social-media-list {
   list-style: none;

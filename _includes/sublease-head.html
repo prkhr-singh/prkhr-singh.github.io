@@ -1,0 +1,21 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com"></script>
+<style>
+  #sublease-root { color-scheme: light; font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif; }
+  #sublease-root .sublease-icon { width: 18px; height: 18px; flex-shrink: 0; }
+  #sublease-root .card { border-radius: 1.5rem; border: 1px solid rgb(229 231 235); background: white; }
+  #sublease-root .chip { border-radius: 1rem; border: 1px solid rgb(229 231 235); padding: .4rem .75rem; display: inline-flex; align-items: center; gap: .5rem; font-size: .9rem; }
+  #sublease-root .shadow-soft { box-shadow: 0 10px 20px rgba(0,0,0,.06); }
+  #sublease-root .gallery-nav { position: absolute; top: 50%; transform: translateY(-50%); display: flex; height: 2.5rem; width: 2.5rem; align-items: center; justify-content: center; border-radius: 9999px; background: rgba(0,0,0,0.55); color: white; transition: background .2s ease; }
+  #sublease-root .gallery-nav:hover { background: rgba(0,0,0,0.7); }
+  #sublease-root .gallery-nav svg { width: 1.1rem; height: 1.1rem; }
+  #sublease-root .thumb { position: relative; flex: 0 0 auto; border-radius: 0.75rem; overflow: hidden; border: 2px solid transparent; transition: border-color .2s ease, transform .2s ease; }
+  #sublease-root .thumb img { display: block; transition: transform .2s ease; }
+  #sublease-root .thumb:hover img { transform: scale(1.02); }
+  #sublease-root .thumb.active { border-color: rgb(23 23 23); }
+  #sublease-root .thumb:focus-visible { outline: 2px solid rgb(23 23 23); outline-offset: 2px; }
+  #sublease-root #lightbox { backdrop-filter: blur(4px); }
+  #sublease-root #lightbox img { max-height: min(80vh, 900px); margin: 0 auto; }
+</style>
