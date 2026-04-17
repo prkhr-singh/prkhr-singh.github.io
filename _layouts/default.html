@@ -12,8 +12,11 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     {% include head-custom.html %}
+    {% if page.sublease_page %}
+    {% include sublease-head.html %}
+    {% endif %}
   </head>
-  <body class="{% if page.url != '/' %}subpage{% endif %}">
+  <body class="{% if page.url != '/' %}subpage{% endif %}{% if page.sublease_page %} has-sublease{% endif %}">
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | relative_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>

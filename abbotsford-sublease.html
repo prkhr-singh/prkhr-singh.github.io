@@ -1,35 +1,13 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Example furnished sublease listing — layout template</title>
-  <meta name="description" content="Demonstration layout for a furnished apartment sublease. Placeholder copy and images only; this listing is not active.">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <script src="https://cdn.tailwindcss.com"></script>
-  <style>
-    :root { color-scheme: light; }
-    body { font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Apple Color Emoji','Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji', sans-serif; }
-    .card { border-radius: 1.5rem; border: 1px solid rgb(229 231 235); background: white; }
-    .chip { border-radius: 1rem; border: 1px solid rgb(229 231 235); padding: .4rem .75rem; display: inline-flex; align-items: center; gap:.5rem; font-size:.9rem; }
-    .icon { width: 18px; height: 18px; }
-    .shadow-soft { box-shadow: 0 10px 20px rgba(0,0,0,.06); }
-    .gallery-nav { position: absolute; top: 50%; transform: translateY(-50%); display: flex; height: 2.5rem; width: 2.5rem; align-items: center; justify-content: center; border-radius: 9999px; background: rgba(0,0,0,0.55); color: white; transition: background .2s ease; }
-    .gallery-nav:hover { background: rgba(0,0,0,0.7); }
-    .gallery-nav svg { width: 1.1rem; height: 1.1rem; }
-    .thumb { position: relative; flex: 0 0 auto; border-radius: 0.75rem; overflow: hidden; border: 2px solid transparent; transition: border-color .2s ease, transform .2s ease; }
-    .thumb img { display: block; transition: transform .2s ease; }
-    .thumb:hover img { transform: scale(1.02); }
-    .thumb.active { border-color: rgb(23 23 23); }
-    .thumb:focus-visible { outline: 2px solid rgb(23 23 23); outline-offset: 2px; }
-    #lightbox { backdrop-filter: blur(4px); }
-    #lightbox img { max-height: min(80vh, 900px); margin: 0 auto; }
-  </style>
-</head>
-<body class="bg-neutral-50 text-neutral-900">
-  <!-- Filled: this URL is kept as a reusable layout example -->
+---
+layout: default
+title: Example furnished sublease listing — layout template
+description: Demonstration layout for a furnished apartment sublease. Placeholder copy and images only; this listing is not active.
+sublease_page: true
+permalink: /abbotsford-sublease.html
+---
+
+<div id="sublease-root" class="sublease-page bg-neutral-50 text-neutral-900 rounded-lg -mt-2">
+<!-- Filled: this URL is kept as a reusable layout example -->
   <div class="bg-emerald-800 text-white" role="status" aria-live="polite">
     <div class="mx-auto max-w-6xl px-4 py-3 text-sm sm:text-base leading-snug">
       <p class="font-semibold">Sublease filled — thanks to everyone who reached out.</p>
@@ -39,34 +17,24 @@
     </div>
   </div>
 
-  <header class="sticky top-0 z-40 bg-white/80 backdrop-blur border-b border-neutral-200">
-    <div class="mx-auto max-w-6xl px-4 py-3 flex items-center justify-between gap-3 flex-wrap">
-      <div class="flex items-center gap-2">
-        <span class="inline-flex h-8 w-8 items-center justify-center rounded-xl bg-neutral-900 text-white font-semibold">Ex</span>
-        <span class="font-semibold">Example sublease listing</span>
-      </div>
-      <div class="rounded-2xl px-4 py-2 border border-neutral-300 bg-white text-sm font-medium text-neutral-700">Contact: <span class="text-neutral-500">your.email@example.com</span></div>
-    </div>
-  </header>
-
-  <main class="mx-auto max-w-6xl px-4 py-8">
+  <main class="mx-auto max-w-6xl px-4 py-6">
     <section class="space-y-2">
       <h1 class="text-3xl font-semibold leading-tight">Bright 2BR with balcony — example headline</h1>
       <div class="flex flex-wrap items-center gap-3 text-sm text-neutral-600">
         <span class="inline-flex items-center gap-1">
-          <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 1 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg>
+          <svg class="sublease-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 1 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg>
           Inner-city area (placeholder)
         </span>
         <span class="inline-flex items-center gap-1">
-          <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>
+          <svg class="sublease-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>
           Example date range
         </span>
         <span class="inline-flex items-center gap-1">
-          <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 21v-2a4 4 0 0 0-4-4H7a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+          <svg class="sublease-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 21v-2a4 4 0 0 0-4-4H7a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
           Up to 4 guests (example)
         </span>
         <span class="inline-flex items-center gap-1">
-          <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M7 7h.01M7 11h.01M11 7h.01M11 11h.01M15 7h.01M15 11h.01M7 15h10M7 19h10"/></svg>
+          <svg class="sublease-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M7 7h.01M7 11h.01M11 7h.01M11 11h.01M15 7h.01M15 11h.01M7 15h10M7 19h10"/></svg>
           Upper level · lift access (example)
         </span>
       </div>
@@ -120,7 +88,7 @@
 
     <div id="lightbox" class="fixed inset-0 z-50 hidden flex items-center justify-center bg-black/80 p-6" role="dialog" aria-modal="true">
       <button type="button" id="lightbox-close" class="absolute top-6 right-6 rounded-full bg-white/90 p-2 text-neutral-900 shadow" aria-label="Close photo viewer">
-        <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m7 7 10 10"/><path d="m17 7-10 10"/></svg>
+        <svg class="sublease-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="m7 7 10 10"/><path d="m17 7-10 10"/></svg>
       </button>
       <div class="max-w-5xl w-full space-y-3">
         <img id="lightbox-image" src="https://picsum.photos/seed/subtpl1/1600/900" alt="Example interior photo 1" class="w-full rounded-3xl object-contain">
@@ -133,19 +101,19 @@
         <div class="card p-6">
           <div class="flex flex-wrap gap-3">
             <span class="chip">
-              <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 21v-2a4 4 0 0 0-4-4H7a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/></svg>
+              <svg class="sublease-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 21v-2a4 4 0 0 0-4-4H7a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/></svg>
               2BR + sofa-bed (example)
             </span>
             <span class="chip">
-              <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 1 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg>
+              <svg class="sublease-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 10c0 6-8 12-8 12S4 16 4 10a8 8 0 1 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg>
               Near shops &amp; parkland (placeholder)
             </span>
             <span class="chip">
-              <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12.55a11 11 0 0 1 14.08 0"/><path d="M1.42 9a16 16 0 0 1 21.16 0"/><path d="M8.53 16.11a6 6 0 0 1 6.95 0"/><circle cx="12" cy="20" r="1"/></svg>
+              <svg class="sublease-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12.55a11 11 0 0 1 14.08 0"/><path d="M1.42 9a16 16 0 0 1 21.16 0"/><path d="M8.53 16.11a6 6 0 0 1 6.95 0"/><circle cx="12" cy="20" r="1"/></svg>
               High-speed Wi‑Fi (example)
             </span>
             <span class="chip">
-              <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M7 7h.01M7 11h.01M11 7h.01M11 11h.01M15 7h.01M15 11h.01M7 15h10M7 19h10"/></svg>
+              <svg class="sublease-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M7 7h.01M7 11h.01M11 7h.01M11 11h.01M15 7h.01M15 11h.01M7 15h10M7 19h10"/></svg>
               Views + lift (example)
             </span>
           </div>
@@ -164,7 +132,7 @@
           <div class="space-y-6">
             <div>
               <h3 class="flex items-center gap-2 font-medium text-neutral-900">
-                <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 10h18"/><path d="M4 18V6"/><path d="M20 18V8a4 4 0 0 0-4-4h-6a4 4 0 0 0-4 4v10"/></svg>
+                <svg class="sublease-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 10h18"/><path d="M4 18V6"/><path d="M20 18V8a4 4 0 0 0-4-4h-6a4 4 0 0 0-4 4v10"/></svg>
                 Sleeping arrangements
               </h3>
               <ul class="mt-2 list-disc list-outside space-y-2 pl-5 text-neutral-700">
@@ -175,7 +143,7 @@
             </div>
             <div>
               <h3 class="flex items-center gap-2 font-medium text-neutral-900">
-                <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16"/><path d="M5 4v8"/><path d="M19 4v8"/><path d="M6 12h12"/><path d="M8 12v4"/><path d="M16 12v4"/><path d="M9 16h6"/></svg>
+                <svg class="sublease-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16"/><path d="M5 4v8"/><path d="M19 4v8"/><path d="M6 12h12"/><path d="M8 12v4"/><path d="M16 12v4"/><path d="M9 16h6"/></svg>
                 Bathroom
               </h3>
               <ul class="mt-2 list-disc list-outside space-y-2 pl-5 text-neutral-700">
@@ -185,7 +153,7 @@
             </div>
             <div>
               <h3 class="flex items-center gap-2 font-medium text-neutral-900">
-                <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 7h18"/><path d="M5 7v10"/><path d="M19 7v10"/><path d="M7 17h10"/><path d="M9 13h6"/></svg>
+                <svg class="sublease-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 7h18"/><path d="M5 7v10"/><path d="M19 7v10"/><path d="M7 17h10"/><path d="M9 13h6"/></svg>
                 Living &amp; work
               </h3>
               <ul class="mt-2 list-disc list-outside space-y-2 pl-5 text-neutral-700">
@@ -197,7 +165,7 @@
             </div>
             <div>
               <h3 class="flex items-center gap-2 font-medium text-neutral-900">
-                <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 12h18"/><path d="M3 6h18"/><path d="M3 18h18"/><circle cx="6" cy="6" r="1"/><circle cx="6" cy="12" r="1"/><circle cx="6" cy="18" r="1"/></svg>
+                <svg class="sublease-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 12h18"/><path d="M3 6h18"/><path d="M3 18h18"/><circle cx="6" cy="6" r="1"/><circle cx="6" cy="12" r="1"/><circle cx="6" cy="18" r="1"/></svg>
                 Amenities
               </h3>
               <ul class="mt-2 list-disc list-outside space-y-2 pl-5 text-neutral-700">
@@ -210,7 +178,7 @@
             </div>
             <div>
               <h3 class="flex items-center gap-2 font-medium text-neutral-900">
-                <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13S3 17 3 10a9 9 0 1 1 18 0Z"/><circle cx="12" cy="10" r="3"/></svg>
+                <svg class="sublease-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13S3 17 3 10a9 9 0 1 1 18 0Z"/><circle cx="12" cy="10" r="3"/></svg>
                 Neighbourhood
               </h3>
               <ul class="mt-2 list-disc list-outside space-y-2 pl-5 text-neutral-700">
@@ -233,19 +201,19 @@
 
           <div class="mt-4 grid grid-cols-2 gap-2 text-sm">
             <div class="rounded-2xl border border-neutral-300 px-3 py-2 flex items-center gap-2">
-              <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>
+              <svg class="sublease-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>
               Dates (example)
             </div>
             <div class="rounded-2xl border border-neutral-300 px-3 py-2 flex items-center gap-2">
-              <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 21v-2a4 4 0 0 0-4-4H7a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/></svg>
+              <svg class="sublease-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 21v-2a4 4 0 0 0-4-4H7a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/></svg>
               Guest cap (example)
             </div>
             <div class="rounded-2xl border border-neutral-300 px-3 py-2 flex items-center gap-2">
-              <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15V6a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v9M7 22h10M8 18h8"/></svg>
+              <svg class="sublease-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15V6a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v9M7 22h10M8 18h8"/></svg>
               Trams / buses (example)
             </div>
             <div class="rounded-2xl border border-neutral-300 px-3 py-2 flex items-center gap-2">
-              <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2v7"/><path d="M5 10h14l-1 9H6l-1-9Z"/><circle cx="6.5" cy="19.5" r="1.5"/><circle cx="17.5" cy="19.5" r="1.5"/></svg>
+              <svg class="sublease-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2v7"/><path d="M5 10h14l-1 9H6l-1-9Z"/><circle cx="6.5" cy="19.5" r="1.5"/><circle cx="17.5" cy="19.5" r="1.5"/></svg>
               Train distance (example)
             </div>
           </div>
@@ -379,5 +347,4 @@
       setPhoto(0);
     })();
   </script>
-</body>
-</html>
+</div>
