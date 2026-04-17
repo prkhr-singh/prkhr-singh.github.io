@@ -20,6 +20,7 @@ plugins:
   - jekyll-sitemap
 exclude:
   - AGENTS.md
+  - archive
 
 # Build settings
 markdown: kramdown
