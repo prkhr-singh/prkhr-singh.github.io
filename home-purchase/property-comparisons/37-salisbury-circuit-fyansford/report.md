@@ -10,12 +10,12 @@
 
 37 Salisbury looks like a newer compact Fyansford home with the right basic spec: 4 bedrooms, 2 bathrooms, one car space and about 368m2 land. The fourth bedroom gives better WFH flexibility than 36 Littlewood, but the one-car setup is the storage/parking tradeoff.
 
-If the current guide/agent expectation is near $780k-$820k, compare it directly with 14 Hardiman and check whether the one-car setup is acceptable. If two-car parking/storage matters, Hardiman has the cleaner functional profile.
+If the current guide/agent expectation is around $800k-$840k, compare it directly with 14 Hardiman and check whether the one-car setup is acceptable. If two-car parking/storage matters, Hardiman has the cleaner functional profile.
 
 **AI fit score:** 78 / 100  
 **Price-risk score:** 6 / 10  
-**Fair value estimate:** $780k-$815k for your criteria  
-**Likely transaction range:** $795k-$835k depending on campaign pressure  
+**Fair value estimate:** $790k-$825k for your criteria  
+**Likely transaction range:** $810k-$850k depending on campaign pressure  
 **Action:** Inspect if the one-car setup is acceptable and the fourth bedroom works as a genuine office.
 
 ## Property Snapshot
