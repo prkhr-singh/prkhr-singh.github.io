@@ -8,15 +8,15 @@
 
 ## Quick Verdict
 
-36 Littlewood is one of the better-fit homes in this batch on pure daily utility: modern construction, 4 bedrooms, 2 bathrooms, double garage, compact 280m2 land, and a guide around $770k-$810k. It is a more natural match than older large-block homes because it gives a real spare bedroom/WFH option without the yard burden.
+36 Littlewood is a well-presented newer Fyansford option: 3 bedrooms, 2 bathrooms, double garage, 389m2 land, and a guide around $770k-$810k. It is cleaner and lower-renovation than older large-block stock, but it does not solve the dedicated study/fourth-bedroom preference.
 
-The main restraint is value and site diligence. At the low $800s it competes well against 77 Prince of Wales and 11 Northbridge, but Fyansford is a quarry/estate/sloping-land context where drainage, retaining walls, slab movement and fill/rock conditions deserve a stricter building inspection than a flat suburban block.
+The main restraint is value and site diligence. At the high $700s to low $800s it competes well against 77 Prince of Wales and 11 Northbridge, but Fyansford is a quarry/estate/sloping-land context where drainage, retaining walls, slab movement and fill/rock conditions deserve a stricter building inspection than a flat suburban block.
 
-**AI fit score:** 80 / 100  
+**AI fit score:** 72 / 100  
 **Price-risk score:** 6 / 10  
-**Fair value estimate:** $785k-$820k  
-**Likely transaction range:** $790k-$840k  
-**Action:** Inspect if it is still available and if agent feedback suggests low-$800s is realistic. Do not chase above the low-$830s without a clean B&P and strong room feel.
+**Fair value estimate:** $760k-$800k  
+**Likely transaction range:** $775k-$825k  
+**Action:** Inspect if it is still available and if agent feedback suggests low-$800s is realistic. Do not chase above the low-$810s without a clean B&P and strong room feel.
 
 ## Property Snapshot
 
@@ -24,11 +24,11 @@ The main restraint is value and site diligence. At the low $800s it competes wel
 |---|---|
 | Address | 36 Littlewood Drive, Fyansford VIC 3218 |
 | Type | Freestanding house |
-| Beds / baths / cars | 4 / 2 / 2 |
-| Land | About 280m2 |
+| Beds / baths / cars | 3 / 2 / 2 |
+| Land | About 389m2 |
 | Build era | Property profile indicates built around 2020 |
 | Price guide | $770,000-$810,000 observed on current listing source |
-| Previous sale | Public profile indicates $258,500 in August 2019, likely land/pre-build transaction |
+| Previous sale | Public profile indicates $189,000 in 2014, likely land/early estate transaction |
 | Listing URL | https://www.domain.com.au/36-littlewood-drive-fyansford-vic-3218-2020684659 |
 
 ## Space And Layout
@@ -36,7 +36,7 @@ The main restraint is value and site diligence. At the low $800s it competes wel
 | Space | Read |
 |---|---|
 | Master | Likely modern master with ensuite/robe; inspect robe depth and ensuite elbow room. |
-| Secondary bedrooms | Four-bedroom format is the key advantage; one room can be a real office without sacrificing guest/child flexibility. |
+| Secondary bedrooms | Three-bedroom format is the main weakness; one room likely becomes the WFH room, reducing spare bedroom flexibility. |
 | Study / WFH | No separate study identified, but fourth bedroom should be credible. |
 | Living | Modern compact-lot open-plan likely; verify whether there is a second living zone or only one shared family area. |
 | Kitchen | Likely stronger than older Mill Park stock; confirm pantry type, fridge space and drawer storage. |
@@ -67,19 +67,19 @@ Practical implication: ask for builder details, occupancy certificate/final insp
 
 | Criterion | Score | Notes |
 |---|---:|---|
-| Study / work area | 8 | Fourth bedroom is credible WFH fallback. |
+| Study / work area | 4 | No dedicated study; bedroom 3 likely becomes the WFH room. |
 | Room spaciousness | 7 | Modern compact-lot homes can have adequate but not generous bedrooms; verify dimensions. |
 | Ensuite | 7 | Likely modern and serviceable; size unknown. |
 | Kitchen storage | 8 | Newer kitchen likely stronger than older stock; pantry depth to verify. |
 | Shared bathroom | 8 | 4-bed/2-bath layout should distribute well. |
-| Low maintenance | 9 | 280m2 block is excellent for low upkeep if outdoor space is useful. |
+| Low maintenance | 8 | 389m2 is still manageable, but check whether the outdoor area is useful rather than just leftover yard. |
 | Light / orientation | 7 | Unknown until floorplan/north arrow inspection; no assumed premium. |
-| Overall fit | 80 | Strong pre-visit match, subject to room feel and site diligence. |
+| Overall fit | 72 | Good home, but the 3-bed/no-study compromise limits fit. |
 
 ## Risks And Unknowns
 
 - Fyansford/old quarry estate context: require B&P focus on slab movement, cracking, retaining walls, stormwater, drainage and fill/rock interface.
-- Compact 280m2 land can mean tight setbacks, limited storage and heat transfer if windows/eaves are poor.
+- Compact-estate design can still mean tight setbacks, limited storage and heat transfer if windows/eaves are poor.
 - Verify whether it is a true freestanding title with no owners corporation, shared driveway or estate maintenance obligations.
 - No contract/Section 32 reviewed: check covenants, design controls, easements, building approvals and any developer restrictions.
 - Confirm NBN technology and mobile coverage for WFH.
@@ -87,4 +87,3 @@ Practical implication: ask for builder details, occupancy certificate/final insp
 ## Bottom Line
 
 Inspect if low-$800s remains plausible. This is a better lifestyle fit than most older yard-heavy homes, but pay only after a site-aware B&P confirms the Fyansford ground/drainage story is boring.
-

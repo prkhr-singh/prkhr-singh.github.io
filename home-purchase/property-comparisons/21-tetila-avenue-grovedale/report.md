@@ -8,14 +8,14 @@
 
 ## Quick Verdict
 
-21 Tetila is the affordability play in this batch. The current listing evidence points to a 3-bed/2-bath/2-car house around 336m2 with a guide around $650k-$690k. That is well inside the cap and gives more budget safety than Highton/Fyansford, but it is also a smaller 3-bed format without a proven study.
+21 Tetila is the affordability play in this batch. The current listing evidence points to a 3-bed/2-bath/2-car house around 349m2 with a guide around $679k-$719k. That is still well inside the cap and gives more budget safety than Highton/Fyansford, but it is also a smaller 3-bed format without a proven study.
 
 For your stated criteria, this should be treated as a budget fallback, not a primary upgrade. It needs to win through condition, low maintenance and price discipline. If it requires renovation or has poor light, the cheaper price is less useful because it does not solve the daily-use priorities.
 
-**AI fit score:** 66 / 100  
-**Price-risk score:** 8 / 10  
-**Fair value estimate:** $650k-$690k  
-**Likely transaction range:** $660k-$710k  
+**AI fit score:** 64 / 100  
+**Price-risk score:** 7 / 10  
+**Fair value estimate:** $675k-$710k  
+**Likely transaction range:** $690k-$730k  
 **Action:** Inspect only if you want a lower-debt Geelong option and are comfortable with a 3-bed/no-study compromise.
 
 ## Property Snapshot
@@ -25,8 +25,8 @@ For your stated criteria, this should be treated as a budget fallback, not a pri
 | Address | 21 Tetila Avenue, Grovedale VIC 3216 |
 | Type | House |
 | Beds / baths / cars | Current listing snippets indicate 3 / 2 / 2 |
-| Land | About 336m2 |
-| Price guide | $650,000-$690,000 observed on current listing source |
+| Land | About 349m2 |
+| Price guide | $679,000-$719,000 observed on current listing source |
 | Previous sale | Current pass did not find a high-confidence prior sale price; verify via Section 32/property profile before relying on history |
 | Listing URL | https://www.realestate.com.au/property-house-vic-grovedale-151164616 |
 
@@ -39,7 +39,7 @@ For your stated criteria, this should be treated as a budget fallback, not a pri
 | Study / WFH | No dedicated study identified; one bedroom would become office. |
 | Living | Must be checked for light and proportions. |
 | Kitchen | Price point suggests functional rather than premium; inspect pantry and storage. |
-| Outdoor | 336m2 should be manageable if mostly paved/compact lawn. |
+| Outdoor | 349m2 should be manageable if mostly paved/compact lawn. |
 
 ## Orientation
 
@@ -69,9 +69,9 @@ No reliable previous sale price was found in the quick public pass. That is not 
 | Ensuite | 6 | Ensuite exists; quality/size unknown. |
 | Kitchen storage | 6 | Needs physical check. |
 | Shared bathroom | 7 | Standard 3-bed/2-bath distribution. |
-| Low maintenance | 8 | 336m2 block is manageable. |
+| Low maintenance | 8 | 349m2 block is manageable. |
 | Light / orientation | 6 | Unknown. |
-| Overall fit | 66 | Budget fallback, not best-fit home. |
+| Overall fit | 64 | Budget fallback, not best-fit home. |
 
 ## Risks And Unknowns
 
@@ -83,4 +83,3 @@ No reliable previous sale price was found in the quick public pass. That is not 
 ## Bottom Line
 
 Good to keep as an affordability benchmark. Only inspect if the lower purchase price is strategically valuable and the home looks move-in-ready with acceptable light.
-

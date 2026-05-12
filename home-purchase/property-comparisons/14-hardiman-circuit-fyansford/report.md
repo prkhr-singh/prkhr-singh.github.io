@@ -8,11 +8,11 @@
 
 ## Quick Verdict
 
-14 Hardiman Circuit is a credible Fyansford candidate: newer 4-bed/2-bath/double-garage format, about 350m2 land, and a guide around $779k-$819k. It fits the household better than an older 1990s house because it is newer, more compact, and should reduce renovation burden.
+14 Hardiman Circuit is a credible Fyansford candidate: newer 4-bed/2-bath/double-garage format, about 315m2 land, and a guide around $779k-$819k. It fits the household better than an older 1990s house because it is newer, more compact, and should reduce renovation burden.
 
 It is not automatically a buy. The site is still in a Fyansford estate context where retaining/drainage/settlement checks matter, and the internal feel must prove that the compact footprint is not cramped. If it has one open-plan living zone only, the fourth bedroom becomes the work-from-home solution and there is less spare lifestyle flexibility.
 
-**AI fit score:** 82 / 100  
+**AI fit score:** 80 / 100  
 **Price-risk score:** 6 / 10  
 **Fair value estimate:** $795k-$830k  
 **Likely transaction range:** $805k-$850k  
@@ -25,10 +25,10 @@ It is not automatically a buy. The site is still in a Fyansford estate context w
 | Address | 14 Hardiman Circuit, Fyansford VIC 3218 |
 | Type | Freestanding house |
 | Beds / baths / cars | 4 / 2 / 2 |
-| Land | About 350m2 |
+| Land | About 315m2 |
 | Build era | Public profile indicates built around 2020 |
 | Price guide | $779,000-$819,000 observed from current listing source |
-| Previous sale | Public profile indicates about $210,000 in September 2018, likely land/pre-build transaction |
+| Previous sale | Public profile indicates about $174,000 in 2016, likely land/pre-build transaction |
 | Listing URL | https://www.domain.com.au/14-hardiman-circuit-fyansford-vic-3218-2020684237 |
 
 ## Space And Layout
@@ -40,7 +40,7 @@ It is not automatically a buy. The site is still in a Fyansford estate context w
 | Study / WFH | No dedicated study identified; fourth bedroom should be the office. |
 | Living | Needs in-person check. One open-plan zone is acceptable only if bright and well-proportioned. |
 | Kitchen | Likely modern; pantry depth and bench run are the main differentiators. |
-| Outdoor | 350m2 land is a better middle ground than very tight 280m2 blocks, but confirm it is low-maintenance rather than awkward leftover lawn. |
+| Outdoor | 315m2 land is compact and should be low-maintenance, but confirm it is usable rather than awkward leftover lawn. |
 
 ## Orientation
 
@@ -66,13 +66,13 @@ The previous sale around $210k in 2018 appears to be land before the current dwe
 | Criterion | Score | Notes |
 |---|---:|---|
 | Study / work area | 8 | Fourth bedroom can carry WFH. |
-| Room spaciousness | 8 | 350m2 lot gives slightly better odds of workable room proportions than the tightest estate blocks. |
+| Room spaciousness | 7 | 315m2 compact-lot format may still work, but room proportions need checking. |
 | Ensuite | 7 | Modern but size not proven. |
 | Kitchen storage | 8 | Likely good; WIP/pantry depth to verify. |
 | Shared bathroom | 8 | Should work well for secondary bedrooms. |
-| Low maintenance | 8 | Compact enough, but outdoor usability must be checked. |
+| Low maintenance | 9 | Compact enough, but outdoor usability must be checked. |
 | Light / orientation | 7 | Unknown from current evidence. |
-| Overall fit | 82 | Strong candidate if inspection confirms light and proportions. |
+| Overall fit | 80 | Strong candidate if inspection confirms light and proportions. |
 
 ## Risks And Unknowns
 
@@ -85,4 +85,3 @@ The previous sale around $210k in 2018 appears to be land before the current dwe
 ## Bottom Line
 
 This is one of the most rational inspections in the batch. The fair buy case is a low-$800s newer 4-bed home with clean B&P, good living light and no title complexity. Above the mid-$830s, be stricter because Highton alternatives and 77 Prince value start to compete.
-
