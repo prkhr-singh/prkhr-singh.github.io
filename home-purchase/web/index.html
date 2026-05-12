@@ -1,0 +1,646 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex, nofollow" />
+    <title>Home Purchase Dashboard</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Melbourne Home Purchase</p>
+        <h1>Buying Command Center</h1>
+      </div>
+      <nav aria-label="Workspace">
+        <button class="workspace-tab active" type="button" data-view="today" data-default-section="agenda">Today</button>
+        <button class="workspace-tab" type="button" data-view="compare" data-default-section="properties">Compare</button>
+        <button class="workspace-tab" type="button" data-view="money" data-default-section="bidding">Money</button>
+        <button class="workspace-tab" type="button" data-view="criteria" data-default-section="criteria">Criteria</button>
+        <button class="workspace-tab" type="button" data-view="research" data-default-section="suburbs">Research</button>
+        <button class="workspace-tab" type="button" data-view="docs" data-default-section="reader">Docs</button>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Property Comparison</p>
+          <h2>Compare shortlisted homes before and during inspections.</h2>
+          <p>
+            Use this as the mobile-friendly view for scores, space, reports, floorplans,
+            photos, and inspection criteria. The comparison matrix remains the source of truth.
+          </p>
+        </div>
+        <div class="decision-panel" aria-label="Key buying constraints">
+          <div>
+            <span>Hard cap</span>
+            <strong>$950k FHBG</strong>
+          </div>
+          <div>
+            <span>Minimum</span>
+            <strong>3 bed / 2 bath</strong>
+          </div>
+          <div>
+            <span>Property type</span>
+            <strong>Freestanding</strong>
+          </div>
+          <div>
+            <span>Preferred feel</span>
+            <strong>Newer, compact land</strong>
+          </div>
+        </div>
+      </section>
+
+      <section class="quick-grid" aria-label="Quick navigation">
+        <a class="quick-card" href="#agenda">
+          <span>01</span>
+          <strong>Run today</strong>
+          <small>Inspection agenda, stop-by-stop checklists, and debrief prompts.</small>
+        </a>
+        <a class="quick-card" href="#compare">
+          <span>02</span>
+          <strong>Compare properties</strong>
+          <small>Scores, space bands, photos, floorplans, reports, and next actions.</small>
+        </a>
+        <a class="quick-card" href="#bidding">
+          <span>03</span>
+          <strong>Check money</strong>
+          <small>Bid-price repayment scenarios and first-home buyer benefit logic.</small>
+        </a>
+        <a class="quick-card" href="#criteria">
+          <span>04</span>
+          <strong>Inspect well</strong>
+          <small>Hard rejects, daily-life fit, storage, light, outdoor, and legal checks.</small>
+        </a>
+        <a class="quick-card" href="#reader">
+          <span>05</span>
+          <strong>Read documents</strong>
+          <small>Open Markdown reports and source CSVs in a browser-friendly layout.</small>
+        </a>
+      </section>
+
+      <section id="agenda" class="section-band agenda-section" data-workspace="today">
+        <div class="section-heading">
+          <p class="eyebrow">Saturday 9 May 2026</p>
+          <h2>Day agenda</h2>
+          <p class="section-intro">Three inspections in Geelong, then Armstrong Estate display village. Use this on the day — tap each stop for the checklist.</p>
+        </div>
+
+        <div class="agenda-list">
+
+          <div class="agenda-stop agenda-travel">
+            <div class="agenda-time">8:00am</div>
+            <div class="agenda-body">
+              <strong>Depart Melbourne</strong>
+              <p>~75 min via Princes Freeway. Pack food before leaving. Bring tape measure (study nook at Northbridge is 2.0 × 3.0m). Charge phone — record video in every room.</p>
+            </div>
+          </div>
+
+          <div class="agenda-stop agenda-explore">
+            <div class="agenda-time">9:15am</div>
+            <div class="agenda-body">
+              <strong>Geelong CBD + Waterfront</strong>
+              <p>Walk the main street and bay. Is it alive on a Saturday or flat? Would you spend a weekend here? One coffee if convenient — no need to detour.</p>
+            </div>
+          </div>
+
+          <div class="agenda-stop agenda-travel">
+            <div class="agenda-time">10:15am</div>
+            <div class="agenda-body">
+              <strong>Drive to Belmont</strong>
+              <p>~10 min. Park near Waurnvale Drive.</p>
+            </div>
+          </div>
+
+          <div class="agenda-stop agenda-inspect">
+            <div class="agenda-time">10:30am</div>
+            <div class="agenda-body">
+              <strong>44 Waurnvale Drive, Belmont</strong>
+              <p class="agenda-tag">Inspection · listed $779–799k · single-storey · 653m²</p>
+              <details>
+                <summary>Checklist</summary>
+                <ul>
+                  <li>Ask: why is Simon King selling? (Bought Sept 2025, renovated Jan 2026 — 8-month flip)</li>
+                  <li>Ask: was there an independent B&P beyond the 137B?</li>
+                  <li>Bathrooms: soft spots, grout cracks, smell near new tiles — waterproofing risk</li>
+                  <li>Dark finishes check — black tiles = red flag</li>
+                  <li>Highway noise: can you hear M1 from inside? From the garden?</li>
+                  <li>Natural light: single-storey risk — how does it actually feel?</li>
+                  <li>Yard: 653m² — what's the usable outdoor portion?</li>
+                  <li>Video: all rooms, both bathrooms, outdoor, street frontage</li>
+                </ul>
+                <p class="agenda-log-prompt">Log before leaving: feel/10, would you live here, price you'd pay, go/watch/reject.</p>
+              </details>
+            </div>
+          </div>
+
+          <div class="agenda-stop agenda-explore">
+            <div class="agenda-time">11:15am</div>
+            <div class="agenda-body">
+              <strong>Belmont Neighbourhood Walk</strong>
+              <p>Park the car. Walk 2–3 streets. Check: bus stop, nearest supermarket distance, park quality, street character. Both Waurnvale and Arbour Grove are Belmont — this covers both.</p>
+            </div>
+          </div>
+
+          <div class="agenda-stop agenda-inspect">
+            <div class="agenda-time">12:15pm</div>
+            <div class="agenda-body">
+              <strong>23 Arbour Grove, Belmont</strong>
+              <p class="agenda-tag">Inspection · listed $780k · developer-built 2023 · narrow lot ~11m · compelling only below $750k</p>
+              <details>
+                <summary>Checklist</summary>
+                <ul>
+                  <li>Ask: any other unsold lots? Has the price dropped?</li>
+                  <li>Ask: has anyone ever occupied this? (FHOG eligibility — never-occupied new home under $750k = $10k grant)</li>
+                  <li>Ask: is NBN / telephone connected? Can it be connected before settlement?</li>
+                  <li>Narrow lot feel: is the living area cramped or workable?</li>
+                  <li>How close are neighbouring properties?</li>
+                  <li>Storage adequacy in narrow footprint</li>
+                  <li>Kitchen quality vs Buick Crescent</li>
+                  <li>Natural light — narrow lot risk</li>
+                </ul>
+                <p class="agenda-note"><strong>Price discipline:</strong> Not compelling at $780k. Below $750k it becomes interesting. Don't let in-person feel push you above threshold.</p>
+                <p class="agenda-log-prompt">Log before leaving: feel vs Buick Crescent, price you'd consider, go/watch/reject.</p>
+              </details>
+            </div>
+          </div>
+
+          <div class="agenda-stop agenda-travel">
+            <div class="agenda-time">~12:55pm</div>
+            <div class="agenda-body">
+              <strong>Drive to Highton</strong>
+              <p>~10 min.</p>
+            </div>
+          </div>
+
+          <div class="agenda-stop agenda-inspect">
+            <div class="agenda-time">1:00pm</div>
+            <div class="agenda-body">
+              <strong>10 Northbridge Road, Highton</strong>
+              <p class="agenda-tag">Inspection · 4 bed / 2 bath · double-storey · owned 12 years · elevated site · auction contract</p>
+              <details>
+                <summary>Checklist</summary>
+                <ul>
+                  <li>Courtyard: covered alfresco or open? (Contract confirms outdoor area — not specified.) Year-round usability depends on this.</li>
+                  <li>Study nook: measure it — 2.0 × 3.0m = 6m². Is it a workable real WFH desk + monitor setup?</li>
+                  <li>M1 noise: go upstairs, open windows, listen. Constant or occasional?</li>
+                  <li>Views from elevated site — what can you actually see?</li>
+                  <li>Double-storey flow: bedrooms up / living down — does staircase feel intrusive?</li>
+                  <li>Kitchen and bathrooms condition after 12 years — what needs updating?</li>
+                  <li>Ask: SC3b wrong-address certificate — "confirmed clerical only?" (Flag for conveyancer)</li>
+                  <li>Ask: any permits or works done in last 5 years?</li>
+                </ul>
+                <p class="agenda-log-prompt">Log before leaving: feel vs Buick Crescent, study nook verdict (workable/marginal/no), courtyard verdict (covered/open), noise verdict, price you'd consider, go/watch/reject.</p>
+              </details>
+            </div>
+          </div>
+
+          <div class="agenda-stop agenda-explore">
+            <div class="agenda-time">~2:00pm</div>
+            <div class="agenda-body">
+              <strong>Highton Neighbourhood Walk (brief)</strong>
+              <p>Walk North Bridge Road and one or two surrounding streets. Note Highton Village nearby. No walkable train — V/Line requires driving to Geelong Station.</p>
+            </div>
+          </div>
+
+          <div class="agenda-stop agenda-travel">
+            <div class="agenda-time">~2:20pm</div>
+            <div class="agenda-body">
+              <strong>Drive to Mount Duneed — Armstrong Estate Display Village</strong>
+              <p>~20 min. Address: <strong>Sovereign Drive, Mount Duneed VIC 3217</strong>. Park once, walk between display homes. Most close at 5pm.</p>
+            </div>
+          </div>
+
+          <div class="agenda-stop agenda-display">
+            <div class="agenda-time">2:20–5:00pm</div>
+            <div class="agenda-body">
+              <strong>Armstrong Estate Display Village</strong>
+              <p class="agenda-tag">Research visit · 4–5 builders · 25–30 min each · do not let any one consultant take more than 30 min</p>
+              <details>
+                <summary>Priority stops + 8 questions to ask at every one</summary>
+                <ol>
+                  <li><strong>Metricon</strong> — 235–237 Sovereign Drive. Largest national builder. The gap between their plaque price and what you're standing in is the lesson.</li>
+                  <li><strong>Hamlan Homes</strong> — Johanna 274 (Armstrong area). Geelong's largest local builder. Most honest on local timelines and trades.</li>
+                  <li><strong>Carlisle Homes</strong> (if open). You reviewed the Inspire Series floor plans — does it feel as good in person?</li>
+                  <li><strong>Fairhaven Homes</strong> — Armstrong, Sovereign Drive. Mid-tier, award-winning. Compare included finishes.</li>
+                  <li><strong>JG King Homes</strong> — 222 Sovereign Drive. Steel frame. Regional focus.</li>
+                </ol>
+                <p><strong>Ask at every stop:</strong></p>
+                <ul>
+                  <li>"What is the all-in price to build exactly what I'm standing in, on a standard flat lot?" (base ≠ display)</li>
+                  <li>"What's included vs what's an upgrade in this display?" (Get the upgrade price list)</li>
+                  <li>"What land do you have available nearby, and what's the total H&L all-in?"</li>
+                  <li>"What's the realistic timeline from land contract to keys?" (Honest answer: 18–24 months)</li>
+                  <li>"Is this a fixed-price contract, or cost-plus?"</li>
+                  <li>"Are you FHBG-participating? Is the land priced under $750k for FHOG?" (Regional FHOG = $20,000, not $10k)</li>
+                  <li>"What's your current wait for a build commencement slot?"</li>
+                  <li>"If I'm renting while I build, what's a realistic carrying cost?" (~18–24 months at $2,000–2,500/month = $36–60k)</li>
+                </ul>
+                <p class="agenda-note"><strong>Remember:</strong> H&L is deprioritised. This visit calibrates numbers only. Wife's commute to Fitzroy/Bundoora during PhD doesn't change regardless of how good the display feels. Armstrong Creek → Fitzroy by V/Line is ~90 min each way.</p>
+              </details>
+            </div>
+          </div>
+
+          <div class="agenda-stop agenda-travel">
+            <div class="agenda-time">~5:00pm</div>
+            <div class="agenda-body">
+              <strong>Debrief + Drive Home</strong>
+              <p>Before leaving the display village: confirm price range seen (base vs all-in), realistic build timeline, 1 builder worth a follow-up call (if any), whether H&L feels closer or further. Compare all three inspected properties against Buick Crescent on the drive home.</p>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="agenda-footer">
+          <button class="reader-button" type="button" data-doc="../agenda-9-may-2026.md" data-title="Full Day Agenda">
+            Open full agenda document
+          </button>
+          <button class="reader-button" type="button" data-doc="../property-comparisons/inspection-candidates-2026-05-09.md" data-title="9 May Add-On Candidates">
+            Open add-on candidates
+          </button>
+        </div>
+      </section>
+
+      <section id="properties" class="section-band" data-workspace="compare">
+        <div class="section-heading">
+          <p class="eyebrow">Properties</p>
+          <h2>All compared properties</h2>
+          <p class="section-intro">
+            Jump between properties quickly. Cards below combine score, space, room bands,
+            legal watchpoints, photos, floorplans, AI reports, and in-person notes.
+          </p>
+        </div>
+        <div class="property-nav" id="propertyNav" aria-label="Property navigation"></div>
+      </section>
+
+      <section id="criteria" class="section-band" data-workspace="criteria">
+        <div class="section-heading">
+          <p class="eyebrow">Criteria</p>
+          <h2>Inspection-ready checklist</h2>
+          <p class="section-intro">
+            This is arranged for walking through a property on a phone: first reject obvious
+            mismatches, then check the spaces that matter most for daily life.
+          </p>
+        </div>
+        <div class="criteria-grid" id="criteriaGrid"></div>
+        <div class="criteria-footer">
+          <button class="reader-button" type="button" data-doc="../criteria.md" data-title="Full Criteria Document">
+            Read full criteria document
+          </button>
+        </div>
+      </section>
+
+      <section id="market" class="section-band" data-workspace="money">
+        <div class="section-heading">
+          <p class="eyebrow">Market Insights</p>
+          <h2>Pricing and auction discipline</h2>
+        </div>
+        <div class="metric-grid">
+          <article class="metric">
+            <span>Observed comp</span>
+            <strong>$997k</strong>
+            <small>31 St Hellier sold 10.8% above the $900k guide top.</small>
+          </article>
+          <article class="metric">
+            <span>Buick guide</span>
+            <strong>$740k-$790k</strong>
+            <small>Treat the guide top as the floor, not the ceiling.</small>
+          </article>
+          <article class="metric">
+            <span>Expected clearance</span>
+            <strong>$869k-$885k</strong>
+            <small>Using the current 10% auction rule.</small>
+          </article>
+          <article class="metric">
+            <span>Offer strategy</span>
+            <strong>$820k-$840k</strong>
+            <small>Only after Section 32, broker path, and inspection readiness.</small>
+          </article>
+        </div>
+        <p class="source-note">
+          Source: local market notes. Raw finance and action-history files are intentionally not
+          included in the publishable dashboard.
+        </p>
+      </section>
+
+      <section id="bidding" class="section-band" data-workspace="money">
+        <div class="section-heading">
+          <p class="eyebrow">Auction Reference</p>
+          <h2>Repayment scenarios by bid price</h2>
+          <p class="section-intro">
+            Every $10,000 increase in your bid costs $1,100 more upfront and ~$57/month more in
+            repayments. Use this table on auction day. Rates from Luke Camilleri (6.07%, pre-hike)
+            and Aussie/MyState Bank (5.84%, FHBG participation to be confirmed Monday).
+          </p>
+        </div>
+
+        <div class="metric-grid">
+          <article class="metric">
+            <span>Per $10k bid</span>
+            <strong>+$1,100 upfront</strong>
+            <small>$500 more deposit + $600 more stamp duty (VIC 6% above $130k).</small>
+          </article>
+          <article class="metric">
+            <span>Per $10k at 5.84%</span>
+            <strong>+$56/month</strong>
+            <small>MyState Bank best case — confirm FHBG eligibility Monday.</small>
+          </article>
+          <article class="metric">
+            <span>Per $10k at 6.07%</span>
+            <strong>+$57/month</strong>
+            <small>Luke's pre-hike rate. May rise if RBA hikes again before settlement.</small>
+          </article>
+          <article class="metric">
+            <span>Auction day deposit</span>
+            <strong>10% on hammer</strong>
+            <small>Not 5%. At $850k = $85,000 cash required immediately on signing.</small>
+          </article>
+        </div>
+
+        <div class="bid-table-wrap">
+          <table class="bid-table">
+            <thead>
+              <tr>
+                <th>Price</th>
+                <th>Deposit (5%)</th>
+                <th>Stamp Duty</th>
+                <th>Total Upfront</th>
+                <th>Loan (95%)</th>
+                <th>@5.84%/mo</th>
+                <th>@6.07%/mo</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr><td>$740k</td><td>$37,000</td><td>$39,470</td><td>$80,470</td><td>$703,000</td><td>$4,145</td><td>$4,247</td></tr>
+              <tr><td>$750k</td><td>$37,500</td><td>$40,070</td><td>$81,570</td><td>$712,500</td><td>$4,200</td><td>$4,304</td></tr>
+              <tr><td>$760k</td><td>$38,000</td><td>$40,670</td><td>$82,670</td><td>$722,000</td><td>$4,256</td><td>$4,361</td></tr>
+              <tr><td>$770k</td><td>$38,500</td><td>$41,270</td><td>$83,770</td><td>$731,500</td><td>$4,312</td><td>$4,419</td></tr>
+              <tr><td>$780k</td><td>$39,000</td><td>$41,870</td><td>$84,870</td><td>$741,000</td><td>$4,368</td><td>$4,476</td></tr>
+              <tr><td>$790k</td><td>$39,500</td><td>$42,470</td><td>$85,970</td><td>$750,500</td><td>$4,424</td><td>$4,534</td></tr>
+              <tr><td>$800k</td><td>$40,000</td><td>$43,070</td><td>$87,070</td><td>$760,000</td><td>$4,480</td><td>$4,591</td></tr>
+              <tr><td>$810k</td><td>$40,500</td><td>$43,670</td><td>$88,170</td><td>$769,500</td><td>$4,536</td><td>$4,648</td></tr>
+              <tr><td>$820k</td><td>$41,000</td><td>$44,270</td><td>$89,270</td><td>$779,000</td><td>$4,592</td><td>$4,706</td></tr>
+              <tr data-key="ceiling"><td>$830k ← comfort ceiling</td><td>$41,500</td><td>$44,870</td><td>$90,370</td><td>$788,500</td><td>$4,648</td><td>$4,763</td></tr>
+              <tr><td>$840k</td><td>$42,000</td><td>$45,470</td><td>$91,470</td><td>$798,000</td><td>$4,704</td><td>$4,821</td></tr>
+              <tr data-key="target"><td>$850k ← current target</td><td>$42,500</td><td>$46,070</td><td>$92,570</td><td>$807,500</td><td>$4,760</td><td>$4,878</td></tr>
+              <tr><td>$860k</td><td>$43,000</td><td>$46,670</td><td>$93,670</td><td>$817,000</td><td>$4,816</td><td>$4,935</td></tr>
+              <tr><td>$870k</td><td>$43,500</td><td>$47,270</td><td>$94,770</td><td>$826,500</td><td>$4,872</td><td>$4,993</td></tr>
+              <tr><td>$880k</td><td>$44,000</td><td>$47,870</td><td>$95,870</td><td>$836,000</td><td>$4,928</td><td>$5,050</td></tr>
+              <tr data-key="floor"><td>$890k ← upgrade floor</td><td>$44,500</td><td>$48,470</td><td>$96,970</td><td>$845,500</td><td>$4,984</td><td>$5,108</td></tr>
+              <tr><td>$900k</td><td>$45,000</td><td>$49,070</td><td>$98,070</td><td>$855,000</td><td>$5,040</td><td>$5,165</td></tr>
+              <tr><td>$910k</td><td>$45,500</td><td>$49,670</td><td>$99,170</td><td>$864,500</td><td>$5,096</td><td>$5,222</td></tr>
+              <tr><td>$920k</td><td>$46,000</td><td>$50,270</td><td>$100,270</td><td>$874,000</td><td>$5,152</td><td>$5,280</td></tr>
+              <tr><td>$930k</td><td>$46,500</td><td>$50,870</td><td>$101,370</td><td>$883,500</td><td>$5,209</td><td>$5,337</td></tr>
+              <tr><td>$940k</td><td>$47,000</td><td>$51,470</td><td>$102,470</td><td>$893,000</td><td>$5,265</td><td>$5,394</td></tr>
+              <tr data-key="cap"><td>$950k ⚠ FHBG cap</td><td>$47,500</td><td>$52,070</td><td>$103,570</td><td>$902,500</td><td>$5,321</td><td>$5,452</td></tr>
+            </tbody>
+          </table>
+        </div>
+
+        <p class="source-note">
+          Stamp duty uses the VIC standard rate ($2,870 + 6% above $130k). Above $950k,
+          FHBG is lost entirely and LMI may apply, so do not exceed the cap. Rates were
+          confirmed 8 May 2026 by Luke Camilleri (Mortgage Choice) and an Aussie.com.au broker call.
+        </p>
+      </section>
+
+      <section id="suburbs" class="section-band" data-workspace="research">
+        <div class="section-heading row-heading">
+          <div>
+            <p class="eyebrow">Suburbs</p>
+            <h2>Where to look first</h2>
+          </div>
+          <div class="segmented" role="tablist" aria-label="Suburb priority filter">
+            <button class="active" data-filter="all" type="button">All</button>
+            <button data-filter="newer" type="button">Newer Homes</button>
+            <button data-filter="land" type="button">Land Value</button>
+            <button data-filter="package" type="button">H&L</button>
+          </div>
+        </div>
+        <div class="suburb-grid" id="suburbGrid"></div>
+      </section>
+
+      <section id="compare" class="section-band" data-workspace="compare">
+        <div class="section-heading row-heading">
+          <div>
+            <p class="eyebrow">Compare</p>
+            <h2>Property scorecards</h2>
+          </div>
+          <div class="segmented" role="tablist" aria-label="Comparison sort">
+            <button class="active" data-sort="overall_fit_score" type="button">Overall</button>
+            <button data-sort="study_score" type="button">Study</button>
+            <button data-sort="room_spaciousness_score" type="button">Rooms</button>
+            <button data-sort="kitchen_storage_score" type="button">Kitchen</button>
+            <button data-sort="price_risk_score" type="button">Price</button>
+            <button data-sort="low_maintenance_score" type="button">Low Maintenance</button>
+          </div>
+        </div>
+
+        <div class="comparison-summary" id="comparisonSummary"></div>
+        <div class="comparison-grid" id="comparisonGrid" aria-live="polite"></div>
+
+        <div class="comparison-table-wrap">
+          <table class="comparison-table">
+            <thead>
+              <tr>
+                <th>Property</th>
+                <th>Price</th>
+                <th>Market Range</th>
+                <th>Sale Method</th>
+                <th>Price Risk</th>
+                <th>Personal</th>
+                <th>AI</th>
+                <th>Legal</th>
+                <th>Ceiling</th>
+                <th>Land</th>
+                <th>Built Area</th>
+                <th>Master</th>
+                <th>Work Zone</th>
+                <th>Study</th>
+                <th>Rooms</th>
+                <th>Ensuite</th>
+                <th>Kitchen</th>
+                <th>Shared Bath</th>
+                <th>Outdoor</th>
+                <th>Light</th>
+              </tr>
+            </thead>
+            <tbody id="comparisonTableBody"></tbody>
+          </table>
+        </div>
+
+        <p class="source-note">
+          Data source: <a href="../property-comparisons/comparison-matrix.csv">comparison matrix CSV</a>.
+          Space source: <a href="../property-comparisons/space-analysis.md">space analysis</a> and
+          <a href="../property-comparisons/space-matrix.csv">space matrix CSV</a>.
+          Add future properties there and refresh this page.
+        </p>
+      </section>
+
+      <section id="reader" class="section-band" data-workspace="docs">
+        <div class="section-heading">
+          <p class="eyebrow">Reports</p>
+          <h2>Browser-friendly document reader</h2>
+          <p class="section-intro">
+            Property reports, in-person notes, criteria, and space analysis open here as rendered
+            pages, so you do not have to read raw Markdown in the browser.
+          </p>
+        </div>
+        <div class="reader-actions">
+          <button class="reader-button" type="button" data-doc="../suburb-analytics.md" data-title="Suburb Analytics">
+            Suburb analytics
+          </button>
+          <button class="reader-button" type="button" data-doc="../suburbs.md" data-title="Suburb Research">
+            Suburb research
+          </button>
+          <button class="reader-button" type="button" data-doc="../property-comparisons/space-analysis.md" data-title="Space Analysis">
+            Space analysis
+          </button>
+          <button class="reader-button" type="button" data-doc="../criteria.md" data-title="Criteria">
+            Criteria
+          </button>
+          <button class="reader-button" type="button" data-doc="../agenda-9-may-2026.md" data-title="9 May Agenda">
+            9 May agenda
+          </button>
+          <button class="reader-button" type="button" data-doc="../property-comparisons/inspection-candidates-2026-05-09.md" data-title="9 May Add-On Candidates">
+            Add-on candidates
+          </button>
+          <button class="reader-button" type="button" data-doc="../market-insights.md" data-title="Market Insights">
+            Market insights
+          </button>
+          <a class="reader-button link-button" href="../property-comparisons/comparison-matrix.csv">Comparison CSV</a>
+          <a class="reader-button link-button" href="../property-comparisons/space-matrix.csv">Space CSV</a>
+        </div>
+        <article class="markdown-reader" id="markdownReader" tabindex="-1">
+          <div class="reader-empty">
+            Select any report, in-person note, criteria document, or space analysis link.
+          </div>
+        </article>
+      </section>
+
+      <section id="finance" class="section-band" data-workspace="money">
+        <div class="section-heading">
+          <p class="eyebrow">First Home Buyer Benefits</p>
+          <h2>What applies — and what to ask the agent</h2>
+          <p class="section-intro">
+            Use this at inspections. Which benefits apply depends on property type, price, and
+            whether it has ever been occupied. Ask these questions on the spot.
+          </p>
+        </div>
+
+        <div class="metric-grid">
+          <article class="metric">
+            <span>FHBG — always use</span>
+            <strong>5% deposit, no LMI</strong>
+            <small>Federal scheme. Cap $950k for Melbourne &amp; Geelong. No income limit (removed Oct 2025). Formally apply through Luke before auction.</small>
+          </article>
+          <article class="metric">
+            <span>FHOG — new homes only</span>
+            <strong>$10,000 grant</strong>
+            <small>Victoria only. Price ≤$750k. Property must never have been occupied or sold as a residence. Not applicable to established homes above $750k.</small>
+          </article>
+          <article class="metric">
+            <span>Off-the-plan concession</span>
+            <strong>Stamp duty on land only</strong>
+            <small>Strata only (unit/apartment/townhouse with common property). Contract signed BEFORE completion. Extended to Oct 2026. Saves ~$25–45k.</small>
+          </article>
+          <article class="metric">
+            <span>FHB stamp duty exemption</span>
+            <strong>$0 or reduced duty</strong>
+            <small>Full exemption ≤$600k. Partial concession $600k–$750k. Nothing above $750k. Not relevant at our budget.</small>
+          </article>
+          <article class="metric">
+            <span>H&amp;L packages</span>
+            <strong>$0 stamp duty</strong>
+            <small>Duty on land only. FHB on land ≤$600k = $0. Build costs never dutiable. Deprioritised: 12–18 months rent during construction absorbs saving.</small>
+          </article>
+        </div>
+
+        <div class="two-col" style="margin-top:32px">
+          <article class="card">
+            <h3>Questions to ask the agent</h3>
+            <ul class="check-list">
+              <li><strong>"Has this property ever been occupied or sold as a residence?"</strong> If no → new home → FHOG ($10k) may apply if price ≤$750k.</li>
+              <li><strong>"Is this a direct sale from the developer, or a private resale?"</strong> Developer sale of completed new build = new home for FHOG. Full stamp duty still applies if already built.</li>
+              <li><strong>"Was this sold off-the-plan, or already completed when listed?"</strong> Off-the-plan + strata = stamp duty concession. Already built = no concession.</li>
+              <li><strong>"Is there a body corporate / owners corporation?"</strong> Yes = strata = off-the-plan concession potentially eligible.</li>
+              <li><strong>"What is the price guide / expected range?"</strong> Above $950k = FHBG cap breached. Under $750k new home = check FHOG.</li>
+            </ul>
+          </article>
+          <article class="card">
+            <h3>Quick eligibility logic</h3>
+            <ul class="check-list">
+              <li><strong>Any property ≤$950k (Melb/Geelong):</strong> FHBG applies. 5% deposit, zero LMI. Always use.</li>
+              <li><strong>New home, never occupied, price ≤$750k:</strong> Also get FHOG ($10k). Ask "has anyone ever lived here?"</li>
+              <li><strong>Strata + signed before completion:</strong> Off-the-plan concession → duty on land value only. Saves ~$25–45k.</li>
+              <li><strong>Completed developer sale (e.g. 23 Arbour Grove):</strong> Full stamp duty. FHOG may apply if ≤$750k and never occupied. Off-the-plan concession does NOT apply.</li>
+              <li><strong>Established home above $750k (standard scenario):</strong> FHBG only. No other concessions.</li>
+            </ul>
+          </article>
+        </div>
+
+        <p class="source-note">
+          Schemes verified May 2026. FHBG cap $950k for Melbourne and Geelong from 1 Oct 2025.
+          Off-the-plan concession extended to 20 Oct 2026. Confirm specifics with Luke or conveyancer before signing.
+        </p>
+      </section>
+
+      <section id="actions" class="section-band" data-workspace="criteria">
+        <div class="two-col">
+          <article class="card">
+            <h3>Before Offer or Auction</h3>
+            <ul class="check-list">
+              <li>Have conveyancer review Section 32 before any serious offer.</li>
+              <li>Commission building/pest after legal review if no red flags appear.</li>
+              <li>Request FHSS determination before signing any contract.</li>
+              <li>Write down the walk-away price before auction day.</li>
+            </ul>
+          </article>
+          <article class="card">
+            <h3>Source Data</h3>
+            <p>
+              Property medians, suburb notes, and market notes live outside the published
+              comparison view. Keep private funding and personal cash-position files out of GitHub Pages.
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <section id="tracker" class="section-band secondary-section" data-workspace="docs">
+        <div class="section-heading">
+          <p class="eyebrow">Tracker</p>
+          <h2>Daily listing monitor</h2>
+        </div>
+        <div class="tracker-panel">
+          <div>
+            <h3>Email alert ingestion</h3>
+            <p>
+              Domain API access is blocked, so the practical workflow is saved-search emails from
+              Domain and REA. Once the first real alert lands, build the email parser against that
+              exact format and turn each listing into a comparison row/report.
+            </p>
+            <div class="command-box">
+              <code>cd tracker && python3 tracker.py</code>
+            </div>
+          </div>
+          <div class="alert">
+            <strong>Current workaround</strong>
+            <p>
+              Keep saved-search alerts running. When the first notification arrives, use it as the
+              fixture for <code>tracker/email_tracker.py</code> instead of relying on portal APIs.
+            </p>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <span>Local dashboard built from files in this folder.</span>
+      <a href="../">Back to folder</a>
+    </footer>
+
+    <script src="./app-2026-05-09-suburb-analytics.js"></script>
+  </body>
+</html>
