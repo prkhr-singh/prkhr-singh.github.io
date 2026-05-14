@@ -12,8 +12,8 @@
 
 **AI fit score:** 74 / 100  
 **Price-risk score:** 5 / 10  
-**Fair value estimate:** $835k-$875k  
-**Likely transaction range:** $850k-$900k  
+**Fair value estimate:** $865k-$905k  
+**Likely transaction range:** $880k-$925k  
 **Action:** Inspect only if the vendor is realistic around the mid-$800s. Above high-$800s, it needs excellent condition and minimal road/noise concern to compete.
 
 ## Property Snapshot
@@ -23,8 +23,8 @@
 | Address | 134 Roslyn Road, Belmont VIC 3216 |
 | Type | Freestanding house |
 | Beds / baths / cars | 3 / 2 / 2 |
-| Land | Large established block; exact land size to confirm from listing/Section 32 |
-| Guide | Current snippets show about $875k / high-$800s campaign evidence |
+| Land | Approx. 850m2 |
+| Guide | $880,000-$920,000 |
 | Sale method | Private/agent campaign |
 | Listing URL | https://www.domain.com.au/134-roslyn-road-belmont-vic-3216-2020610124 |
 
@@ -55,7 +55,7 @@ No clean previous sale/renovation story was confirmed in this pass. Treat it as 
 
 ## Price Lens
 
-The value case depends on buying the extra space at a discount to renovated/newer stock. At mid-$800s it is defensible if condition is good. At high-$800s to $900k, it starts competing with cleaner Highton/Fyansford options and the larger block/road exposure need a discount, not a premium.
+The value case depends on buying the extra space at a discount to renovated/newer stock. At high-$800s it is defensible if condition is good. Above low-$900s, it starts competing with cleaner Highton/Fyansford options and the larger block/road exposure need a discount, not a premium.
 
 ## Comparable Set
 

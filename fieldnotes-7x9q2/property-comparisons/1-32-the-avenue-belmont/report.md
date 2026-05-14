@@ -13,8 +13,8 @@
 **AI fit score:** 44 / 100 after hard-filter penalty  
 **Underlying layout score if type were acceptable:** about 82 / 100  
 **Price-risk score:** 4 / 10  
-**Fair value estimate:** $790k-$830k if title risk is acceptable to another buyer  
-**Likely transaction range:** $810k-$860k  
+**Fair value estimate:** $760k-$820k if title risk is acceptable to another buyer  
+**Likely transaction range:** $780k-$840k  
 **Action:** Reject unless the brief changes to accept unit/townhouse/owners-corporation compromises and a conveyancer confirms genuinely independent title/insurance/services.
 
 ## Property Snapshot
@@ -25,7 +25,7 @@
 | Type | Unit/townhouse-style X/Y address; title must be checked |
 | Beds / baths / cars | 3 / 2 / 2 |
 | Land | 429m2 shown on floorplan |
-| Guide | Listing snippets show about $830k / private campaign evidence |
+| Guide | $760,000-$820,000 |
 | Sale method | Private/agent campaign |
 | Listing URL | https://www.domain.com.au/1-32-the-avenue-belmont-vic-3216-2020716020 |
 

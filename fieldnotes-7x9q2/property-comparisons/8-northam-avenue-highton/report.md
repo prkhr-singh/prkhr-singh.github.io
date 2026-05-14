@@ -1,6 +1,6 @@
 # Property Comparison Record: 8 Northam Avenue, Highton VIC 3216
 
-**Status:** WATCH WITH STATUS UNCERTAINTY - good light/outdoor potential, but listing/history evidence conflicts  
+**Status:** WATCH - good light/outdoor potential, but only if auction expectations stay inside the cap  
 **Assessment layer:** AI pre-visit assessment from Domain listing/profile evidence and downloaded floorplan/media  
 **Prepared:** 14 May 2026  
 **Primary sources:** Domain listing `https://www.domain.com.au/8-northam-avenue-highton-vic-3216-2020708182`; Property.com.au profile snippets; current search snippets observed 14 May 2026  
@@ -8,13 +8,13 @@
 
 ## Quick Verdict
 
-8 Northam is a roomy single-level Highton house with a large 685m2 block, covered outdoor entertaining, a garage/workshop, and a carport. The complication is status and pricing: current listing snippets show an $800k-$880k campaign, while public profile evidence also points to a May 2024 sale around $1.1m. That conflict must be resolved before any serious price view.
+8 Northam is a roomy single-level Highton house with a large 685m2 block, covered outdoor entertaining, a garage/workshop, and a carport. The live property evidence is now cleaner: current profile data shows a $800k-$880k campaign, 650m2 land, and an April 2024 sale at $840k. The key question is not status; it is whether the auction stays close to guide.
 
 **AI fit score:** 71 / 100  
 **Price-risk score:** 4 / 10  
-**Fair value estimate:** $810k-$870k if the current guide is real; reassess if recent sale/vendor expectations are anchored near $1.1m  
-**Likely transaction range:** $840k-$920k low-confidence  
-**Action:** Ask agent whether it is genuinely active and why it is being resold/repriced. Inspect only if expectations are inside the FHBG cap and the vendor is not anchored to the 2024 transaction.
+**Fair value estimate:** $820k-$875k  
+**Likely transaction range:** $840k-$900k  
+**Action:** Inspect only if auction feedback suggests the campaign can stay below high-$800s. The recent $840k sale is useful discipline: do not pay a large premium without visible improvement.
 
 ## Property Snapshot
 
@@ -23,9 +23,9 @@
 | Address | 8 Northam Avenue, Highton VIC 3216 |
 | Type | Freestanding house |
 | Beds / baths / cars | 3 / 2 / 2 |
-| Land | Approx. 685m2 |
+| Land | Approx. 650m2 |
 | Guide | Current snippets show $800k-$880k; status needs confirmation |
-| Previous sale | Public profile snippets indicate sold around May 2024 for about $1.1m |
+| Previous sale | Public profile evidence indicates sold 30 Apr 2024 for about $840k |
 | Listing URL | https://www.domain.com.au/8-northam-avenue-highton-vic-3216-2020708182 |
 
 ## Space And Layout
@@ -51,13 +51,11 @@ The floorplan north arrow points roughly to the upper-right. The covered enterta
 
 ## Previous Sale And Renovation Signals
 
-The public profile conflict is important. A reported 2024 sale near $1.1m followed by a current guide near $800k-$880k may mean the current listing evidence is stale, the profile is mismatched, or there is a vendor/story issue. Do not infer distress or value without agent confirmation.
-
-Ask directly: is the property active, who owns it, why selling, what changed since the 2024 sale, and whether any renovation/repair work occurred after that transaction.
+Public profile evidence indicates a 30 Apr 2024 sale around $840k, followed by rental listing evidence in May 2024. That points to a short hold/investor-style history rather than a long owner-occupier story. Ask why it is selling again, whether any works were completed since purchase, and whether the current campaign is vendor-discounted or simply testing the auction market.
 
 ## Price Lens
 
-If genuinely available in the low-to-mid $800s, it is a reasonable Highton established-house option. Above high-$800s, the no-study/large-yard compromise becomes harder to justify against cleaner compact options. If vendor expectations are near the 2024 sale level, it fails the FHBG cap.
+If genuinely available in the low-to-mid $800s, it is a reasonable Highton established-house option. Above high-$800s, the no-study/large-yard compromise becomes harder to justify against cleaner compact options, especially given the recent $840k sale anchor.
 
 ## Comparable Set
 
@@ -83,11 +81,11 @@ If genuinely available in the low-to-mid $800s, it is a reasonable Highton estab
 
 ## Risks And Unknowns
 
-- Listing status and previous-sale conflict must be resolved first.
+- Short hold/investor history: understand vendor motivation and any works since the 2024 purchase.
 - Large established block: drainage, retaining edges, tree roots, fences and garden burden.
 - Older-build risks: roof, wet areas, services, insulation, windows, and possible asbestos-era materials depending on build year.
 - Verify title, easements, covenants, and any permits for garage/workshop, covered entertaining and carport.
 
 ## Bottom Line
 
-Good enough to clarify with the agent, not good enough to chase blind. The house has comfortable rooms and a useful covered outdoor zone, but the no-study compromise and status/price uncertainty keep it below the stronger shortlist candidates.
+Good enough to clarify with the agent, not good enough to chase blind. The house has comfortable rooms and a useful covered outdoor zone, but the no-study compromise and auction price risk keep it below the stronger shortlist candidates.

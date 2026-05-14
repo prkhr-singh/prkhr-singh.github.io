@@ -12,9 +12,9 @@
 
 **AI fit score:** 80 / 100  
 **Price-risk score:** 4 / 10  
-**Fair value estimate:** $860k-$905k  
-**Likely transaction range:** $880k-$930k  
-**Action:** Inspect if price feedback is below low-$900s. Do not chase toward the FHBG cap unless B&P, title, light and maintenance burden are all unusually clean.
+**Fair value estimate:** $880k-$920k  
+**Likely transaction range:** $900k-$950k  
+**Action:** Inspect if price feedback stays near the lower half of guide. Do not chase toward the FHBG cap unless B&P, title, light and maintenance burden are all unusually clean.
 
 ## Property Snapshot
 
@@ -23,8 +23,8 @@
 | Address | 3 Cambra Road, Belmont VIC 3216 |
 | Type | Freestanding house |
 | Beds / baths / cars | 3 / 2 / 2 |
-| Land | Large established block; exact land size to confirm |
-| Guide | Domain/listing evidence shows high-$800s / about $895k campaign |
+| Land | Approx. 604m2 |
+| Guide | $879,000-$949,000 listing evidence |
 | Sale method | Private/agent campaign |
 | Listing URL | https://www.domain.com.au/3-cambra-road-belmont-vic-3216-2020823932 |
 
@@ -57,7 +57,7 @@ No clear previous sale or renovation chronology was confirmed in this pass. The 
 
 This is likely the strongest lifestyle fit among the six, but also one of the most price-sensitive because it may transact close to the FHBG ceiling. It should not be bought just because it feels charming: the large land, older construction and potential detached-office compliance/comfort issues need a discount versus a clean modern house.
 
-Offer discipline: good inspection supports high-$800s; low-$900s only with clean B&P and strong title/permit answers; walk away if bidding approaches $950k unless it is clearly the standout after in-person comparison.
+Offer discipline: good inspection supports low-$900s; walk away if bidding approaches $950k unless it is clearly the standout after in-person comparison and contract/B&P are clean.
 
 ## Comparable Set
 
