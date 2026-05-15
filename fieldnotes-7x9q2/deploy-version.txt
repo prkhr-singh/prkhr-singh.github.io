@@ -1,0 +1,2 @@
+fieldnotes-7x9q2 deploy version: 2026-05-15-saturday-agenda
+commit: 6a02cfd plus redeploy marker
