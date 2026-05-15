@@ -111,7 +111,30 @@ const criteriaGrid = document.querySelector("#criteriaGrid");
 const markdownReader = document.querySelector("#markdownReader");
 const workspaceTabs = document.querySelectorAll("[data-view]");
 const workspaceSections = document.querySelectorAll("[data-workspace]");
-const DATA_VERSION = "2026-05-09-two-props";
+const DATA_VERSION = "2026-05-15-saturday-agenda";
+const SATURDAY_AGENDA_SLUGS = [
+  "18-landes-avenue-highton",
+  "158-grantham-drive-highton",
+  "8-northam-avenue-highton",
+  "2-ashford-court-belmont",
+  "134-roslyn-road-belmont",
+  "3-cambra-road-belmont",
+  "37-peter-street-grovedale",
+  "37-salisbury-circuit-fyansford",
+  "1-32-the-avenue-belmont",
+  "43-waurnvale-drive-belmont",
+];
+const WEBP_ONLY_ASSET_SLUGS = new Set([
+  "1-32-the-avenue-belmont",
+  "2-ashford-court-belmont",
+  "3-cambra-road-belmont",
+  "8-northam-avenue-highton",
+  "134-roslyn-road-belmont",
+]);
+const NO_REPUBLISHED_MEDIA_SLUGS = new Set([
+  "37-peter-street-grovedale",
+  "43-waurnvale-drive-belmont",
+]);
 
 const sectionWorkspace = Object.fromEntries(
   [...workspaceSections].map((section) => [section.id, section.dataset.workspace]),
@@ -638,10 +661,32 @@ function cacheBust(path) {
   return `${path}${separator}v=${DATA_VERSION}`;
 }
 
-function floorplanAssetPath(property) {
-  return property.slug === "10-northbridge-road-highton"
-    ? `../property-comparisons/${property.slug}/assets/floorplan.webp`
-    : `../property-comparisons/${property.slug}/assets/floorplan.jpg`;
+function isArchivedProperty(property) {
+  const status = String(property.status || "").toLowerCase();
+  return status.includes("archived") || status.includes("sold");
+}
+
+function isCurrentComparisonProperty(property) {
+  return SATURDAY_AGENDA_SLUGS.includes(property.slug) || !isArchivedProperty(property);
+}
+
+function propertyMedia(property) {
+  if (NO_REPUBLISHED_MEDIA_SLUGS.has(property.slug)) {
+    return { photo: "", contactSheet: "", floorplan: "" };
+  }
+
+  const base = `../property-comparisons/${property.slug}/assets`;
+  const ext = WEBP_ONLY_ASSET_SLUGS.has(property.slug) ? "webp" : "jpg";
+  const floorplanExt =
+    WEBP_ONLY_ASSET_SLUGS.has(property.slug) || property.slug === "10-northbridge-road-highton"
+      ? "webp"
+      : "jpg";
+
+  return {
+    photo: `${base}/photo-01.${ext}`,
+    contactSheet: `${base}/contact-sheet.jpg`,
+    floorplan: `${base}/floorplan.${floorplanExt}`,
+  };
 }
 
 function renderComparisonSummary(properties) {
@@ -730,9 +775,7 @@ function renderComparisons(properties, sortKey = "overall_fit_score") {
     .map((property, index) => {
       const inPerson = personalScore(property);
       const aiScore = numberValue(property.overall_fit_score);
-      const imagePath = `../property-comparisons/${property.slug}/assets/photo-01.jpg`;
-      const contactSheetPath = `../property-comparisons/${property.slug}/assets/contact-sheet.jpg`;
-      const floorplanPath = floorplanAssetPath(property);
+      const media = propertyMedia(property);
       const reportPath = `../property-comparisons/${property.slug}/report.md`;
       const inPersonPath = `../property-comparisons/${property.slug}/in-person.md`;
       const status = escapeHtml(property.status);
@@ -745,8 +788,12 @@ function renderComparisons(properties, sortKey = "overall_fit_score") {
 
       return `
         <article class="property-card" id="${slugId(property.slug)}">
-          <div class="property-image-wrap">
-            <img src="${imagePath}" alt="${escapeHtml(property.address)}" loading="lazy" onerror="this.closest('.property-image-wrap').classList.add('image-missing'); this.remove();" />
+          <div class="property-image-wrap${media.photo ? "" : " image-missing"}">
+            ${
+              media.photo
+                ? `<img src="${media.photo}" alt="${escapeHtml(property.address)}" loading="lazy" onerror="this.closest('.property-image-wrap').classList.add('image-missing'); this.remove();" />`
+                : ""
+            }
             <span class="rank">#${index + 1}</span>
             <span class="overall-badge ${scoreClass(inPerson)}">${inPerson}/100</span>
             <span class="status-badge ${statusClass(property.status)}">${status}</span>
@@ -760,8 +807,8 @@ function renderComparisons(properties, sortKey = "overall_fit_score") {
               <div class="report-links">
                 <button class="text-link button-link" type="button" data-doc="${reportPath}" data-title="${escapeHtml(property.address)} — AI report">AI report</button>
                 <button class="text-link button-link" type="button" data-doc="${inPersonPath}" data-title="${escapeHtml(property.address)} — In-person notes">In-person</button>
-                <a class="text-link" href="${contactSheetPath}">Photos</a>
-                <a class="text-link" href="${floorplanPath}">Floorplan</a>
+                ${media.contactSheet ? `<a class="text-link" href="${media.contactSheet}">Photos</a>` : ""}
+                ${media.floorplan ? `<a class="text-link" href="${media.floorplan}">Floorplan</a>` : ""}
               </div>
             </div>
             <div class="score-pair">
@@ -915,15 +962,17 @@ async function loadComparisons() {
     space: spaceBySlug[property.slug],
   }));
 
-  renderPropertyNav(comparisons);
-  renderComparisonSummary(comparisons);
-  renderComparisons(comparisons);
+  const currentComparisons = comparisons.filter(isCurrentComparisonProperty);
+
+  renderPropertyNav(currentComparisons);
+  renderComparisonSummary(currentComparisons);
+  renderComparisons(currentComparisons);
 
   sortButtons.forEach((button) => {
     button.addEventListener("click", () => {
       sortButtons.forEach((item) => item.classList.remove("active"));
       button.classList.add("active");
-      renderComparisons(comparisons, button.dataset.sort);
+      renderComparisons(currentComparisons, button.dataset.sort);
     });
   });
 }
