@@ -6,6 +6,14 @@ permalink: /ai/waurnvale-interiors/
 
 # Waurnvale Interiors
 
+<p class="experiment-date">July 2026</p>
+
+<div class="experiment-artifact">
+  <span class="experiment-artifact-label">VISUAL WALKTHROUGH · 6 PAGES</span>
+  <a href="{{ '/assets/ai/walkthroughs/waurnvale-interiors.pdf' | relative_url }}" target="_blank" rel="noopener">See the room change across design directions →</a>
+  <p>The same living room shown as Modern Indian, Japandi and Garden House, with the broader experiment around it.</p>
+</div>
+
 I could tell when I liked a sofa in a shop. I had almost no idea whether I would like it next to a particular rug, under a particular light, in a room I had only seen empty.
 
 When I started looking at interiors for our new home, I had zero intuition for how one colour would go with another. I did not know what shape or size of rug would work with a sofa, whether individually nice pieces would look coherent together, or how their proportions would translate into my actual space.

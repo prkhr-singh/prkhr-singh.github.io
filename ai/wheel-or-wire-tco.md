@@ -6,6 +6,14 @@ permalink: /ai/wheel-or-wire-tco/
 
 # Wheel or Wire: Total Cost of Ownership
 
+<p class="experiment-date">August 2026</p>
+
+<div class="experiment-artifact">
+  <span class="experiment-artifact-label">VISUAL WALKTHROUGH · 5 PAGES</span>
+  <a href="{{ '/assets/ai/walkthroughs/wheel-or-wire-tco.pdf' | relative_url }}" target="_blank" rel="noopener">Open the editable model and result as a PDF →</a>
+  <p>A short walkthrough of the product comparison, editable assumptions and five-year total-cost result.</p>
+</div>
+
 A car's price is obvious. Its cost is not.
 
 I am analytical enough that buying a car immediately produced a list of conditions. When does a used car make more sense than a new one? At what mileage does petrol become more expensive than an EV? How much should I value a better finance offer, a longer warranty, lower servicing costs or an uncertain resale value?

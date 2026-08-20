@@ -103,6 +103,47 @@ ul.social-media-list li {
 }
 
 /* AI experiment case studies */
+.experiment-date {
+  margin: 1.8rem 0 0.2rem;
+  color: #777;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.experiment-date + h2 {
+  margin-top: 0;
+}
+
+.experiment-artifact {
+  margin: 0.55rem 0 1.6rem;
+  padding: 1rem 1.1rem;
+  border-left: 4px solid #26745b;
+  border-radius: 0 8px 8px 0;
+  background: #f3f6f3;
+}
+
+.experiment-artifact-label {
+  display: block;
+  margin-bottom: 0.25rem;
+  color: #68706c;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+}
+
+.experiment-artifact a {
+  font-size: 1.05rem;
+  font-weight: 700;
+}
+
+.experiment-artifact p {
+  margin: 0.35rem 0 0;
+  color: #5f6662;
+  font-size: 0.9rem;
+}
+
 .experiment-snapshot {
   margin: 1.5rem 0;
   padding: 1.4rem;

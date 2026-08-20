@@ -6,6 +6,14 @@ permalink: /ai/home-buying-command-center/
 
 # Home Buying Command Center
 
+<p class="experiment-date">May 2026</p>
+
+<div class="experiment-artifact">
+  <span class="experiment-artifact-label">VISUAL WALKTHROUGH · 5 PAGES</span>
+  <a href="{{ '/assets/ai/walkthroughs/home-buying-command-center.pdf' | relative_url }}" target="_blank" rel="noopener">Open the working interface as a PDF →</a>
+  <p>A curated view of the comparison workspace, inspection checklist and suburb research.</p>
+</div>
+
 Buying a home looked like one decision. It was actually a collection of decisions that refused to stay in their own lanes.
 
 I started with very little understanding of the trade-offs. House, apartment or townhouse? Inner suburb or outer suburb? What does one suburb's density, economic profile or future supply mean compared with another? How does a place actually feel once I visit it? What can be inferred from the contract of sale? What is a reasonable valuation when previous sales and the current market are both moving targets?
