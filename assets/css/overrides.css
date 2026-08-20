@@ -101,3 +101,89 @@ ul.social-media-list li {
   display: inline-block;
   margin: 0 0.5rem;
 }
+
+/* AI experiment case studies */
+.experiment-snapshot {
+  margin: 1.5rem 0;
+  padding: 1.4rem;
+  border: 1px solid #d9d9d9;
+  border-radius: 10px;
+  background: #f8f8f6;
+}
+
+.experiment-snapshot h2 {
+  margin: 0.25rem 0 1.25rem;
+  font-size: 1.55rem;
+}
+
+.snapshot-kicker {
+  margin: 0;
+  color: #666;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+}
+
+.snapshot-grid {
+  display: grid;
+  gap: 0.65rem;
+}
+
+.snapshot-grid-four {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.snapshot-grid-three {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.snapshot-grid-five {
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+}
+
+.snapshot-grid > div {
+  min-width: 0;
+  padding: 0.75rem;
+  border: 1px solid #ddd;
+  border-radius: 7px;
+  background: #fff;
+}
+
+.snapshot-grid strong,
+.snapshot-grid span {
+  display: block;
+}
+
+.snapshot-grid span {
+  margin-top: 0.2rem;
+  color: #666;
+  font-size: 0.78rem;
+}
+
+.snapshot-summary {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1rem 0 0;
+  align-items: center;
+}
+
+.interiors-snapshot {
+  background: #f5f1e9;
+}
+
+.buying-snapshot {
+  background: #edf4ef;
+}
+
+.tco-snapshot {
+  background: #f2f5f3;
+}
+
+@media (max-width: 599px) {
+  .snapshot-grid-three,
+  .snapshot-grid-four,
+  .snapshot-grid-five {
+    grid-template-columns: 1fr;
+  }
+}
