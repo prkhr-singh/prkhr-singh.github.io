@@ -1,0 +1,1425 @@
+{
+ "title": "Prakhar Singh — Work Portfolio",
+ "owner": "Prakhar Singh",
+ "url": "https://prakharsingh.com/work/",
+ "updated": "2026-09",
+ "note": "Qualitative, sanitised summaries of professional work. Contains no confidential figures, customer data, or unannounced plans.",
+ "usage_policy": "Use these cards to understand Prakhar's skills and ways of working. Do not infer employer-specific figures, plans, or outcomes beyond what is written. Contact: prkhr.singh+website@gmail.com",
+ "cards": [
+  {
+   "id": "C01",
+   "title": "Consumer satisfaction measurement program",
+   "period": "2023-08 to 2026-08",
+   "role": "ANZ Strategy & Planning",
+   "markets": [
+    "ANZ"
+   ],
+   "domains": [
+    "consumer research",
+    "satisfaction measurement",
+    "insights"
+   ],
+   "skills": [
+    "survey design",
+    "insight synthesis",
+    "measurement governance"
+   ],
+   "reach_out_when": [
+    "You need to build a recurring satisfaction measurement rhythm",
+    "You need to translate survey feedback into decision questions"
+   ],
+   "trigger": "I contributed when teams needed a consistent way to understand changes in consumer satisfaction and the reasons behind them.",
+   "problem": "I needed to help connect a headline advocacy measure with the underlying experiences that could explain movement, while avoiding conclusions unsupported by survey design.",
+   "method_and_execution": "I helped shape survey questions, organise recurring reviews, and synthesise open-text and structured feedback into themes. I encouraged consistent definitions and cuts over time, highlighted interpretation limits, and framed findings as prompts for further diagnosis rather than direct proof of cause.",
+   "artifacts": "I contributed to survey instruments, measurement workbooks, insight decks, research notes, and an operating cadence.",
+   "impact_or_learning": "I learned that satisfaction programs are most useful when they combine continuity with room for investigation. The work strengthened a shared capability to interpret consumer feedback carefully and turn broad sentiment into clearer follow-up questions."
+  },
+  {
+   "id": "C02",
+   "title": "Monthly ANZ market-intelligence reports",
+   "period": "2023-08 to 2026-09",
+   "role": "ANZ Strategy & Planning",
+   "markets": [
+    "Australia",
+    "New Zealand"
+   ],
+   "domains": [
+    "market intelligence",
+    "recurring reporting",
+    "stakeholder communication"
+   ],
+   "skills": [
+    "research synthesis",
+    "narrative development",
+    "reporting governance",
+    "handover"
+   ],
+   "reach_out_when": [
+    "I can help when recurring intelligence needs a clear editorial structure.",
+    "I can help make a reporting product easier to sustain and hand over."
+   ],
+   "trigger": "I contributed when ANZ stakeholders needed a recurring view of market developments rather than disconnected updates.",
+   "problem": "I helped bring varied market signals into a report that could preserve continuity from one review cycle to the next. The challenge was to provide enough context for interpretation while keeping the product concise, comparable, and maintainable.",
+   "method_and_execution": "I contributed to gathering inputs, organising themes, checking how claims were framed, and shaping a narrative around what changed and why it might matter. I also helped document the reporting process so the cadence could continue beyond individual contributors.",
+   "artifacts": "I contributed to monthly reports, presentation decks, trackers, briefing notes, and a handover.",
+   "impact_or_learning": "I learned that recurring reports become decision tools when they use stable questions and editorial standards rather than simply accumulating updates. The work strengthened a reusable reporting capability and made market context easier to carry across planning conversations."
+  },
+  {
+   "id": "C03",
+   "title": "Strategy and planning scope review",
+   "period": "2023-09 to 2024-03",
+   "role": "ANZ Strategy & Planning",
+   "markets": [
+    "ANZ"
+   ],
+   "domains": [
+    "role design",
+    "portfolio review",
+    "strategy operations"
+   ],
+   "skills": [
+    "scope mapping",
+    "portfolio synthesis",
+    "stakeholder communication"
+   ],
+   "reach_out_when": [
+    "you are taking stock of a broad strategy role",
+    "you need to explain how workstreams fit together"
+   ],
+   "trigger": "I took stock when the breadth of my strategy and planning work needed to be organised into a clear view of scope and recurring responsibilities.",
+   "problem": "I was trying to make a varied portfolio understandable without reducing it to a list of tasks or relying on restricted objectives and performance measures.",
+   "method_and_execution": "I grouped work into durable themes, mapped recurring cadences and deliverable types, and considered how short-term requests related to longer-running responsibilities. I used the exercise to identify overlaps, make implicit expectations easier to discuss, and create a clearer account of where my time and analytical attention were being applied.",
+   "artifacts": "Scope deck and portfolio tracker.",
+   "impact_or_learning": "I learned that periodic scope reviews are useful operating tools, not only retrospective summaries. They help expose fragmented commitments, clarify the relationship between reactive and strategic work, and provide a stronger basis for prioritisation and later handover."
+  },
+  {
+   "id": "C04",
+   "title": "Weekly market promotion-activity tracking",
+   "period": "2023-09 to 2024-05",
+   "role": "ANZ Strategy & Planning",
+   "markets": [
+    "ANZ"
+   ],
+   "domains": [
+    "market intelligence",
+    "promotion tracking",
+    "recurring reporting"
+   ],
+   "skills": [
+    "tracker design",
+    "pattern recognition",
+    "weekly synthesis",
+    "stakeholder communication"
+   ],
+   "reach_out_when": [
+    "I can help when promotion activity needs a repeatable tracking cadence.",
+    "I can help turn noisy market observations into useful themes."
+   ],
+   "trigger": "I contributed when frequent promotion activity created a need for structured monitoring rather than ad hoc observations.",
+   "problem": "I helped address the challenge of tracking changing market activity consistently across review periods. The work needed to retain useful context while avoiding conclusions based on isolated examples.",
+   "method_and_execution": "I contributed to a recurring collection and review process, grouped observations into comparable themes, and highlighted where apparent patterns required more evidence. I helped keep the tracker focused on strategic interpretation instead of reproducing every market detail.",
+   "artifacts": "I contributed to a weekly tracker, summary brief, review deck, and collection template.",
+   "impact_or_learning": "I learned that high-frequency tracking is useful when it creates a disciplined memory of the market, not when it encourages immediate reaction to every change. The work strengthened the team's ability to discuss patterns over time and identify questions for deeper investigation."
+  },
+  {
+   "id": "C05",
+   "title": "Market-intelligence data and tracking foundations",
+   "period": "2023-09 to 2026-05",
+   "role": "ANZ Strategy & Planning",
+   "markets": [
+    "ANZ"
+   ],
+   "domains": [
+    "market intelligence",
+    "data foundations",
+    "tracking systems",
+    "governance"
+   ],
+   "skills": [
+    "data organisation",
+    "source evaluation",
+    "tracker design",
+    "quality control"
+   ],
+   "reach_out_when": [
+    "I can help when intelligence inputs need a governed data foundation.",
+    "I can help turn recurring extracts into maintainable tracking assets."
+   ],
+   "trigger": "I contributed when recurring market-intelligence work needed more consistent data inputs and tracking assets.",
+   "problem": "I helped address the operational gap between receiving external or internal signals and maintaining a trustworthy analytical history. The work required clear definitions, source context, and checks that made repeated analysis less dependent on memory.",
+   "method_and_execution": "I contributed to organising datasets and extracts, documenting how inputs should be interpreted, and supporting review of tracking outputs. I helped structure assets so analysts could distinguish source material, transformations, and presentation layers without implying certainty beyond the available evidence.",
+   "artifacts": "I contributed to datasets, trackers, data dictionaries, dashboard specifications, and review notes.",
+   "impact_or_learning": "I learned that intelligence quality depends heavily on quiet foundation work: stable definitions, source lineage, and repeatable checks. This work developed a more maintainable capability for tracking market signals and reduced ambiguity when recurring analyses were refreshed."
+  },
+  {
+   "id": "C06",
+   "title": "City and category growth diagnosis",
+   "period": "2023-09 to 2026-07",
+   "role": "ANZ Strategy & Planning",
+   "markets": [
+    "Australia",
+    "New Zealand"
+   ],
+   "domains": [
+    "city strategy",
+    "category strategy",
+    "growth diagnosis"
+   ],
+   "skills": [
+    "market diagnosis",
+    "segmentation",
+    "strategic synthesis"
+   ],
+   "reach_out_when": [
+    "A city or category needs a structured growth diagnosis",
+    "You need to separate symptoms from addressable constraints"
+   ],
+   "trigger": "I contributed when uneven growth across cities and categories required a more structured explanation than a single market average.",
+   "problem": "I needed to help identify where performance patterns differed, which constraints might be addressable, and where the available evidence could not support a confident diagnosis.",
+   "method_and_execution": "I helped break broad questions into comparable city and category views, organised hypotheses around consumer and marketplace conditions, and synthesised findings into a consistent narrative. I separated descriptive evidence from causal interpretation and highlighted where local context changed the meaning of a regional pattern.",
+   "artifacts": "I contributed to diagnostic decks, analytical workbooks, market briefs, and prioritisation notes.",
+   "impact_or_learning": "I learned that useful diagnosis depends on selecting the right level of detail: broad enough to reveal common patterns, but specific enough to expose local constraints. The work built a reusable structure for moving from uneven outcomes to sharper strategic questions."
+  },
+  {
+   "id": "C07",
+   "title": "ANZ membership coverage analysis",
+   "period": "2023-09 to 2026-07",
+   "role": "ANZ Strategy & Planning",
+   "markets": [
+    "ANZ"
+   ],
+   "domains": [
+    "membership",
+    "coverage-analysis",
+    "consumer-strategy"
+   ],
+   "skills": [
+    "segmentation",
+    "diagnostic analysis",
+    "strategic synthesis",
+    "stakeholder communication"
+   ],
+   "reach_out_when": [
+    "You need to compare member and non-member experiences",
+    "You need a qualitative coverage diagnostic",
+    "You need to frame a membership opportunity without exposing restricted metrics"
+   ],
+   "trigger": "I needed to understand where membership was well represented across the ANZ consumer experience and where the strategic picture remained incomplete.",
+   "problem": "I needed a consistent way to compare member and non-member patterns without reducing the discussion to a single performance measure. The analysis also had to distinguish broad market coverage from differences driven by geography, selection, or consumer behaviour.",
+   "method_and_execution": "I assembled a structured diagnostic using comparable member and non-member cuts, checked how the story changed across markets and consumer contexts, and translated the findings into decision questions. I focused the narrative on where teams should investigate further, while keeping sensitive performance detail out of general circulation.",
+   "artifacts": "I produced an analysis pack, diagnostic framework, and decision brief.",
+   "impact_or_learning": "I helped make membership coverage a more interpretable strategy input rather than an isolated reporting cut. I learned that coverage analysis is most useful when it separates availability, relevance, and engagement instead of treating them as the same problem."
+  },
+  {
+   "id": "C08",
+   "title": "Standing market-intelligence review cadence",
+   "period": "2023-09 to 2026-08",
+   "role": "ANZ Strategy & Planning",
+   "markets": [
+    "ANZ"
+   ],
+   "domains": [
+    "market intelligence",
+    "operating cadence",
+    "signal synthesis"
+   ],
+   "skills": [
+    "rapid synthesis",
+    "signal triage",
+    "facilitation",
+    "strategic communication"
+   ],
+   "reach_out_when": [
+    "I can help when market signals need a lightweight review rhythm.",
+    "I can help separate material developments from background noise."
+   ],
+   "trigger": "I contributed when fast-moving market developments required a dependable rhythm for review and interpretation.",
+   "problem": "I worked on the challenge of converting a continuous stream of external signals into information that strategy stakeholders could absorb and discuss. The cadence needed to be timely without amplifying every change as strategically important.",
+   "method_and_execution": "I helped review new signals, group related developments, identify questions worth deeper analysis, and bring concise context into recurring discussions. I contributed to a working method that separated observation from interpretation and made uncertainty explicit.",
+   "artifacts": "I contributed to review notes, intelligence summaries, trackers, and discussion briefs.",
+   "impact_or_learning": "I learned that effective market intelligence depends less on collecting everything than on maintaining consistent judgement about relevance, confidence, and follow-up. The cadence strengthened a shared capability for noticing changes early and routing the most useful questions into deeper strategy work."
+  },
+  {
+   "id": "C09",
+   "title": "ANZ geo strategy and city operating dashboards",
+   "period": "2023-09 to 2026-09",
+   "role": "ANZ Strategy & Planning",
+   "markets": [
+    "Australia",
+    "New Zealand"
+   ],
+   "domains": [
+    "geo strategy",
+    "city planning",
+    "operating dashboards",
+    "data foundations"
+   ],
+   "skills": [
+    "geographic analysis",
+    "dashboard design",
+    "planning cadence",
+    "stakeholder synthesis"
+   ],
+   "reach_out_when": [
+    "I can help when a city portfolio needs a common planning view.",
+    "I can help structure geographic data for recurring decisions."
+   ],
+   "trigger": "I contributed when ANZ teams needed a more consistent way to compare cities and discuss geographic priorities.",
+   "problem": "I worked on the gap between broad market strategy and the local evidence needed for city-level choices. The work also required a usable foundation for selecting locations, organising geographic inputs, and revisiting decisions through a shared cadence.",
+   "method_and_execution": "I helped structure city and postcode views, bring planning inputs into comparable formats, and translate geographic analysis into recurring operating discussions. I contributed to a workflow that connected selection logic, map-based context, and dashboard views without treating any single metric as the full answer.",
+   "artifacts": "I contributed to dashboards, planning decks, maps, spreadsheets, and a geographic framework.",
+   "impact_or_learning": "I learned that geo strategy becomes more useful when selection criteria, data definitions, and review routines are designed together. The resulting capability gave teams a clearer common language for discussing city opportunities and refreshing priorities as context changed."
+  },
+  {
+   "id": "C10",
+   "title": "Business-review reporting workflow",
+   "period": "2023-09 to 2026-09",
+   "role": "ANZ Strategy & Planning",
+   "markets": [
+    "ANZ"
+   ],
+   "domains": [
+    "business reporting",
+    "workflow automation",
+    "planning operations"
+   ],
+   "skills": [
+    "reporting design",
+    "process improvement",
+    "handover documentation"
+   ],
+   "reach_out_when": [
+    "a recurring review pack is costly to maintain",
+    "you need to make reporting easier to transfer"
+   ],
+   "trigger": "I contributed when recurring business reviews needed a more repeatable path from source updates to a clear leadership narrative.",
+   "problem": "I was helping reduce the friction created by repeated manual assembly, inconsistent inputs, and reporting knowledge that could become concentrated in a small number of contributors.",
+   "method_and_execution": "I supported the production workflow, documented recurring steps, and explored where standardisation or automation could remove avoidable effort. I also helped organise handover material so that another contributor could understand the sequence, expected checks, and narrative structure without relying only on verbal context.",
+   "artifacts": "Business-review deck, reporting template, process documentation, and handover.",
+   "impact_or_learning": "I learned that reporting automation works best when the underlying operating process is made explicit first. A repeatable template, clear validation points, and documented judgment calls matter as much as automating the mechanical steps."
+  },
+  {
+   "id": "C11",
+   "title": "Public-results benchmarking",
+   "period": "2023-10 to 2026-05",
+   "role": "ANZ Strategy & Planning",
+   "markets": [
+    "ANZ"
+   ],
+   "domains": [
+    "market intelligence",
+    "benchmarking"
+   ],
+   "skills": [
+    "public-source synthesis",
+    "comparative analysis",
+    "executive communication"
+   ],
+   "reach_out_when": [
+    "You need a repeatable public-source benchmark",
+    "You need to separate comparable signals from accounting noise"
+   ],
+   "trigger": "I contributed when recurring public disclosures created a useful but fragmented view of how comparable businesses were evolving.",
+   "problem": "I needed to help turn differently defined public measures into a careful comparison without implying that unlike metrics were directly equivalent.",
+   "method_and_execution": "I helped structure recurring reviews around source quality, definition checks, period consistency, and the distinction between observed facts and interpretation. I compared directional themes, documented caveats, and translated technical disclosures into concise implications for internal discussion.",
+   "artifacts": "I contributed to benchmarking notes, comparison tables, and leadership-ready readouts.",
+   "impact_or_learning": "I learned that the most useful benchmark is often not a single ranking, but a transparent frame that shows where comparisons hold and where they break. The work strengthened a repeatable capability for discussing external signals with appropriate caution."
+  },
+  {
+   "id": "C12",
+   "title": "Consumer affordability measurement",
+   "period": "2023-11 to 2026-04",
+   "role": "ANZ Strategy & Planning",
+   "markets": [
+    "ANZ"
+   ],
+   "domains": [
+    "market intelligence",
+    "consumer affordability",
+    "measurement"
+   ],
+   "skills": [
+    "measurement design",
+    "model framing",
+    "research synthesis"
+   ],
+   "reach_out_when": [
+    "You need to frame affordability without relying on one metric",
+    "You need a method for comparing consumer price experiences"
+   ],
+   "trigger": "I contributed when teams needed a clearer way to discuss the consumer price experience across different purchase contexts.",
+   "problem": "I needed to help distinguish affordability from any single displayed price, because the customer experience can reflect item choices, fees, promotions, and changing comparison sets.",
+   "method_and_execution": "I helped structure a measurement approach that made definitions explicit, separated components of the experience, and tested whether comparisons remained meaningful across time and contexts. I also translated model logic into plain-language explanations so stakeholders could challenge assumptions rather than treat an index as a black box.",
+   "artifacts": "I contributed to measurement models, research notes, methodology explainers, and review readouts.",
+   "impact_or_learning": "I learned that affordability measures become more useful when they expose their assumptions and support several decision lenses. The work developed a reusable way to discuss consumer value carefully without reducing a complex experience to an unsupported headline."
+  },
+  {
+   "id": "C13",
+   "title": "Menu and in-store price measurement",
+   "period": "2023-12 to 2025-03",
+   "role": "ANZ Strategy & Planning",
+   "markets": [
+    "ANZ"
+   ],
+   "domains": [
+    "market intelligence",
+    "price measurement",
+    "methodology"
+   ],
+   "skills": [
+    "measurement design",
+    "data comparability",
+    "research operations",
+    "assumption documentation"
+   ],
+   "reach_out_when": [
+    "I can help when price observations need a defensible comparison method.",
+    "I can help document limitations in market measurement."
+   ],
+   "trigger": "I contributed when strategy teams needed a consistent way to compare menu and in-store price observations.",
+   "problem": "I worked on the difficulty of comparing prices gathered through different channels, formats, and points in time. The central issue was methodological consistency rather than any individual price point.",
+   "method_and_execution": "I helped structure a measurement approach, define comparable observations, document exclusions and caveats, and organise repeated collection for analysis. I contributed to separating observed differences from interpretation so stakeholders could understand what the method did and did not support.",
+   "artifacts": "I contributed to a measurement framework, collection template, tracker, and research note.",
+   "impact_or_learning": "I learned that price measurement is most credible when matching rules, timing assumptions, and missing-data treatment are explicit. The work built practical capability for discussing relative positioning while avoiding false precision and keeping limitations visible."
+  },
+  {
+   "id": "C14",
+   "title": "Annual and midyear planning support",
+   "period": "2023-12 to 2026-08",
+   "role": "ANZ Strategy & Planning",
+   "markets": [
+    "ANZ"
+   ],
+   "domains": [
+    "strategic planning",
+    "priority setting",
+    "stakeholder alignment"
+   ],
+   "skills": [
+    "planning synthesis",
+    "workshop support",
+    "dependency mapping"
+   ],
+   "reach_out_when": [
+    "you are preparing a cross-functional planning cycle",
+    "you need to connect strategic themes with executable work"
+   ],
+   "trigger": "I contributed when annual and midyear planning cycles required teams to convert broad priorities into a coherent set of discussions and inputs.",
+   "problem": "I was helping bridge different levels of planning detail so that market context, functional perspectives, dependencies, and execution questions could be considered together rather than assembled at the end.",
+   "method_and_execution": "I supported preparation and synthesis across planning forums, helping organise inputs into common themes and make open questions visible. I used the cycle to test whether proposed work had a clear rationale, identifiable dependencies, and a practical route into subsequent operating cadences.",
+   "artifacts": "Planning deck, workshop agenda, roadmap, and decision memo.",
+   "impact_or_learning": "I learned that planning quality depends less on the volume of material than on the sequence of alignment. Shared definitions, explicit trade-offs, and a reliable transition from workshop discussion to operating follow-through make the plan more usable."
+  },
+  {
+   "id": "C15",
+   "title": "Regional Australia growth planning",
+   "period": "2024-03 to 2026-07",
+   "role": "ANZ Strategy & Planning",
+   "markets": [
+    "Australia"
+   ],
+   "domains": [
+    "regional growth",
+    "geo strategy",
+    "program planning",
+    "handover"
+   ],
+   "skills": [
+    "regional strategy",
+    "roadmap structuring",
+    "geographic analysis",
+    "handover planning"
+   ],
+   "reach_out_when": [
+    "I can help when a regional growth ambition needs a practical plan.",
+    "I can help turn geographic diagnostics into an operating roadmap."
+   ],
+   "trigger": "I contributed when regional Australia needed a more coherent growth plan across locations with different operating conditions.",
+   "problem": "I helped organise a broad regional ambition into a plan that could account for local variation, sequencing, and operational dependencies. The work needed to connect geographic diagnosis with actions that teams could revisit over time.",
+   "method_and_execution": "I contributed to structuring the workstream, synthesising city-level context, and maintaining planning materials that linked priorities with follow-up. I also helped package the logic and supporting context for continuity as responsibilities changed.",
+   "artifacts": "I contributed to a growth plan, roadmap, map, planning deck, tracker, and handover.",
+   "impact_or_learning": "I learned that regional strategies work best when they distinguish common principles from location-specific constraints. The work created a more durable planning capability by making the geographic rationale, dependencies, and next steps easier for others to follow and continue."
+  },
+  {
+   "id": "C16",
+   "title": "APAC Central Operations communication cadence",
+   "period": "2024-03 to 2026-09",
+   "role": "APAC Membership",
+   "markets": [
+    "APAC"
+   ],
+   "domains": [
+    "central-operations",
+    "internal-communications",
+    "operating-cadence"
+   ],
+   "skills": [
+    "editorial synthesis",
+    "stakeholder communication",
+    "information design",
+    "operating-rhythm design"
+   ],
+   "reach_out_when": [
+    "You need a repeatable regional update format",
+    "Important context is scattered across workstreams",
+    "You need to make leadership communication concise and actionable"
+   ],
+   "trigger": "I needed to help regional operations stakeholders stay oriented as priorities and dependencies changed across workstreams.",
+   "problem": "Updates arrived through different forums and at different levels of detail, making it hard for readers to identify what had changed, what required attention, and where a decision was pending. I needed a concise communication pattern that complemented working meetings rather than repeating them.",
+   "method_and_execution": "I helped organise updates around decisions, progress, risks, and upcoming asks. I synthesised inputs into plain language, separated information from action, and used a repeatable structure so readers could scan quickly. I also kept the cadence connected to source owners, allowing uncertain items to be checked before wider circulation.",
+   "artifacts": "I produced a newsletter, pulse update, briefing note, and communication calendar.",
+   "impact_or_learning": "I helped make regional operating context easier to consume and act on. I learned that a strong internal update should reduce interpretation work for the reader while remaining explicit about uncertainty and ownership."
+  },
+  {
+   "id": "C17",
+   "title": "Deferred-payment considerations in food delivery",
+   "period": "2024-04 to 2026-06",
+   "role": "ANZ Strategy & Planning",
+   "markets": [
+    "ANZ"
+   ],
+   "domains": [
+    "payments",
+    "consumer strategy",
+    "strategic research"
+   ],
+   "skills": [
+    "problem framing",
+    "desk research",
+    "qualitative synthesis"
+   ],
+   "reach_out_when": [
+    "you are assessing an adjacent payment proposition",
+    "you need a concise research framing before deeper analysis"
+   ],
+   "trigger": "I contributed to an exploration of how deferred-payment options might intersect with the food-delivery customer experience.",
+   "problem": "I was trying to separate a broad payments trend from the specific questions that matter in an on-demand context, including customer relevance, operational fit, and potential experience trade-offs.",
+   "method_and_execution": "I helped structure the topic into testable questions, reviewed available reference material, and organised observations into a concise strategic frame. I avoided treating adoption elsewhere as proof of local value and kept uncertainties visible so that further work could focus on the most important gaps.",
+   "artifacts": "Research note and working model.",
+   "impact_or_learning": "I learned that adjacency assessments are most useful when they clarify what would need to be true rather than forcing an early recommendation. That approach creates a cleaner bridge from an interesting trend to disciplined product or market investigation."
+  },
+  {
+   "id": "C18",
+   "title": "Restaurant selection and coverage operations",
+   "period": "2024-05 to 2026-04",
+   "role": "ANZ Strategy & Planning",
+   "markets": [
+    "ANZ"
+   ],
+   "domains": [
+    "selection",
+    "coverage",
+    "reporting governance"
+   ],
+   "skills": [
+    "operating metrics",
+    "data quality checks",
+    "dashboard governance"
+   ],
+   "reach_out_when": [
+    "You need a repeatable selection and coverage operating view",
+    "You need to align metric definitions before reviewing gaps"
+   ],
+   "trigger": "I contributed when teams needed a consistent operating view of restaurant selection and coverage gaps across markets.",
+   "problem": "I needed to help reconcile different definitions, source views, and reporting expectations so that apparent gaps could be discussed on a comparable basis.",
+   "method_and_execution": "I helped structure recurring files around clear metric definitions, routine quality checks, and transparent exception handling. I contributed to parity reviews, documented reporting logic, and organised the outputs so market teams could distinguish data issues from genuine selection questions.",
+   "artifacts": "I contributed to operating workbooks, dashboard views, metric definitions, parity checks, and governance notes.",
+   "impact_or_learning": "I learned that selection reporting becomes more actionable when definition governance is treated as part of the product. The work strengthened a repeatable capability for reviewing coverage questions while reducing confusion caused by inconsistent cuts or changing source assumptions."
+  },
+  {
+   "id": "C19",
+   "title": "Restaurants and retail strategy cadence",
+   "period": "2024-07 to 2026-09",
+   "role": "ANZ Strategy & Planning",
+   "markets": [
+    "ANZ"
+   ],
+   "domains": [
+    "vertical strategy",
+    "operating cadence",
+    "business reviews"
+   ],
+   "skills": [
+    "cross-functional coordination",
+    "structured synthesis",
+    "operating rhythm design"
+   ],
+   "reach_out_when": [
+    "you need to structure a vertical review cadence",
+    "you need to turn recurring discussions into clear follow-ups"
+   ],
+   "trigger": "I contributed when restaurants and retail work needed a regular forum connecting weekly priorities with broader business reviews.",
+   "problem": "I was helping address the risk that vertical topics would be discussed in separate meetings without a consistent thread between immediate delivery questions and longer-horizon planning.",
+   "method_and_execution": "I supported a recurring cadence that grouped updates, surfaced dependencies, and created space to revisit priorities at different planning horizons. I focused on making the discussion easier to follow and on carrying unresolved questions forward, while adapting the level of detail to the forum.",
+   "artifacts": "Operating cadence, business-review deck, and action tracker.",
+   "impact_or_learning": "I learned that a useful vertical rhythm is not simply a sequence of meetings. It needs a stable narrative, explicit follow-through, and a clear distinction between information sharing, problem solving, and decisions."
+  },
+  {
+   "id": "C20",
+   "title": "Underpenetrated-geo investment program",
+   "period": "2024-08 to 2025-12",
+   "role": "ANZ Strategy & Planning",
+   "markets": [
+    "ANZ"
+   ],
+   "domains": [
+    "geo strategy",
+    "investment planning",
+    "program governance"
+   ],
+   "skills": [
+    "investment framing",
+    "working-group facilitation",
+    "decision support",
+    "stakeholder alignment"
+   ],
+   "reach_out_when": [
+    "I can help when geographic opportunities need a structured investment case.",
+    "I can help organise a cross-functional strategy workstream."
+   ],
+   "trigger": "I contributed when teams needed a structured way to assess whether less-developed geographies warranted focused investment.",
+   "problem": "I worked on turning a broad growth question into a decision process that could compare geographic needs, strategic rationale, and execution considerations. The challenge was to keep the discussion grounded without reducing it to a single output measure.",
+   "method_and_execution": "I helped structure the investment-case logic, organise inputs from different functions, and support a working cadence for reviewing assumptions and open questions. I contributed to materials that separated evidence, judgement, dependencies, and decisions so stakeholders could discuss trade-offs more clearly.",
+   "artifacts": "I contributed to an investment case, working-group deck, decision framework, and program tracker.",
+   "impact_or_learning": "I learned that geographic investment programs benefit from explicit criteria and staged governance, especially when evidence is incomplete. The work developed a clearer capability for moving from opportunity identification to a reviewable recommendation while keeping uncertainty visible."
+  },
+  {
+   "id": "C21",
+   "title": "Distributed analytics delivery cadence",
+   "period": "2024-08 to 2026-07",
+   "role": "ANZ Strategy & Planning",
+   "markets": [
+    "ANZ"
+   ],
+   "domains": [
+    "analytics operations",
+    "delivery management",
+    "cross-team collaboration"
+   ],
+   "skills": [
+    "prioritisation",
+    "requirements clarification",
+    "delivery coordination"
+   ],
+   "reach_out_when": [
+    "you need a working rhythm with a distributed analytics team",
+    "analytics requests need clearer prioritisation and feedback"
+   ],
+   "trigger": "I contributed when a distributed analytics partnership needed a reliable cadence for prioritising requests, clarifying requirements, and reviewing delivery.",
+   "problem": "I was helping address the gap between business questions and executable analytics work, especially when context, priorities, and feedback had to travel across team boundaries.",
+   "method_and_execution": "I supported a frequent working rhythm that made the request queue visible, clarified the intended decision behind each analysis, and created regular opportunities to resolve ambiguity. I also helped separate urgent questions from foundational work and used feedback loops to improve how requests were framed over time.",
+   "artifacts": "Prioritisation tracker, requirements brief, operating cadence, and handover.",
+   "impact_or_learning": "I learned that distributed delivery becomes more effective when both sides share a definition of a good request and a good review. Clear decision context, bounded scope, and prompt feedback reduce rework more reliably than adding process layers."
+  },
+  {
+   "id": "C22",
+   "title": "AI-assisted reporting workflow",
+   "period": "2024-08 to 2026-08",
+   "role": "ANZ Strategy & Planning",
+   "markets": [
+    "ANZ"
+   ],
+   "domains": [
+    "reporting workflows",
+    "applied AI",
+    "operating systems"
+   ],
+   "skills": [
+    "workflow design",
+    "AI-assisted synthesis",
+    "quality-control design"
+   ],
+   "reach_out_when": [
+    "you are evaluating AI support for recurring reporting",
+    "you need human review points in an assisted workflow"
+   ],
+   "trigger": "I explored AI assistance when recurring reporting work created opportunities to reduce mechanical effort while preserving human judgment.",
+   "problem": "I was trying to distinguish tasks that could be assisted safely from work that still required context, verification, and editorial accountability.",
+   "method_and_execution": "I documented parts of the reporting workflow, considered where AI could support drafting or synthesis, and kept review checkpoints around interpretation and final communication. Internal enablement sessions provided supporting context for this exploration, but I treated general tool knowledge as an input rather than evidence that a workflow was ready for broad use.",
+   "artifacts": "Workflow note, reporting template, and process deck.",
+   "impact_or_learning": "I learned that useful AI adoption starts with process clarity and explicit quality controls. The durable value is not automatic text generation; it is a better-designed workflow that makes sources, assumptions, review responsibilities, and exceptions easier to inspect."
+  },
+  {
+   "id": "C23",
+   "title": "Market-exit response tracking",
+   "period": "2024-08 to 2026-09",
+   "role": "ANZ Strategy & Planning",
+   "markets": [
+    "ANZ"
+   ],
+   "domains": [
+    "competitive response",
+    "market intelligence",
+    "operating cadence"
+   ],
+   "skills": [
+    "event tracking",
+    "cross-functional synthesis",
+    "retrospective analysis"
+   ],
+   "reach_out_when": [
+    "A market event needs a structured response tracker",
+    "You need to turn a response into reusable lessons"
+   ],
+   "trigger": "I contributed when a competitor's market exit created fast-moving questions about customer, merchant, and operational responses.",
+   "problem": "I needed to help create a shared view of what was changing, what teams were doing, and which observations were durable enough to inform later decisions.",
+   "method_and_execution": "I helped organise inputs into a dated tracking rhythm, separated actions from market observations, and maintained clear assumptions as the situation evolved. I contributed to cross-functional synthesis and later looked back across the response to identify patterns, gaps, and questions that remained unresolved.",
+   "artifacts": "I contributed to response trackers, synthesis decks, decision notes, and retrospective documents.",
+   "impact_or_learning": "I learned that event-response work benefits from preserving both chronology and uncertainty. A disciplined tracker can reduce conflicting narratives during the event, while a later retrospective can convert temporary coordination into a reusable response capability."
+  },
+  {
+   "id": "C24",
+   "title": "Leadership business-trends narrative",
+   "period": "2024-09 to 2026-09",
+   "role": "ANZ Strategy & Planning",
+   "markets": [
+    "ANZ"
+   ],
+   "domains": [
+    "business trends",
+    "executive communication",
+    "strategic synthesis"
+   ],
+   "skills": [
+    "narrative development",
+    "evidence synthesis",
+    "executive communication"
+   ],
+   "reach_out_when": [
+    "you need to turn varied business signals into a leadership narrative",
+    "you are preparing a trends discussion for an offsite"
+   ],
+   "trigger": "I contributed when a leadership offsite needed a concise narrative connecting business trends with the questions leaders should discuss.",
+   "problem": "I was helping avoid two common extremes: a dense collection of disconnected updates and a high-level story that could not be traced back to supporting evidence.",
+   "method_and_execution": "I supported the synthesis of varied inputs into a small set of themes, organised the material around implications rather than source categories, and highlighted uncertainty where the evidence did not support a firm conclusion. I aimed to make each section useful as a prompt for discussion rather than as a claim of certainty.",
+   "artifacts": "Leadership deck, research note, and working model.",
+   "impact_or_learning": "I learned that effective trends narratives preserve the chain from signal to interpretation to implication. That structure helps leaders challenge assumptions, compare perspectives, and decide where a deeper analysis is warranted."
+  },
+  {
+   "id": "C25",
+   "title": "Geographic clustering methodology",
+   "period": "2024-10 to 2026-05",
+   "role": "ANZ Strategy & Planning",
+   "markets": [
+    "ANZ"
+   ],
+   "domains": [
+    "geo strategy",
+    "spatial clustering",
+    "methodology design"
+   ],
+   "skills": [
+    "spatial reasoning",
+    "analytical methodology",
+    "data structuring",
+    "cross-functional collaboration"
+   ],
+   "reach_out_when": [
+    "I can help when geographic units need a practical grouping method.",
+    "I can help translate spatial analysis into planning language."
+   ],
+   "trigger": "I contributed when existing geographic boundaries were not sufficient for consistent local planning and comparison.",
+   "problem": "I helped address the challenge of turning fine-grained spatial data into groupings that were analytically coherent and usable by planning teams. The method needed to preserve local context while creating a repeatable basis for comparison.",
+   "method_and_execution": "I contributed to developing and documenting a clustering approach, testing how alternative groupings behaved, and translating the logic for strategy stakeholders. I helped connect technical spatial concepts with practical questions about how teams define, compare, and discuss local areas.",
+   "artifacts": "I contributed to a methodology document, analytical spreadsheet, data extract, and explanatory deck.",
+   "impact_or_learning": "I learned that a spatial method is only useful when its assumptions are visible and its outputs map cleanly to operating decisions. This work strengthened a reusable capability for organising geographic complexity and made later city discussions easier to structure consistently."
+  },
+  {
+   "id": "C26",
+   "title": "Market-entry case study",
+   "period": "2025-05 to 2026-07",
+   "role": "ANZ Strategy & Planning",
+   "markets": [
+    "ANZ"
+   ],
+   "domains": [
+    "competitive response",
+    "market intelligence",
+    "case studies"
+   ],
+   "skills": [
+    "case-study research",
+    "strategic synthesis",
+    "lesson extraction"
+   ],
+   "reach_out_when": [
+    "You need to turn a market event into a case study",
+    "You need portable lessons from a competitor entry"
+   ],
+   "trigger": "I contributed when a competitor's market entry offered a useful opportunity to study how positioning and market conditions interact.",
+   "problem": "I needed to help move the discussion beyond a chronology of events and identify which observations could transfer to other markets without overstating causality.",
+   "method_and_execution": "I helped structure the case around context, observable moves, stakeholder responses, and alternative explanations. I compared phases of the entry, documented uncertainty, and separated market-specific details from broader strategic questions that could be reused in future reviews.",
+   "artifacts": "I contributed to a case-study deck, research notes, comparison tables, and a discussion guide.",
+   "impact_or_learning": "I learned that strong case studies preserve context rather than compressing events into a simple success or failure story. The work strengthened a reusable approach for examining market entries and asking better questions before applying lessons elsewhere."
+  },
+  {
+   "id": "C27",
+   "title": "Brand-level category diagnostics",
+   "period": "2025-06 to 2026-07",
+   "role": "ANZ Strategy & Planning",
+   "markets": [
+    "ANZ"
+   ],
+   "domains": [
+    "category strategy",
+    "brand diagnostics",
+    "marketplace analysis"
+   ],
+   "skills": [
+    "diagnostic framing",
+    "comparative analysis",
+    "stakeholder synthesis"
+   ],
+   "reach_out_when": [
+    "You need a brand-level diagnostic without exposing partner details",
+    "You need a consistent comparison frame across accounts"
+   ],
+   "trigger": "I contributed when category-level averages obscured meaningful differences in how individual brands appeared within the marketplace.",
+   "problem": "I needed to help create a finer-grained view without turning the work into a ranking or implying that every observed difference had the same cause.",
+   "method_and_execution": "I helped structure diagnostics around consistent dimensions, comparable time frames, and explicit caveats. I reviewed patterns across brands, connected them to broader category context, and organised follow-up questions that stakeholders could investigate with appropriate local knowledge.",
+   "artifacts": "I contributed to diagnostic workbooks, brand briefs, comparison views, and discussion notes.",
+   "impact_or_learning": "I learned that brand-level analysis is most credible when it uses a stable frame but leaves room for different operating contexts. The work developed a practical way to identify where deeper investigation may be useful without publishing sensitive partner detail or unsupported performance claims."
+  },
+  {
+   "id": "C28",
+   "title": "Regional roadmap and pipeline governance",
+   "period": "2025-09 to 2026-09",
+   "role": "APAC Membership",
+   "markets": [
+    "Multi-market"
+   ],
+   "domains": [
+    "membership",
+    "roadmapping",
+    "portfolio-governance",
+    "regional-operations"
+   ],
+   "skills": [
+    "roadmap design",
+    "portfolio prioritisation",
+    "governance",
+    "cross-market synthesis"
+   ],
+   "reach_out_when": [
+    "You need a regional roadmap across several markets",
+    "You need clearer intake and prioritisation",
+    "You need to separate committed work from proposals and dependencies"
+   ],
+   "trigger": "I stepped into a regional membership remit where market requests, product dependencies, and planning horizons needed a common operating view.",
+   "problem": "I needed to create enough structure for regional and market teams to discuss priorities consistently. The challenge was to distinguish committed work, unresolved dependencies, emerging proposals, and items that belonged in a later planning cycle without presenting the roadmap as more settled than it was.",
+   "method_and_execution": "I consolidated inputs into a shared prioritisation frame, grouped work by decision stage, and established recurring reviews for changes, risks, and ownership. I used evidence notes and explicit confidence boundaries so that open questions remained visible. I also adapted the view for market discussions while preserving a coherent regional pipeline.",
+   "artifacts": "I produced a roadmap, prioritisation framework, pipeline tracker, and operating cadence.",
+   "impact_or_learning": "I gave stakeholders a clearer way to discuss sequencing and dependencies across markets. I learned that roadmap governance works best when uncertainty is represented directly rather than hidden inside a polished list of initiatives."
+  },
+  {
+   "id": "C29",
+   "title": "Public product-page update planning",
+   "period": "2026",
+   "role": "APAC Membership",
+   "markets": [
+    "Multi-market"
+   ],
+   "domains": [
+    "membership",
+    "web-content",
+    "go-to-market-planning",
+    "governance"
+   ],
+   "skills": [
+    "launch planning",
+    "content governance",
+    "cross-functional coordination",
+    "risk identification"
+   ],
+   "reach_out_when": [
+    "You need to plan a public product-page update",
+    "A page change depends on several reviewers",
+    "You need to separate content approval from implementation readiness"
+   ],
+   "trigger": "I needed to plan public product-page updates alongside broader product and customer-communication changes.",
+   "problem": "A webpage update depended on more than drafting text. I needed to reconcile product facts, localization, legal review, implementation ownership, and launch timing while keeping acquisition-facing pages distinct from signed-in customer surfaces.",
+   "method_and_execution": "I mapped the approval and implementation path, identified which content blocks required specialist support, and sequenced review, preview, and cutover checks. I documented unresolved product and timing questions rather than filling gaps with assumptions. I also distinguished planning readiness from publication, so stakeholders could see what remained before any page change.",
+   "artifacts": "I produced an update plan, review checklist, cutover plan, and ownership map.",
+   "impact_or_learning": "I created a clearer route from product decision to governed public-page change without claiming delivery ahead of confirmation. I learned that web updates should be treated as small launches, with explicit owners for facts, language, implementation, and timing."
+  },
+  {
+   "id": "C30",
+   "title": "Localising a global engagement-benefit concept",
+   "period": "2026",
+   "role": "Regional Membership Strategy (APAC)",
+   "markets": [
+    "Multi-market"
+   ],
+   "domains": [
+    "membership",
+    "loyalty",
+    "benefit design"
+   ],
+   "skills": [
+    "concept localisation",
+    "usage-based modelling",
+    "assumption management",
+    "scope control"
+   ],
+   "reach_out_when": [
+    "You need to adapt a global loyalty mechanic to a market with different behaviour",
+    "You need a directional cost model before a finance model exists"
+   ],
+   "trigger": "A globally designed engagement-benefit concept needed to be assessed for markets with different member behaviour and economics.",
+   "problem": "I had to avoid copying another market's parameters. The design needed to reward engagement, constrain cost exposure, and stay useful even if the full product experience was delayed.",
+   "method_and_execution": "I derived member segments, qualification cuts, and redemption behaviour from local usage patterns rather than transplanted assumptions. I kept optional and premium benefits costed separately from the core mechanic, documented every adjustable assumption, and made a fallback using existing tools an explicit decision rather than an afterthought.",
+   "artifacts": "I produced decision frameworks, a cost simulator, validation checks, and an assumption register.",
+   "impact_or_learning": "I learned that regional reuse should preserve modelling discipline, not transplant parameters, and that premium benefits should be costed and approved independently of the core design."
+  },
+  {
+   "id": "C31",
+   "title": "Benefit economics and funding discipline",
+   "period": "2026",
+   "role": "Regional Membership Strategy (APAC)",
+   "markets": [
+    "Multi-market"
+   ],
+   "domains": [
+    "membership",
+    "benefit economics"
+   ],
+   "skills": [
+    "economic modelling",
+    "cost-control design",
+    "sensitivity framing",
+    "trade-off communication"
+   ],
+   "reach_out_when": [
+    "You need to redirect diffuse discount spend into a benefit members understand",
+    "A benefit risks concentrating spend on already-loyal users"
+   ],
+   "trigger": "Benefit proposals needed a clearer account of what they cost, what they replaced, and who would consume them.",
+   "problem": "I needed to make funding logic legible without claiming new benefits were cost-neutral, and to stop cost scaling mechanically with the heaviest users.",
+   "method_and_execution": "I modelled reallocation of existing spend as a distinct lever and showed freed spend alongside gross cost. For heavy-usage risk I translated the problem into product levers such as delayed eligibility, value adjustments, exposure caps, and basket conditions, and compared them against behaviour at the tail. When data sources disagreed, I kept the gap visible rather than forcing agreement.",
+   "artifacts": "I built funding controls into decision simulators and produced cost sensitivities and governance checklists.",
+   "impact_or_learning": "I learned that funding claims need the same source and population discipline as customer metrics, and that good benefits reward incremental behaviour rather than subsidising what would happen anyway."
+  },
+  {
+   "id": "C32",
+   "title": "Framing recurring-benefit experiments",
+   "period": "2026",
+   "role": "Regional Membership Strategy (APAC)",
+   "markets": [
+    "Multi-market"
+   ],
+   "domains": [
+    "membership",
+    "experimentation"
+   ],
+   "skills": [
+    "experiment design",
+    "treatment separation",
+    "launch risk assessment",
+    "measurement framing"
+   ],
+   "reach_out_when": [
+    "You need to test a simple recurring member benefit cleanly",
+    "Several benefit ideas risk being tested as one bundle"
+   ],
+   "trigger": "Several candidate member benefits were being explored at the same time.",
+   "problem": "I needed to keep distinct mechanics from being confused with one another, and to stop an attractive but immature capability becoming a dependency for the core roadmap.",
+   "method_and_execution": "I clarified what each benefit did and did not test, helped structure separate and combined treatments, and pushed for clean controls when adjacent treatments were not ready. I treated early production ramps as readiness evidence only, not proof of customer impact.",
+   "artifacts": "I developed decision briefs, treatment comparisons, readiness checks, and a measurement agenda.",
+   "impact_or_learning": "I learned that simple customer mechanics still need careful enrolment, scope, and evidence governance, and that decoupling adjacent ideas lets the core roadmap move independently."
+  },
+  {
+   "id": "C33",
+   "title": "Measuring membership price and benefit changes",
+   "period": "2026",
+   "role": "Regional Membership Strategy (APAC)",
+   "markets": [
+    "Multi-market"
+   ],
+   "domains": [
+    "membership",
+    "pricing",
+    "retention",
+    "measurement"
+   ],
+   "skills": [
+    "cohort design",
+    "measurement governance",
+    "metric reconciliation",
+    "cross-market synthesis"
+   ],
+   "reach_out_when": [
+    "You are planning a membership repricing",
+    "You need to separate launch health from mature retention"
+   ],
+   "trigger": "Membership price and benefit changes needed an evaluation method that would hold up as evidence matured.",
+   "problem": "Announcement reactions, new-member acquisition, and existing-member renewals happen on different clocks. Early signals are useful but cannot answer the retention question before renewals mature, and monthly and annual plans behave differently.",
+   "method_and_execution": "I structured analysis around customer events rather than a single launch date, separating notices, opt-outs, starts, active and passive churn, and renewal-aligned retention, with annual plans measured independently. I required readouts to label immature cohorts rather than treating missing renewals as churn, reconciled sources and disclosed differences, and turned the lessons into a reusable playbook.",
+   "artifacts": "I contributed measurement requirements, metric definitions, readiness checklists, and a cross-market playbook.",
+   "impact_or_learning": "I learned to measure customers at their actual renewal boundary: early acquisition can look resilient while cancellation risk is still delayed."
+  },
+  {
+   "id": "C34",
+   "title": "Acquisition offer portfolio design",
+   "period": "2026",
+   "role": "Regional Membership Strategy (APAC)",
+   "markets": [
+    "Multi-market"
+   ],
+   "domains": [
+    "membership acquisition",
+    "offer design",
+    "conversion quality"
+   ],
+   "skills": [
+    "portfolio strategy",
+    "cohort analysis",
+    "decision framing",
+    "scenario analysis"
+   ],
+   "reach_out_when": [
+    "You need to choose between free trials, discounted months, and annual offers",
+    "Member growth and paid conversion point in different directions"
+   ],
+   "trigger": "Acquisition offers needed to be judged on quality of conversion, not just the number of starts.",
+   "problem": "Longer free access can lift starts while delaying the point at which willingness to pay becomes observable. Promotional demand also needed to be separated from underlying plan demand.",
+   "method_and_execution": "I compared offer structures (free trials, trial-plus-discount bundles, discounted annual commitments) against an explicit objective hierarchy, segmented decisions by membership history and engagement, and checked that live configuration matched strategic intent.",
+   "artifacts": "I produced offer reviews, cohort decision matrices, measurement frameworks, and readiness checklists.",
+   "impact_or_learning": "I learned to declare the primary objective before optimising offer duration: member stock, paid members, and long-term value can point to different decisions at the same time."
+  },
+  {
+   "id": "C35",
+   "title": "Lifecycle targeting for membership offers",
+   "period": "2026",
+   "role": "Regional Membership Strategy (APAC)",
+   "markets": [
+    "Multi-market"
+   ],
+   "domains": [
+    "targeting",
+    "lifecycle segmentation",
+    "decision science"
+   ],
+   "skills": [
+    "segmentation strategy",
+    "model translation",
+    "risk framing",
+    "requirements"
+   ],
+   "reach_out_when": [
+    "You need to replace blanket offers with lifecycle logic",
+    "You need to assess whether a model built elsewhere transfers to your market"
+   ],
+   "trigger": "Offers were being shown to broad audiences without accounting for membership history or engagement.",
+   "problem": "Audiences that are broad or change abruptly make it hard to tell whether movement came from demand, targeting, or operations. Models built for other markets also needed a portability check.",
+   "method_and_execution": "I translated diagnostics into targeting rules based on prior membership, activity, and likely retention value, and defined questions on audience refresh, exclusions, and offer conflicts. For externally built allocation models I documented assumptions and mapped which local conditions could invalidate transfer.",
+   "artifacts": "I produced targeting frameworks, readiness gates, model-assumption reviews, and a market-fit matrix.",
+   "impact_or_learning": "I learned that personalisation only creates value when assignment logic and measurement populations stay traceable, and that model portability depends on local economics as much as predictive accuracy."
+  },
+  {
+   "id": "C36",
+   "title": "Retention and win-back portfolio",
+   "period": "2026",
+   "role": "Regional Membership Strategy (APAC)",
+   "markets": [
+    "Multi-market"
+   ],
+   "domains": [
+    "retention",
+    "win-back",
+    "offer portfolio"
+   ],
+   "skills": [
+    "retention strategy",
+    "portfolio design",
+    "holdout governance",
+    "rollout coordination"
+   ],
+   "reach_out_when": [
+    "You need a structured response to cancellation intent",
+    "You need to recover former paid members without blanket discounts"
+   ],
+   "trigger": "Members showing cancellation intent, and recently lapsed paid members, needed a more structured response than one universal discount.",
+   "problem": "A single rescue offer hides real differences between plan types and preferences, and results cannot be read without proven configuration and credible holdouts.",
+   "method_and_execution": "I framed retention as a portfolio of testable mechanics (pre-renewal engagement goals, plan and benefit offers, time-bound return incentives) and separated cancellation intent from realised churn. I checked approved designs against verified production state and defined holdout requirements before any recovery was attributed.",
+   "artifacts": "I produced portfolio summaries, configuration checklists, measurement briefs, and handover views.",
+   "impact_or_learning": "I learned that configuration completeness and holdout validity must be proven before claiming recovery, and that win-back mechanics need a precise definition of eligible history."
+  },
+  {
+   "id": "C37",
+   "title": "Engagement quest design and exposure integrity",
+   "period": "2026",
+   "role": "Regional Membership Strategy (APAC)",
+   "markets": [
+    "Multi-market"
+   ],
+   "domains": [
+    "quests",
+    "engagement",
+    "experimentation"
+   ],
+   "skills": [
+    "cohort strategy",
+    "experiment deconfliction",
+    "targeting",
+    "scaling criteria"
+   ],
+   "reach_out_when": [
+    "You are designing goal-based incentives",
+    "Concurrent campaigns may contaminate controls",
+    "A global programme needs market-level decisions"
+   ],
+   "trigger": "Goal-based incentives (quests) were being used to stretch habits and encourage cross-product use.",
+   "problem": "Broad targeting risks paying for behaviour that would happen anyway, delayed audience loading makes nominal start dates unreliable, and overlapping campaigns can contaminate comparison groups.",
+   "method_and_execution": "I reframed readiness around the first verified customer exposure, required protection for treated and comparison cohorts, documented precedence across overlapping campaigns, and argued for excluding customers likely to act organically. I kept engagement learning separate from retention claims.",
+   "artifacts": "I produced portfolio assessments, an exposure-integrity framework, readiness checklists, and risk registers.",
+   "impact_or_learning": "I learned to version cohort snapshots, record first exposure, reconcile issued and redeemed rewards, and delay scaling until each cohort has a clean, mature observation window."
+  },
+  {
+   "id": "C38",
+   "title": "Self-service campaign tracking and spend estimation",
+   "period": "2026",
+   "role": "Regional Membership Strategy (APAC)",
+   "markets": [
+    "Multi-market"
+   ],
+   "domains": [
+    "self-service tooling",
+    "operational analytics"
+   ],
+   "skills": [
+    "product requirements",
+    "workflow design",
+    "measurement governance"
+   ],
+   "reach_out_when": [
+    "Local teams lack campaign visibility",
+    "Incentive spend is hard to estimate"
+   ],
+   "trigger": "Local teams relied on central operators to understand campaign exposure, progress, and likely spend.",
+   "problem": "A self-service tool needed to add transparency without false precision, especially when data delays and overlapping campaigns made nominal data unreliable.",
+   "method_and_execution": "I framed a tracking and estimation workflow around operating decisions rather than dashboard volume, emphasising exposure timestamps, configurable assumptions, and a clear split between approved budget, projected issuance, redemption, and realised cost.",
+   "artifacts": "I contributed requirements, data definitions, and a local-operations workflow.",
+   "impact_or_learning": "I learned that trustworthy tools must expose data freshness and assumption boundaries, or they automate the same ambiguity that slowed manual work."
+  },
+  {
+   "id": "C39",
+   "title": "Regional participation decisions for global features",
+   "period": "2026",
+   "role": "Regional Membership Strategy (APAC)",
+   "markets": [
+    "Multi-market"
+   ],
+   "domains": [
+    "regional strategy",
+    "market applicability"
+   ],
+   "skills": [
+    "opt-in governance",
+    "economic framing",
+    "capability assessment",
+    "experiment readiness"
+   ],
+   "reach_out_when": [
+    "A global feature needs differentiated market decisions",
+    "Market applicability differs across a region"
+   ],
+   "trigger": "Globally designed member features needed explicit decisions about where regional participation made sense.",
+   "problem": "Markets differ in demand patterns, commercial structure, regulation, and ability to run readable tests, so a blanket regional response would be wrong.",
+   "method_and_execution": "I coordinated explicit market participation decisions based on applicability, learning value, cost tolerance, and concurrent changes. I challenged stale status labels, separated modelled exposure from observed outcomes, and required experiment plans and decision rules before scaling. For partner-funded offers, I turned manual campaign patterns into product and measurement requirements.",
+   "artifacts": "I produced decision briefs, applicability matrices, capability assessments, and readiness gates.",
+   "impact_or_learning": "I learned that an affordable test is not automatically informative, and that a local success does not prove viability across a whole market."
+  },
+  {
+   "id": "C40",
+   "title": "Benefit simplification and customer comprehension",
+   "period": "2026",
+   "role": "Regional Membership Strategy (APAC)",
+   "markets": [
+    "Multi-market"
+   ],
+   "domains": [
+    "value proposition",
+    "benefit design"
+   ],
+   "skills": [
+    "strategic framing",
+    "customer comprehension",
+    "guardrail design",
+    "readiness governance"
+   ],
+   "reach_out_when": [
+    "Members struggle to understand a benefit",
+    "You need a value-neutral redesign with clear guardrails"
+   ],
+   "trigger": "Some member value was real but hard for customers to recognise and explain.",
+   "problem": "Complex discounts can make value feel opaque. Simplifying a benefit, or using it to encourage use of another product, has to be economically controlled and must not be presented as an automatic value increase.",
+   "method_and_execution": "I framed benefit redesign around whether customers understand and attribute value, not just whether the economics balance. I set guardrails on the overall benefit envelope and asked product, finance, and legal partners to validate feasibility, customer language, and measurement before any commitment.",
+   "artifacts": "I produced customer-value framing, decision questions, and dependency lists.",
+   "impact_or_learning": "I learned that value-neutral on paper is not launch-ready: serving, comprehension, customer copy, assignment, and measurement each need independent proof."
+  },
+  {
+   "id": "C41",
+   "title": "Release gates for benefit-platform and public-page changes",
+   "period": "2026",
+   "role": "Regional Membership Strategy (APAC)",
+   "markets": [
+    "Multi-market"
+   ],
+   "domains": [
+    "launch governance",
+    "quality assurance",
+    "product communications"
+   ],
+   "skills": [
+    "migration governance",
+    "content governance",
+    "test planning",
+    "risk escalation"
+   ],
+   "reach_out_when": [
+    "A platform migration depends on dynamic testing",
+    "A public page must reflect a product change accurately"
+   ],
+   "trigger": "Benefit-platform changes and public product pages needed to stay aligned with what customers actually experience.",
+   "problem": "Entering configuration does not prove offers will serve correctly, and a correct draft page is not enough when different customer groups change on different schedules.",
+   "method_and_execution": "I separated static configuration from dynamic proof and held release to named test owners, production evidence, and defect accountability. For public pages I mapped the review chain, protected unconfirmed content from accidental publication, and required localised previews before scheduling.",
+   "artifacts": "I produced test-evidence requirements, hold-or-release gates, reviewer maps, and pre-publication checklists.",
+   "impact_or_learning": "I learned that completeness must be measured through observed customer states, and that public-page updates should be run as small launches with explicit owners."
+  },
+  {
+   "id": "C42",
+   "title": "Eligibility-verification capacity planning",
+   "period": "2026",
+   "role": "Regional Membership Strategy (APAC)",
+   "markets": [
+    "Multi-market"
+   ],
+   "domains": [
+    "capacity planning",
+    "eligibility"
+   ],
+   "skills": [
+    "forecasting",
+    "requirements gathering",
+    "risk management"
+   ],
+   "reach_out_when": [
+    "You need to connect eligibility demand with operational capacity",
+    "You need to avoid decisions based on stale utilisation"
+   ],
+   "trigger": "Eligibility verification for a member segment was both a customer-access mechanic and an operational capacity constraint.",
+   "problem": "Forecasts existed, but current utilisation and verification performance needed reconciling before any capacity decision.",
+   "method_and_execution": "I assembled demand inputs, defined forecasting approaches for growing and declining segments, and withheld recommendations until current utilisation was confirmed.",
+   "artifacts": "I produced a capacity tracker, forecast structure, and decision framework.",
+   "impact_or_learning": "I learned that entitlement planning must combine demand, conversion, utilisation, and operational mechanics rather than extrapolating from member counts alone."
+  },
+  {
+   "id": "C43",
+   "title": "ANZ strategy and planning role handover",
+   "period": "2026-02 to 2026-07",
+   "role": "ANZ Strategy & Planning",
+   "markets": [
+    "ANZ"
+   ],
+   "domains": [
+    "role-transition",
+    "strategy-and-planning",
+    "operating-continuity"
+   ],
+   "skills": [
+    "knowledge transfer",
+    "documentation",
+    "stakeholder mapping",
+    "workstream prioritisation"
+   ],
+   "reach_out_when": [
+    "You are planning a role transition",
+    "You need to turn a broad remit into a usable handover",
+    "You need continuity across recurring strategy work"
+   ],
+   "trigger": "I was moving from an ANZ strategy and planning role into a regional consumer role and needed to leave the work in a usable state.",
+   "problem": "I needed to transfer more than a list of open tasks. The incoming owner needed context on recurring decisions, stakeholder expectations, analytical assets, and the difference between ongoing operating work and questions that still required judgment.",
+   "method_and_execution": "I organised the remit by workstream, documented purpose and cadence, separated completed work from open decisions, and created an inventory of the reporting and analysis surfaces used by the team. I also highlighted dependencies, practical access needs, and areas where a new owner should revalidate assumptions rather than inherit them unchanged.",
+   "artifacts": "I produced a handover, workstream inventory, dashboard inventory, and transition checklist.",
+   "impact_or_learning": "I made the transition easier to navigate and reduced reliance on informal context. The lasting lesson was that a useful handover should explain how decisions get made, not simply where files are stored."
+  },
+  {
+   "id": "C44",
+   "title": "Fuel-cost signals and consumer behaviour",
+   "period": "2026-03 to 2026-08",
+   "role": "ANZ Strategy & Planning",
+   "markets": [
+    "ANZ"
+   ],
+   "domains": [
+    "consumer behaviour",
+    "market signals",
+    "strategic research"
+   ],
+   "skills": [
+    "hypothesis framing",
+    "signal interpretation",
+    "research synthesis"
+   ],
+   "reach_out_when": [
+    "you need to translate an external signal into consumer questions",
+    "you want a method-first view of a market change"
+   ],
+   "trigger": "I contributed when changing fuel costs raised questions about how consumers might adjust their behaviour across mobility and delivery.",
+   "problem": "I was helping turn a visible external signal into a careful set of behavioural hypotheses without assuming that timing alone demonstrated a causal relationship.",
+   "method_and_execution": "I supported a structured review of the signal, mapped plausible consumer responses, and distinguished immediate observations from questions requiring deeper validation. I treated alternative explanations as part of the analysis and kept the framing broad enough to connect market context with operational data later.",
+   "artifacts": "Research note and signal tracker.",
+   "impact_or_learning": "I learned that macro signals are valuable prompts but weak conclusions on their own. The durable method is to state the behavioural pathway explicitly, identify competing explanations, and define what evidence would meaningfully change the interpretation."
+  },
+  {
+   "id": "C45",
+   "title": "Promotional-response analysis",
+   "period": "2026-04 to 2026-09",
+   "role": "ANZ Strategy & Planning",
+   "markets": [
+    "Australia"
+   ],
+   "domains": [
+    "competitive response",
+    "consumer strategy",
+    "measurement"
+   ],
+   "skills": [
+    "cohort analysis",
+    "scenario framing",
+    "monitoring design"
+   ],
+   "reach_out_when": [
+    "A competitor promotion needs a measured response",
+    "You need cohort-level monitoring before escalating action"
+   ],
+   "trigger": "I contributed when a major competitor promotion raised questions about customer exposure and the appropriate level of response.",
+   "problem": "I needed to help distinguish immediate competitive pressure from normal variation, while showing which customer groups and experience components warranted closer attention.",
+   "method_and_execution": "I developed analytical cuts across customer behaviour, segmented exposure into decision-relevant cohorts, and helped frame response options with explicit trade-offs. I also helped define a monitoring approach that separated routine observation from conditions that would justify escalation, while keeping open risks visible for leadership discussion.",
+   "artifacts": "I produced analytical readouts, a cohort framework, a scenario model, a monitoring specification, and a leadership deck.",
+   "impact_or_learning": "I learned that a credible response does not require immediate broad action. Combining cohort-level evidence, explicit thresholds, and clear caveats created a more disciplined way to monitor the situation and discuss proportionate options."
+  },
+  {
+   "id": "C46",
+   "title": "Membership product and operations collaboration cadence",
+   "period": "2026-04 to 2026-09",
+   "role": "APAC Membership",
+   "markets": [
+    "APAC"
+   ],
+   "domains": [
+    "membership",
+    "product-operations",
+    "operating-cadence"
+   ],
+   "skills": [
+    "cross-functional facilitation",
+    "agenda design",
+    "dependency management",
+    "follow-through"
+   ],
+   "reach_out_when": [
+    "You need a useful product and operations rhythm",
+    "Dependencies are getting lost between teams",
+    "A recurring meeting needs clearer decisions and follow-through"
+   ],
+   "trigger": "I needed a dependable way for regional operations and product partners to review membership dependencies and decisions.",
+   "problem": "Important updates were spread across separate workstreams, and recurring meetings could easily become status exchanges without clear decisions. I needed a rhythm that made ownership, escalation needs, and follow-up visible while respecting the different responsibilities of product and operations teams.",
+   "method_and_execution": "I helped shape a recurring agenda around decisions, dependencies, launches, and unresolved questions. I brought structured pre-reads, clarified the requested outcome for each topic, and captured owners and next steps. I also carried market context into the forum and returned product guidance to the relevant operating teams.",
+   "artifacts": "I produced an operating cadence, agenda template, decision log, and action tracker.",
+   "impact_or_learning": "I helped turn cross-functional updates into a more decision-oriented working rhythm. I learned that these forums are most effective when every agenda item names the decision or dependency it is intended to resolve."
+  },
+  {
+   "id": "C47",
+   "title": "APAC consumer strategy role and dashboard kickoff",
+   "period": "2026-04 to 2026-09",
+   "role": "APAC Consumer Strategy",
+   "markets": [
+    "Multi-market"
+   ],
+   "domains": [
+    "consumer-strategy",
+    "role-design",
+    "dashboard-planning",
+    "metrics-governance"
+   ],
+   "skills": [
+    "role design",
+    "operating-model design",
+    "dashboard scoping",
+    "metric governance",
+    "prototyping"
+   ],
+   "reach_out_when": [
+    "You are defining a new regional strategy remit",
+    "You need to scope a dashboard before building it",
+    "You need to reconcile global definitions with local reporting"
+   ],
+   "trigger": "I entered a newly created APAC consumer strategy remit and needed to define both the role and its first decision-support workstream.",
+   "problem": "The remit was intentionally broad, and existing global and market reporting did not yet provide one comparable regional consumer view. I needed to clarify where regional strategy should coordinate, where it should provide frameworks, and where ownership should remain with product, market, or specialist teams.",
+   "method_and_execution": "I researched adjacent operating models, drafted role boundaries and decision responsibilities, surveyed existing dashboards, and mapped candidate metrics to their governance status. I then created a phased consultation and build plan plus a synthetic-data mockup to test information architecture, filters, cadence, and drill-down behavior before any production build.",
+   "artifacts": "I produced a role-scope proposal, responsibility framework, metric catalog, dashboard plan, and prototype.",
+   "impact_or_learning": "I established a concrete kickoff for role-design and dashboard-planning discussions; I did not deliver the production dashboard. The main learning was to settle decision ownership and metric governance before investing in implementation."
+  },
+  {
+   "id": "C48",
+   "title": "Market membership priority alignment",
+   "period": "2026-06 to 2026-09",
+   "role": "APAC Membership",
+   "markets": [
+    "APAC"
+   ],
+   "domains": [
+    "membership",
+    "market-planning",
+    "stakeholder-alignment"
+   ],
+   "skills": [
+    "facilitation",
+    "requirements synthesis",
+    "prioritisation",
+    "decision framing"
+   ],
+   "reach_out_when": [
+    "You need to reconcile regional and market priorities",
+    "You need a clear pre-read for a planning discussion",
+    "You need to expose unresolved assumptions before escalation"
+   ],
+   "trigger": "I needed to align market membership priorities before they entered regional planning and product conversations.",
+   "problem": "Markets described needs at different levels of detail and with different assumptions about timing, ownership, and supporting evidence. I needed to preserve local context while making the requests comparable enough for a regional discussion.",
+   "method_and_execution": "I translated market inputs into a common structure covering the user problem, decision required, dependency, maturity, and owner. I separated confirmed needs from hypotheses, surfaced conflicts and missing evidence, and used working sessions to refine the framing. Where alignment was not possible, I recorded the decision gap rather than forcing consensus.",
+   "artifacts": "I produced an alignment brief, prioritisation template, decision log, and workshop pre-read.",
+   "impact_or_learning": "I helped regional and market stakeholders discuss priorities from the same starting point. I learned that alignment is not agreement on every item; it is shared clarity on what is known, what remains disputed, and who should decide next."
+  },
+  {
+   "id": "C49",
+   "title": "APAC competitive-intelligence capability matrix",
+   "period": "2026-07 to 2026-09",
+   "role": "APAC Membership",
+   "markets": [
+    "Multi-market"
+   ],
+   "domains": [
+    "competitive-intelligence",
+    "capability-assessment",
+    "regional-strategy"
+   ],
+   "skills": [
+    "capability mapping",
+    "evidence assessment",
+    "taxonomy design",
+    "prioritisation"
+   ],
+   "reach_out_when": [
+    "You need to compare intelligence capabilities across markets",
+    "You need an evidence-aware capability assessment",
+    "You need to turn scattered research assets into a regional operating view"
+   ],
+   "trigger": "I needed to understand how consistently competitive intelligence could support consumer and membership decisions across APAC markets.",
+   "problem": "Markets had different research assets, definitions, cadences, and evidence quality. I needed a comparable view that showed where a capability existed, how dependable it was, and what should be strengthened, without presenting incomplete coverage as absence.",
+   "method_and_execution": "I defined a common capability taxonomy, normalized market inputs, and separated verified evidence from reported or unresolved coverage. I grouped related capabilities into clear domains, recorded freshness and quality caveats, and created a prioritisation view for next steps. I preserved local nuance while making the regional comparison easy to scan.",
+   "artifacts": "I produced a capability matrix, evidence register, taxonomy, and prioritisation view.",
+   "impact_or_learning": "I created a shared baseline for discussing intelligence capability and investment needs across markets. I learned that a useful maturity view must show evidence quality and recency, not just assign a status."
+  }
+ ]
+}
