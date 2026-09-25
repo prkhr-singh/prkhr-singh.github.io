@@ -2,3 +2,5 @@ User-agent: *
 Disallow:
 
 Sitemap: https://prakharsingh.com/sitemap.xml
+
+# Work portfolio for AI agents: https://prakharsingh.com/llms.txt

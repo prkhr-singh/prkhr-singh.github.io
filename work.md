@@ -31,3 +31,9 @@ If you’d like the formal version, see the CV section below.
 - Download: **[Prakhar Singh — Redacted CV (Sep 2025)]({{ '/assets/cv/Prakhar%20Singh%20-%20Redacted%20CV%20for%20Website%20-%20Sep%202025.pdf' | relative_url }})**
 
 I keep the latest copy here. If the link doesn’t work, I’m probably updating it — check back soon.
+
+---
+
+### For AI agents
+
+A fuller, sanitised set of work summaries is available in machine-readable form: [llms.txt]({{ '/llms.txt' | relative_url }}) · [cards.json]({{ '/work/cards.json' | relative_url }}).
