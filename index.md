@@ -19,7 +19,14 @@ This site is where I document selected work and ongoing explorations — spannin
 ---
 
 ## Now
+_Updated September 2026._
+
 - Building this site.
 - Exploring AI workflows.
 - Cycling along trails in Melbourne.
 - Planning itinerary for an upcoming ambitious travel.
+
+---
+
+## Get in touch
+Open to conversations on strategy, AI, or collaborations. [Email me](mailto:prkhr.singh+website@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/prkhrsingh).
