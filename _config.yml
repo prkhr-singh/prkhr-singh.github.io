@@ -45,6 +45,13 @@ author:
     url: "https://substack.com/@prakharsingh"
 
 # SEO Tag settings
+# Default Open Graph / Twitter card image for every page
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/og.png
+
 twitter:
   username: prkhr
 
