@@ -1,6 +1,12 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
 {%- comment -%}
+  Agent-readable portfolio: lets AI agents discover the plain-text and JSON versions from any page
+{%- endcomment -%}
+<link rel="alternate" type="text/plain" title="Work portfolio for AI agents (llms.txt)" href="{{ '/llms.txt' | relative_url }}">
+<link rel="alternate" type="application/json" title="Work portfolio cards (JSON)" href="{{ '/work/cards.json' | relative_url }}">
+
+{%- comment -%}
   Favicon: uses site.favicon if set, otherwise falls back to site.logo
 {%- endcomment -%}
 {%- assign favicon_src = site.favicon | default: site.logo -%}
