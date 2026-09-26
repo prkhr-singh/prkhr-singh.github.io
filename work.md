@@ -34,6 +34,12 @@ I keep the latest copy here. If the link doesn’t work, I’m probably updating
 
 ---
 
+### Project notes
+
+- [Nomura Research Institute projects]({{ "/work/nri/" | relative_url }})
+
+---
+
 ### For AI agents
 
 A fuller, sanitised set of work summaries is available in machine-readable form: [llms.txt]({{ '/llms.txt' | relative_url }}) · [cards.json]({{ '/work/cards.json' | relative_url }}).

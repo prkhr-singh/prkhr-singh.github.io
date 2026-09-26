@@ -1420,6 +1420,864 @@
    "method_and_execution": "I defined a common capability taxonomy, normalized market inputs, and separated verified evidence from reported or unresolved coverage. I grouped related capabilities into clear domains, recorded freshness and quality caveats, and created a prioritisation view for next steps. I preserved local nuance while making the regional comparison easy to scan.",
    "artifacts": "I produced a capability matrix, evidence register, taxonomy, and prioritisation view.",
    "impact_or_learning": "I created a shared baseline for discussing intelligence capability and investment needs across markets. I learned that a useful maturity view must show evidence quality and recency, not just assign a status."
+  },
+  {
+   "id": "C50",
+   "title": "Battery-as-a-service market entry strategy",
+   "period": "2018 to 2023",
+   "role": "NRI India — Automotive Industry Consulting",
+   "markets": [
+    "India",
+    "Southeast Asia"
+   ],
+   "domains": [
+    "electric mobility",
+    "market entry",
+    "business strategy"
+   ],
+   "skills": [
+    "market sizing",
+    "commercial feasibility",
+    "customer segmentation",
+    "go-to-market planning"
+   ],
+   "reach_out_when": [
+    "You need to assess a battery-as-a-service market",
+    "You need to connect demand, unit economics, and launch choices"
+   ],
+   "trigger": "I worked on questions about whether battery-as-a-service models could be commercially viable in new markets.",
+   "problem": "The strategy had to connect market demand, customer needs, pricing, operations, and partner choices rather than treating adoption as a single forecast.",
+   "method_and_execution": "I contributed to market sizing, feasibility and profitability analysis, customer segmentation, and go-to-market framing. I compared alternative business-model assumptions and translated research into choices about target users, pricing, and rollout.",
+   "artifacts": "Market models, research decks, commercial scenarios, and strategy recommendations.",
+   "impact_or_learning": "This work taught me to test business-model assumptions against operating realities. A promising technology needs a clear customer use case and a credible route to repeatable economics."
+  },
+  {
+   "id": "C51",
+   "title": "Electric three-wheeler battery-swap pilot support",
+   "period": "2020 to 2021",
+   "role": "NRI India — Automotive Industry Consulting",
+   "markets": [
+    "India"
+   ],
+   "domains": [
+    "electric mobility",
+    "pilot operations",
+    "implementation"
+   ],
+   "skills": [
+    "pilot planning",
+    "partner coordination",
+    "operating reviews",
+    "issue tracking"
+   ],
+   "reach_out_when": [
+    "You need to move a mobility concept into a field pilot",
+    "You need a practical pilot-management rhythm across partners"
+   ],
+   "trigger": "I supported a battery-swapping pilot that needed coordination between the vehicle, charging, station, and operating workstreams.",
+   "problem": "A pilot could only produce useful learning if readiness, daily operations, exceptions, and partner responsibilities were tracked together.",
+   "method_and_execution": "I supported the project-management rhythm, including timelines, partner coordination, resource planning, reporting, and review of operational issues. I helped organise the evidence into a clear view of what the pilot tested and what remained unresolved.",
+   "artifacts": "Pilot plans, operating trackers, partner updates, and a final report.",
+   "impact_or_learning": "I learned that pilots are as much about disciplined observation and issue resolution as technical performance. Clear ownership and a shared operating record make later scale decisions more credible."
+  },
+  {
+   "id": "C52",
+   "title": "Design ethnography for connected-vehicle services",
+   "period": "2019",
+   "role": "NRI India — Automotive Industry Consulting",
+   "markets": [
+    "India"
+   ],
+   "domains": [
+    "consumer research",
+    "connected mobility",
+    "service design"
+   ],
+   "skills": [
+    "qualitative research",
+    "ethnography",
+    "customer-journey synthesis",
+    "insight translation"
+   ],
+   "reach_out_when": [
+    "You need to discover unmet needs before designing a mobility service",
+    "You need to translate qualitative fieldwork into product questions"
+   ],
+   "trigger": "I worked on research into how drivers used vehicles and digital services in everyday life.",
+   "problem": "Feature ideas needed to be grounded in motivations, habits, and pain points that conventional product assumptions could miss.",
+   "method_and_execution": "I contributed to a research approach combining observation and interviews, then helped organise findings around behaviours, mindsets, and unmet needs. I translated the qualitative evidence into service-design questions while keeping the limits of a small research sample visible.",
+   "artifacts": "Discussion guides, fieldwork synthesis, customer journeys, and insight decks.",
+   "impact_or_learning": "I learned that contextual research is most useful when it changes the questions a product team asks. It should inspire hypotheses for testing rather than present a small sample as a market-wide answer."
+  },
+  {
+   "id": "C53",
+   "title": "Telematics service monetisation strategy",
+   "period": "2019 to 2021",
+   "role": "NRI India — Automotive Industry Consulting",
+   "markets": [
+    "India"
+   ],
+   "domains": [
+    "connected mobility",
+    "digital services",
+    "business models"
+   ],
+   "skills": [
+    "business-model design",
+    "engagement mechanics",
+    "financial modelling"
+   ],
+   "reach_out_when": [
+    "You need to turn a connected-product concept into a business model",
+    "You need to test engagement and monetisation assumptions together"
+   ],
+   "trigger": "I worked on how a connected-vehicle service could create recurring customer value and a viable commercial model.",
+   "problem": "The proposition needed to link user engagement, service design, and financial assumptions without assuming that a feature list would generate sustained use.",
+   "method_and_execution": "I helped frame possible value propositions, engagement mechanics, and monetisation options, then tested their implications through financial forecasts and scenario discussions.",
+   "artifacts": "Business-model options, engagement concepts, financial forecasts, and strategy decks.",
+   "impact_or_learning": "The work reinforced that monetisation follows repeated customer value. Engagement assumptions and commercial forecasts have to be examined together."
+  },
+  {
+   "id": "C54",
+   "title": "Dealership customer-experience improvement pilot",
+   "period": "2018 to 2022",
+   "role": "NRI India — Automotive Industry Consulting",
+   "markets": [
+    "India"
+   ],
+   "domains": [
+    "automotive retail",
+    "customer experience",
+    "implementation"
+   ],
+   "skills": [
+    "pilot design",
+    "process improvement",
+    "training design",
+    "stakeholder coordination"
+   ],
+   "reach_out_when": [
+    "You need to test a dealership experience change",
+    "You need to connect process, people, and tools in a frontline pilot"
+   ],
+   "trigger": "I supported a customer-engagement improvement effort in an automotive dealership network.",
+   "problem": "A recommendation for better customer experience had to translate into frontline behaviours, management routines, and workable tools.",
+   "method_and_execution": "I helped design and run a pilot using a plan-do-check-act rhythm. The work considered roles, training, recognition, and process and tool changes, with learning captured for subsequent decisions.",
+   "artifacts": "Pilot plans, process maps, training material, review decks, and action trackers.",
+   "impact_or_learning": "I learned that frontline change requires explicit ownership and feedback loops. A strategy only becomes testable when it is translated into daily behaviours and reviewed with the people doing the work."
+  },
+  {
+   "id": "C55",
+   "title": "Utility-scale energy-storage software concept",
+   "period": "2022",
+   "role": "NRI India — Consulting",
+   "markets": [
+    "United States",
+    "India"
+   ],
+   "domains": [
+    "energy storage",
+    "digital transformation",
+    "product strategy"
+   ],
+   "skills": [
+    "competitor benchmarking",
+    "requirements discovery",
+    "process mapping",
+    "product scoping"
+   ],
+   "reach_out_when": [
+    "You need to define a digital product around a complex energy workflow",
+    "You need to turn market and user research into software requirements"
+   ],
+   "trigger": "I worked on the concept for software supporting storage optimisation and revenue management in utility-scale energy storage.",
+   "problem": "The team needed to connect business goals, operational workflows, competitor capabilities, and user needs before deciding what the software should do.",
+   "method_and_execution": "I contributed to market and software benchmarking, stakeholder interviews, process mapping, and a prioritised functionality view. The work helped frame development direction and the questions to resolve before vendor selection or build.",
+   "artifacts": "Benchmarking, process flows, functionality lists, concept decks, and development planning material.",
+   "impact_or_learning": "I learned that a useful product concept starts with the decisions and workflows it supports. Feature lists become more meaningful when the underlying business process and assumptions are visible."
+  },
+  {
+   "id": "C56",
+   "title": "International research collaboration landscape",
+   "period": "2021 to 2022",
+   "role": "NRI India — Consulting",
+   "markets": [
+    "India",
+    "Japan"
+   ],
+   "domains": [
+    "public sector",
+    "research and development",
+    "international collaboration"
+   ],
+   "skills": [
+    "landscape research",
+    "institution mapping",
+    "expert interviews",
+    "policy synthesis"
+   ],
+   "reach_out_when": [
+    "You need to map a research ecosystem",
+    "You need to identify practical barriers to international collaboration"
+   ],
+   "trigger": "I contributed to a study of international joint research and startup-support opportunities between India and Japan.",
+   "problem": "The work needed a comparable view of institutions, collaboration patterns, and barriers rather than a directory of organisations.",
+   "method_and_execution": "I helped organise desk research and interview inputs into a landscape of potential partners, current collaboration, and practical considerations. The synthesis distinguished documented activity from opportunities that would need direct validation.",
+   "artifacts": "Institution mapping, interview notes, research reports, and an executive summary.",
+   "impact_or_learning": "I learned that ecosystem studies are most useful when they connect the landscape to specific partnership questions and show where evidence is incomplete."
+  },
+  {
+   "id": "C57",
+   "title": "Electric-mobility policy and ecosystem research",
+   "period": "2018 to 2022",
+   "role": "NRI India — Automotive Industry Consulting",
+   "markets": [
+    "India"
+   ],
+   "domains": [
+    "electric mobility",
+    "public policy",
+    "market development"
+   ],
+   "skills": [
+    "policy research",
+    "stakeholder mapping",
+    "regulatory synthesis",
+    "strategy communication"
+   ],
+   "reach_out_when": [
+    "You need to understand how policy shapes an emerging mobility market",
+    "You need to connect regulatory research with commercial choices"
+   ],
+   "trigger": "I worked on policy and ecosystem questions relevant to electric mobility in India.",
+   "problem": "Investment and rollout choices depended on an evolving mix of regulation, infrastructure, industry incentives, and stakeholder interests.",
+   "method_and_execution": "I contributed to regulatory review, market and stakeholder mapping, and synthesis of how policy developments might affect business options. I helped frame findings as scenarios and decision questions where implementation or timing remained uncertain.",
+   "artifacts": "Policy notes, market studies, stakeholder maps, and presentation material.",
+   "impact_or_learning": "I learned that policy research becomes more valuable when it explains the practical choices it changes and makes uncertainty about implementation explicit."
+  },
+  {
+   "id": "C58",
+   "title": "Automotive consumer segmentation and pricing research",
+   "period": "2018 to 2022",
+   "role": "NRI India — Automotive Industry Consulting",
+   "markets": [
+    "India"
+   ],
+   "domains": [
+    "consumer research",
+    "automotive",
+    "pricing strategy"
+   ],
+   "skills": [
+    "survey design",
+    "qualitative synthesis",
+    "segmentation",
+    "pricing research"
+   ],
+   "reach_out_when": [
+    "You need to understand automotive customer segments",
+    "You need to connect pricing evidence with product and marketing decisions"
+   ],
+   "trigger": "I worked on consumer studies supporting automotive product, pricing, and marketing choices.",
+   "problem": "Teams needed to understand differences in customer needs, purchase journeys, and willingness to pay rather than rely on an average respondent.",
+   "method_and_execution": "I contributed to qualitative and quantitative research approaches, including interviews, surveys, ethnography, and pricing exercises. I helped turn findings into segment profiles, customer-journey views, and decision implications while keeping sample and method limitations clear.",
+   "artifacts": "Research instruments, segment profiles, customer journeys, pricing analyses, and client decks.",
+   "impact_or_learning": "I learned to treat segmentation as a tool for making choices. The useful output is a clear account of how different customers behave and what that implies for the offer, message, or channel."
+  },
+  {
+   "id": "C59",
+   "title": "Japan tourism marketing strategy for India",
+   "period": "2019 to 2020",
+   "role": "NRI India — Consulting",
+   "markets": [
+    "India",
+    "Japan"
+   ],
+   "domains": [
+    "tourism",
+    "consumer research",
+    "marketing strategy"
+   ],
+   "skills": [
+    "segmentation",
+    "customer journeys",
+    "media strategy"
+   ],
+   "reach_out_when": [
+    "You need to choose target segments for destination marketing",
+    "You need to connect research with channel and content choices"
+   ],
+   "trigger": "JNTO needed an India-specific approach to attracting travellers to Japan.",
+   "problem": "The work had to identify promising travellers, what appealed to them, and how they moved from awareness to trip planning.",
+   "method_and_execution": "I helped develop a market and traveller view using consumer, trade, and expert research. The work connected segment profiles and customer journeys with content themes, media channels, and a promotion roadmap.",
+   "artifacts": "Market study, segment profiles, journey maps, content concepts, and a marketing plan.",
+   "impact_or_learning": "The useful link was from audience evidence to a practical promotion plan, with local travel behaviour shaping the message and channel choices."
+  },
+  {
+   "id": "C60",
+   "title": "India–Japan trade and sector competitiveness analysis",
+   "period": "2020 to 2021",
+   "role": "NRI India — Consulting",
+   "markets": [
+    "India",
+    "Japan"
+   ],
+   "domains": [
+    "public sector",
+    "trade policy",
+    "industrial strategy"
+   ],
+   "skills": [
+    "trade analysis",
+    "sector research",
+    "policy synthesis"
+   ],
+   "reach_out_when": [
+    "You need to turn trade data into negotiation questions",
+    "You need a structured view of sector competitiveness"
+   ],
+   "trigger": "A Japan government engagement required evidence on India’s trade position and industrial competitiveness.",
+   "problem": "The analysis needed to connect macro trade patterns with sector-specific barriers and possible policy responses.",
+   "method_and_execution": "I contributed to research and coordination across trade statistics, industrial structure, comparative policy, and stakeholder inputs. The outputs framed discussion points and recommendations for India–Japan policy dialogue.",
+   "artifacts": "Trade and sector analysis, meeting decks, policy notes, and symposium material.",
+   "impact_or_learning": "I learned to separate what data showed from what policy negotiations might realistically achieve. Cross-government work also depends on careful coordination and attribution."
+  },
+  {
+   "id": "C61",
+   "title": "Global freight-management digital transformation",
+   "period": "2022 to 2023",
+   "role": "NRI India — Consulting",
+   "markets": [
+    "Multi-market"
+   ],
+   "domains": [
+    "logistics",
+    "digital transformation",
+    "change management"
+   ],
+   "skills": [
+    "requirements prioritisation",
+    "vendor evaluation",
+    "operating-model design"
+   ],
+   "reach_out_when": [
+    "You need to scope a freight-management system",
+    "You need to connect software selection with process change"
+   ],
+   "trigger": "A global manufacturer wanted a more consistent way to manage freight workflows across hubs.",
+   "problem": "Bidding, booking, tracking, vendor choice, and adoption needed to be treated as one transformation rather than separate technology tasks.",
+   "method_and_execution": "I helped prioritise system functions, structure vendor assessment, and define process and change-management needs across the operating teams.",
+   "artifacts": "Requirements, vendor comparisons, implementation plan, and operating KPIs.",
+   "impact_or_learning": "I learned that system value depends on workflow redesign and adoption, not just a selected product."
+  },
+  {
+   "id": "C62",
+   "title": "Renewable-energy investment opportunity screening",
+   "period": "2022",
+   "role": "NRI India — Consulting",
+   "markets": [
+    "India",
+    "Asia-Pacific"
+   ],
+   "domains": [
+    "renewable energy",
+    "investment strategy",
+    "market research"
+   ],
+   "skills": [
+    "PEST analysis",
+    "market screening",
+    "target shortlisting"
+   ],
+   "reach_out_when": [
+    "You need to compare renewable-energy investment markets",
+    "You need to move from market landscape to target outreach"
+   ],
+   "trigger": "An energy investor needed to identify promising renewable-energy opportunities across India and other Asian markets.",
+   "problem": "Market attractiveness alone was insufficient; policy, economics, potential partners, and strategic fit all mattered.",
+   "method_and_execution": "I researched market conditions and technology pathways, helped screen and shortlist players, and supported early discussions to test strategic fit.",
+   "artifacts": "Market screens, target lists, research reports, and discussion materials.",
+   "impact_or_learning": "I learned to use the broad market scan to narrow the next diligence questions, not to treat it as a final investment decision."
+  },
+  {
+   "id": "C63",
+   "title": "Post-merger integration planning for an FMCG acquisition",
+   "period": "2018 to 2023",
+   "role": "NRI India — Consulting",
+   "markets": [
+    "India"
+   ],
+   "domains": [
+    "post-merger integration",
+    "operations",
+    "organisation design"
+   ],
+   "skills": [
+    "process mapping",
+    "integration planning",
+    "stakeholder coordination"
+   ],
+   "reach_out_when": [
+    "You need an integration plan after an acquisition",
+    "You need to align process, organisation, and compliance workstreams"
+   ],
+   "trigger": "A cross-border acquisition created a need to integrate operations and organisations.",
+   "problem": "The integration plan had to account for process overlap, organisational responsibilities, milestones, and legal and tax dependencies.",
+   "method_and_execution": "I coordinated with business leaders and specialist teams on process streamlining, organisation design, and implementation planning.",
+   "artifacts": "Integration plan, milestone and KPI framework, and organisation workstream materials.",
+   "impact_or_learning": "I learned that integration needs named owners and a sequence of operating decisions, not just a synergy target."
+  },
+  {
+   "id": "C64",
+   "title": "Strategic equity investment screening in beverages",
+   "period": "During NRI tenure",
+   "role": "NRI India — Consulting",
+   "markets": [
+    "India",
+    "Japan"
+   ],
+   "domains": [
+    "investment strategy",
+    "consumer markets",
+    "commercial diligence"
+   ],
+   "skills": [
+    "market screening",
+    "target assessment",
+    "financial modelling"
+   ],
+   "reach_out_when": [
+    "You need to screen investment targets in a consumer category",
+    "You need to connect commercial diligence with valuation"
+   ],
+   "trigger": "A Japanese beverage company considered investment opportunities in India.",
+   "problem": "The decision needed a view of category demand, competitive position, target fit, and valuation assumptions.",
+   "method_and_execution": "I analysed the market and customer base, shortlisted potential investment targets, supported early conversations and commercial diligence, and built a valuation model.",
+   "artifacts": "Market screen, target shortlist, diligence notes, and valuation scenarios.",
+   "impact_or_learning": "I learned to make the investment thesis and the assumptions behind valuation explicit before narrowing to a target."
+  },
+  {
+   "id": "C65",
+   "title": "Blockchain-enabled mobility-platform strategy",
+   "period": "2020 to 2021",
+   "role": "NRI India — Consulting",
+   "markets": [
+    "Europe"
+   ],
+   "domains": [
+    "mobility as a service",
+    "digital strategy",
+    "platform business"
+   ],
+   "skills": [
+    "feasibility assessment",
+    "partner mapping",
+    "business-model design"
+   ],
+   "reach_out_when": [
+    "You need to evaluate blockchain for a real mobility workflow",
+    "You need to compare platform and product business models"
+   ],
+   "trigger": "A mobility platform concept sought a way to support data sharing and transactions across operators.",
+   "problem": "The strategy had to establish where the technology solved a business problem, what partners were needed, and how the proposition could scale.",
+   "method_and_execution": "I assessed the regulatory and technology questions, mapped potential partners, and compared platform and product routes alongside a market and business-model view.",
+   "artifacts": "Feasibility assessment, partner map, business-model options, and strategy deck.",
+   "impact_or_learning": "I learned to evaluate an emerging technology by the coordination problem it solves and the willingness of partners to participate."
+  },
+  {
+   "id": "C66",
+   "title": "Data-centre solution go-to-market strategy",
+   "period": "2022 to 2023",
+   "role": "NRI India — Consulting",
+   "markets": [
+    "India"
+   ],
+   "domains": [
+    "data centres",
+    "go-to-market strategy",
+    "competitive intelligence"
+   ],
+   "skills": [
+    "competitor benchmarking",
+    "market positioning",
+    "customer research"
+   ],
+   "reach_out_when": [
+    "You need to position a new data-centre solution",
+    "You need to connect customer requirements with a route to market"
+   ],
+   "trigger": "A technology group explored an integrated data-centre solution for India.",
+   "problem": "Several product and service lines had to be positioned around customer needs and a coherent market offer.",
+   "method_and_execution": "I contributed to competitor, product, and customer research and helped frame the offering, potential customers, and route-to-market choices.",
+   "artifacts": "Benchmarking, customer-research plan, market positioning, and go-to-market materials.",
+   "impact_or_learning": "I learned that a service offer must be defined around the customer problem and delivery model, not just assembled from existing products."
+  },
+  {
+   "id": "C67",
+   "title": "Data-centre organisation transformation plan",
+   "period": "2022 to 2023",
+   "role": "NRI India — Consulting",
+   "markets": [
+    "India"
+   ],
+   "domains": [
+    "data centres",
+    "organisation design",
+    "change management"
+   ],
+   "skills": [
+    "operating-model design",
+    "stakeholder alignment",
+    "roadmapping"
+   ],
+   "reach_out_when": [
+    "You need multiple business units to deliver one service offer",
+    "You need a phase-wise organisation change plan"
+   ],
+   "trigger": "The proposed data-centre offer required coordination across business units that previously sold separate products.",
+   "problem": "A unified service model needed clear responsibilities, incentives, sales processes, and a staged transition.",
+   "method_and_execution": "I helped frame the future operating model, compare relevant competitors, and plan stakeholder alignment and change-management steps.",
+   "artifacts": "Organisation blueprint, transformation roadmap, stakeholder plan, and operating-model deck.",
+   "impact_or_learning": "I learned that a coherent external offer depends on internal ownership and incentives that support it."
+  },
+  {
+   "id": "C68",
+   "title": "Consulting account management and proposal operations",
+   "period": "2018 to 2023",
+   "role": "NRI India — Consulting",
+   "markets": [
+    "India",
+    "Japan"
+   ],
+   "domains": [
+    "business development",
+    "account management",
+    "knowledge management"
+   ],
+   "skills": [
+    "proposal development",
+    "client coordination",
+    "process improvement"
+   ],
+   "reach_out_when": [
+    "You need a repeatable consulting proposal process",
+    "You need to organise account opportunities and delivery knowledge"
+   ],
+   "trigger": "Alongside project delivery, the consulting team needed to develop new work and sustain client relationships.",
+   "problem": "Proposals and account knowledge had to be tailored, timely, and reusable without flattening the client problem.",
+   "method_and_execution": "I worked on proposals and sales collateral, account coordination, and a more structured way to reuse prior knowledge in the proposal workflow.",
+   "artifacts": "Proposals, credentials, client briefs, knowledge-management assets, and trackers.",
+   "impact_or_learning": "I learned that business development works better when delivery evidence is easy to retrieve and the proposed work remains specific to the client."
+  },
+  {
+   "id": "C69",
+   "title": "Next-generation battery technology screening",
+   "period": "2022",
+   "role": "NRI India — Consulting",
+   "markets": [
+    "Japan",
+    "India"
+   ],
+   "domains": [
+    "energy storage",
+    "technology strategy",
+    "R&D portfolio"
+   ],
+   "skills": [
+    "technology assessment",
+    "market screening",
+    "prioritisation"
+   ],
+   "reach_out_when": [
+    "You need to compare emerging battery technologies",
+    "You need a structured R&D investment screen"
+   ],
+   "trigger": "A trading-company R&D team needed to identify battery technologies with potential commercial relevance.",
+   "problem": "Promising technologies differed in maturity, cost, use case, demand, and competition, so one performance measure could not rank them fairly.",
+   "method_and_execution": "I helped assess technology options against practical application and commercial criteria and structured a prioritisation view for further investigation.",
+   "artifacts": "Technology landscape, evaluation criteria, prioritisation matrix, and research deck.",
+   "impact_or_learning": "I learned to make maturity and commercialisation assumptions explicit when comparing technologies at different stages."
+  },
+  {
+   "id": "C70",
+   "title": "Millennial co-branding strategy for a legacy automotive brand",
+   "period": "During NRI tenure",
+   "role": "NRI India — Consulting",
+   "markets": [
+    "India"
+   ],
+   "domains": [
+    "brand strategy",
+    "partnerships",
+    "customer engagement"
+   ],
+   "skills": [
+    "partner screening",
+    "brand fit",
+    "activation planning"
+   ],
+   "reach_out_when": [
+    "You need to select a co-brand partner",
+    "You need to turn a partnership concept into an activation plan"
+   ],
+   "trigger": "A legacy automotive brand wanted to build relevance with younger customers.",
+   "problem": "A partner needed both audience overlap and brand fit, followed by a practical plan for activations and measurement.",
+   "method_and_execution": "I assessed potential partner brands, helped frame the fit criteria, and developed a roadmap for commercial and marketing collaboration.",
+   "artifacts": "Partner shortlist, brand-fit analysis, activation roadmap, and evaluation framework.",
+   "impact_or_learning": "I learned that co-branding needs a credible connection between audiences and a clear operating plan after the announcement."
+  },
+  {
+   "id": "C71",
+   "title": "Luxury automotive sales-service SOP design",
+   "period": "2018 to 2023",
+   "role": "NRI India — Consulting",
+   "markets": [
+    "India"
+   ],
+   "domains": [
+    "automotive retail",
+    "customer experience",
+    "process design"
+   ],
+   "skills": [
+    "customer research",
+    "service blueprinting",
+    "SOP design"
+   ],
+   "reach_out_when": [
+    "You need a consistent high-touch dealership experience",
+    "You need to translate customer expectations into operating steps"
+   ],
+   "trigger": "A luxury automotive brand needed a consistent approach to the customer journey.",
+   "problem": "The process had to cover the full relationship from lead handling through post-sale engagement while allowing for premium service expectations.",
+   "method_and_execution": "I researched customer expectations and helped design sales-process standard operating procedures for a luxury automotive customer journey.",
+   "artifacts": "Customer study, journey map, sales SOP, and implementation guidance.",
+   "impact_or_learning": "I learned that a service standard is useful when its actions are observable and supported by frontline teams."
+  },
+  {
+   "id": "C72",
+   "title": "Two-wheeler captive-finance business planning",
+   "period": "2021 to 2022",
+   "role": "NRI India — Consulting",
+   "markets": [
+    "India"
+   ],
+   "domains": [
+    "automotive finance",
+    "business strategy",
+    "operating model"
+   ],
+   "skills": [
+    "customer segmentation",
+    "financial-product design",
+    "feasibility analysis"
+   ],
+   "reach_out_when": [
+    "You need to assess captive finance for an automotive OEM",
+    "You need to link finance product design to customer and dealer needs"
+   ],
+   "trigger": "A two-wheeler manufacturer examined whether a captive-finance business could improve customer access and commercial performance.",
+   "problem": "The concept required a viable customer segment, product terms, partner structure, and operating capabilities.",
+   "method_and_execution": "I contributed to feasibility, customer and competitor analysis, product and operating-model questions, and staged business planning.",
+   "artifacts": "Feasibility reports, customer research, business-model options, and implementation plans.",
+   "impact_or_learning": "I learned that finance strategy needs careful alignment between customer value, risk, dealer operations, and collection capabilities."
+  },
+  {
+   "id": "C73",
+   "title": "Strategic supplier and procurement benchmarking",
+   "period": "2020",
+   "role": "NRI India — Consulting",
+   "markets": [
+    "India"
+   ],
+   "domains": [
+    "procurement",
+    "supplier strategy",
+    "automotive"
+   ],
+   "skills": [
+    "supplier screening",
+    "contract benchmarking",
+    "sourcing strategy"
+   ],
+   "reach_out_when": [
+    "You need to compare suppliers beyond quoted price",
+    "You need to structure a strategic sourcing decision"
+   ],
+   "trigger": "An industrial client considered a more coordinated battery procurement strategy.",
+   "problem": "Supplier selection needed to weigh supply capability, terms, delivery performance, and strategic fit.",
+   "method_and_execution": "I assessed supplier and competitor information and helped frame a sourcing plan with criteria for selecting and negotiating with vendors.",
+   "artifacts": "Supplier assessment, benchmark, sourcing options, and proposal material.",
+   "impact_or_learning": "I learned that a procurement recommendation is stronger when it shows trade-offs and assumptions behind the shortlist."
+  },
+  {
+   "id": "C74",
+   "title": "Sunscreen market-entry channel strategy",
+   "period": "During NRI tenure",
+   "role": "NRI India — Consulting",
+   "markets": [
+    "India"
+   ],
+   "domains": [
+    "beauty",
+    "market entry",
+    "distribution strategy"
+   ],
+   "skills": [
+    "consumer segmentation",
+    "channel research",
+    "partner screening"
+   ],
+   "reach_out_when": [
+    "You need to choose channels for a consumer-product launch",
+    "You need to match customer segments with distribution partners"
+   ],
+   "trigger": "A Japanese personal-care company explored launching sunscreen in India.",
+   "problem": "The route to market had to fit distinct customer groups, buying habits, and channel economics.",
+   "method_and_execution": "I researched consumers, benchmarked competitors, assessed distribution options, and developed a market-entry channel strategy and partner view.",
+   "artifacts": "Consumer segments, channel map, competitor analysis, and market-entry recommendations.",
+   "impact_or_learning": "I learned to start channel design from customer behaviour rather than assume one national route to market."
+  },
+  {
+   "id": "C75",
+   "title": "US skincare brand repositioning",
+   "period": "2021",
+   "role": "NRI India — Consulting",
+   "markets": [
+    "United States",
+    "Japan"
+   ],
+   "domains": [
+    "beauty",
+    "brand strategy",
+    "consumer research"
+   ],
+   "skills": [
+    "category analysis",
+    "competitor benchmarking",
+    "positioning"
+   ],
+   "reach_out_when": [
+    "You need to reposition a skincare brand",
+    "You need to connect category evidence with a differentiated offer"
+   ],
+   "trigger": "A Japanese skincare group assessed its positioning in the United States.",
+   "problem": "The work needed to understand category trends, channels, competitors, and customer reasons to choose or reject the brand.",
+   "method_and_execution": "I contributed to market and competitor research and helped turn category and customer evidence into positioning and product questions.",
+   "artifacts": "Category landscape, competitor maps, SWOT, product benchmarking, and recommendations.",
+   "impact_or_learning": "I learned to test brand differentiation against both customer language and the way alternatives are sold in the market."
+  },
+  {
+   "id": "C76",
+   "title": "ASEAN cosmetics market-entry prioritisation",
+   "period": "During NRI tenure",
+   "role": "NRI India — Consulting",
+   "markets": [
+    "Southeast Asia"
+   ],
+   "domains": [
+    "beauty",
+    "market entry",
+    "regional strategy"
+   ],
+   "skills": [
+    "market sizing",
+    "country prioritisation",
+    "consumer research"
+   ],
+   "reach_out_when": [
+    "You need to choose among ASEAN entry markets",
+    "You need to adapt a beauty offer to different countries"
+   ],
+   "trigger": "A diversified Japanese beauty group explored expansion in Southeast Asia.",
+   "problem": "Country choices needed to reflect market growth, category trends, consumer preferences, and the feasibility of a regional operating approach.",
+   "method_and_execution": "I researched macro and cosmetics-category trends, compared priority countries, and shaped a regional go-to-market plan.",
+   "artifacts": "Country screens, market model, consumer synthesis, and go-to-market recommendations.",
+   "impact_or_learning": "I learned that a regional strategy needs common criteria while preserving country-level differences."
+  },
+  {
+   "id": "C77",
+   "title": "Automotive cost-optimisation programme",
+   "period": "2018 to 2023",
+   "role": "NRI India — Consulting",
+   "markets": [
+    "India"
+   ],
+   "domains": [
+    "automotive",
+    "performance improvement",
+    "cost strategy"
+   ],
+   "skills": [
+    "value-chain benchmarking",
+    "gap analysis",
+    "initiative prioritisation"
+   ],
+   "reach_out_when": [
+    "You need to find cost opportunities across an automotive value chain",
+    "You need to turn a benchmark into an action programme"
+   ],
+   "trigger": "An automotive business wanted to identify structural cost improvements.",
+   "problem": "A credible programme required comparison across functions and prioritisation of initiatives that could be executed.",
+   "method_and_execution": "I benchmarked the automotive value chain, identified performance gaps, and helped plan a multi-part cost-improvement programme.",
+   "artifacts": "Benchmark, opportunity map, and cost-improvement roadmap.",
+   "impact_or_learning": "I learned that a benchmark becomes useful when it identifies owners, timing, and operational constraints for each lever."
+  },
+  {
+   "id": "C78",
+   "title": "Automotive demand forecasting and supply-chain optimisation",
+   "period": "During NRI tenure",
+   "role": "NRI India — Consulting",
+   "markets": [
+    "India"
+   ],
+   "domains": [
+    "automotive",
+    "supply chain",
+    "forecasting"
+   ],
+   "skills": [
+    "demand modelling",
+    "segmentation",
+    "inventory planning"
+   ],
+   "reach_out_when": [
+    "You need a more granular vehicle-demand forecast",
+    "You need to link forecasting to inventory decisions"
+   ],
+   "trigger": "An automotive manufacturer needed a better basis for supply and inventory planning.",
+   "problem": "Demand varied by geography and product attributes, making a broad forecast insufficient for operational decisions.",
+   "method_and_execution": "I combined bottom-up and top-down demand forecasts, using regional and product-level cuts, and applied a continuous-improvement approach to supply and inventory planning.",
+   "artifacts": "Forecast model, planning cuts, inventory recommendations, and review cadence.",
+   "impact_or_learning": "I learned to make forecast assumptions visible and connect model updates to the decisions they are meant to improve."
+  },
+  {
+   "id": "C79",
+   "title": "Second-life EV battery reuse and recycling strategy",
+   "period": "2018 to 2020",
+   "role": "NRI India — Consulting",
+   "markets": [
+    "India"
+   ],
+   "domains": [
+    "electric mobility",
+    "circular economy",
+    "energy storage"
+   ],
+   "skills": [
+    "reuse-market screening",
+    "regulatory research",
+    "partner assessment"
+   ],
+   "reach_out_when": [
+    "You need to assess second-life battery uses",
+    "You need to compare reuse and recycling partner options"
+   ],
+   "trigger": "An automotive client considered how batteries could generate value after their first vehicle life.",
+   "problem": "Reuse use cases, technical requirements, policy, and recycling pathways had to be assessed together.",
+   "method_and_execution": "I helped screen possible second-life applications, review customer and policy requirements, and assess potential recycling partners.",
+   "artifacts": "Reuse opportunity map, policy analysis, partner shortlist, and research materials.",
+   "impact_or_learning": "I learned to separate the value of a reuse use case from the practical requirements for safe deployment and end-of-life handling."
   }
  ]
 }
