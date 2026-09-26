@@ -274,3 +274,12 @@ ul.social-media-list li {
 .px-card[open] .nri-tags { margin-bottom: 1rem; }
 .px-skills { font-size: .85rem; color: #52616b; margin: 1rem 0 0; }
 @media (max-width: 760px) { .px-axis legend { float: none; width: 100%; } }
+
+/* Wide work pages: let the content column fill the wider wrapper (theme fixes section at 500px) */
+body.subpage.has-nri-work .wrapper { width: auto; box-sizing: border-box; }
+body.subpage.has-nri-work .wrapper > section { float: none; width: auto; max-width: 900px; }
+@media (max-width: 960px) {
+  body.subpage.has-nri-work .wrapper { margin: 0; }
+  body.subpage.has-nri-work .wrapper > header { padding-right: 0; }
+}
+body.subpage.has-nri-work .nri-page { overflow-wrap: anywhere; }
