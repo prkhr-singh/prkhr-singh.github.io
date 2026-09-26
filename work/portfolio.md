@@ -62,7 +62,7 @@ description: "Filter Prakhar Singh's project cards by company, geography, indust
     $('px-list').innerHTML = shown.map(function (c) {
       var tags = [c.company].concat(c.geos, c.industries, c.themes).map(function (t) { return '<span>' + esc(t) + '</span>'; }).join('');
       var f = [['Context', c.trigger], ['Problem', c.problem], ['What I did', c.method_and_execution], ['Artifacts', c.artifacts], ['What I learned', c.impact_or_learning]];
-      return '<details class="nri-card px-card" id="' + c.id.toLowerCase() + '"><summary><p class="nri-id">' + esc(c.id) + ' · ' + esc(c.role) + ' · ' + esc(c.period) + '</p><h2>' + esc(c.title) + '</h2><div class="nri-tags">' + tags + '</div></summary>' +
+      return '<details class="nri-card px-card" id="' + c.id.toLowerCase() + '"><summary><p class="nri-id">' + esc(c.role) + ' · ' + esc(c.period) + '</p><h2>' + esc(c.title) + '</h2><div class="nri-tags">' + tags + '</div></summary>' +
         '<div class="nri-fields">' + f.map(function (x) { return '<div><h3>' + x[0] + '</h3><p>' + esc(x[1]) + '</p></div>'; }).join('') + '</div>' +
         '<p class="px-skills"><strong>Skills:</strong> ' + esc(c.skills.join(', ')) + '</p></details>';
     }).join('') || '<p>No projects match these filters. Try removing one.</p>';
