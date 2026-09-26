@@ -36,7 +36,7 @@ I keep the latest copy here. If the link doesn’t work, I’m probably updating
 
 ### Project notes
 
-- [Nomura Research Institute projects]({{ "/work/nri/" | relative_url }})
+- **[Explore all projects]({{ "/work/portfolio/" | relative_url }})**: all NRI and Uber projects, filterable by company, geography, industry, and theme
 
 ---
 
