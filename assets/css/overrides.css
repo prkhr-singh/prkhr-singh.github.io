@@ -253,7 +253,7 @@ ul.social-media-list li {
 }
 
 /* Work portfolio explorer (reuses NRI card styles) */
-.px-controls { position: sticky; top: 0; z-index: 2; background: #fff; padding: .6rem 0 .4rem; margin-bottom: 1rem; border-bottom: 1px solid #dce5e8; }
+.px-controls { padding: .6rem 0 .4rem; margin-bottom: 1rem; border-bottom: 1px solid #dce5e8; }
 #px-q { width: 100%; box-sizing: border-box; padding: .55rem .75rem; font-size: 1rem; border: 1px solid #c9d6da; border-radius: 8px; margin-bottom: .5rem; }
 .px-axis { border: 0; padding: 0; margin: 0 0 .45rem; display: flex; flex-wrap: wrap; gap: .35rem; align-items: center; }
 .px-axis legend { float: left; width: 6.5rem; color: #46646d; font-size: .72rem; font-weight: 700; letter-spacing: .07em; text-transform: uppercase; padding: 0; }
@@ -273,4 +273,4 @@ ul.social-media-list li {
 .px-card .nri-tags { margin-bottom: 0; }
 .px-card[open] .nri-tags { margin-bottom: 1rem; }
 .px-skills { font-size: .85rem; color: #52616b; margin: 1rem 0 0; }
-@media (max-width: 760px) { .px-controls { position: static; } .px-axis legend { float: none; width: 100%; } }
+@media (max-width: 760px) { .px-axis legend { float: none; width: 100%; } }
