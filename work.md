@@ -36,6 +36,7 @@ I keep the latest copy here. If the link doesn’t work, I’m probably updating
 
 ### Project notes
 
+- **[Explore all projects]({{ "/work/portfolio/" | relative_url }})**: filter by company, geography, industry, and theme
 - [Nomura Research Institute projects]({{ "/work/nri/" | relative_url }})
 
 ---

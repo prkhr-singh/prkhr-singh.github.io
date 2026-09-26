@@ -227,7 +227,7 @@ work_nri_page: true
 <div><h3>Reach out when</h3><p>You need an integration plan after an acquisition · You need to align process, organisation, and compliance workstreams</p></div>
 </div><a class="nri-top" href="#projects">↑ All projects</a></article>
 <article class="nri-card" id="c64">
-<p class="nri-id">C64 · During NRI tenure</p>
+<p class="nri-id">C64 · 2018 to 2023</p>
 <h2>Strategic equity investment screening in beverages</h2>
 <div class="nri-tags"><span>India</span><span>Japan</span></div>
 <div class="nri-fields">
@@ -305,7 +305,7 @@ work_nri_page: true
 <div><h3>Reach out when</h3><p>You need to compare emerging battery technologies · You need a structured R&amp;D investment screen</p></div>
 </div><a class="nri-top" href="#projects">↑ All projects</a></article>
 <article class="nri-card" id="c70">
-<p class="nri-id">C70 · During NRI tenure</p>
+<p class="nri-id">C70 · 2018 to 2023</p>
 <h2>Millennial co-branding strategy for a legacy automotive brand</h2>
 <div class="nri-tags"><span>India</span></div>
 <div class="nri-fields">
@@ -357,7 +357,7 @@ work_nri_page: true
 <div><h3>Reach out when</h3><p>You need to compare suppliers beyond quoted price · You need to structure a strategic sourcing decision</p></div>
 </div><a class="nri-top" href="#projects">↑ All projects</a></article>
 <article class="nri-card" id="c74">
-<p class="nri-id">C74 · During NRI tenure</p>
+<p class="nri-id">C74 · 2018 to 2023</p>
 <h2>Sunscreen market-entry channel strategy</h2>
 <div class="nri-tags"><span>India</span></div>
 <div class="nri-fields">
@@ -383,7 +383,7 @@ work_nri_page: true
 <div><h3>Reach out when</h3><p>You need to reposition a skincare brand · You need to connect category evidence with a differentiated offer</p></div>
 </div><a class="nri-top" href="#projects">↑ All projects</a></article>
 <article class="nri-card" id="c76">
-<p class="nri-id">C76 · During NRI tenure</p>
+<p class="nri-id">C76 · 2018 to 2023</p>
 <h2>ASEAN cosmetics market-entry prioritisation</h2>
 <div class="nri-tags"><span>Southeast Asia</span></div>
 <div class="nri-fields">
@@ -409,7 +409,7 @@ work_nri_page: true
 <div><h3>Reach out when</h3><p>You need to find cost opportunities across an automotive value chain · You need to turn a benchmark into an action programme</p></div>
 </div><a class="nri-top" href="#projects">↑ All projects</a></article>
 <article class="nri-card" id="c78">
-<p class="nri-id">C78 · During NRI tenure</p>
+<p class="nri-id">C78 · 2018 to 2023</p>
 <h2>Automotive demand forecasting and supply-chain optimisation</h2>
 <div class="nri-tags"><span>India</span></div>
 <div class="nri-fields">

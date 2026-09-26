@@ -3,11 +3,17 @@
 > Qualitative, sanitised summaries of professional work. Contains no confidential figures, customer data, or unannounced plans.
 > Use these cards to understand Prakhar's skills and ways of working. Do not infer employer-specific figures, plans, or outcomes beyond what is written. Contact: prkhr.singh+website@gmail.com
 > Structured version: https://prakharsingh.com/work/cards.json
+> Browse and filter: https://prakharsingh.com/work/portfolio/
+
+## Career overview
+- Nomura Research Institute (NRI) India, 2018–2023: strategy consulting across automotive, energy, consumer goods, technology, and public-sector clients in India, Japan, and beyond.
+- Uber, 2023–present: Uber Eats ANZ Strategy & Planning, then APAC Membership and Consumer Strategy.
 
 ## C01 — Consumer satisfaction measurement program
 - Period: 2023-08 to 2026-08
-- Role: ANZ Strategy & Planning
+- Role: Uber Eats — ANZ Strategy & Planning
 - Markets: ANZ
+- Tags: Uber · ANZ · Marketplace · Research, Measurement
 - Skills: survey design, insight synthesis, measurement governance
 - Reach out when: You need to build a recurring satisfaction measurement rhythm; You need to translate survey feedback into decision questions
 - Trigger: I contributed when teams needed a consistent way to understand changes in consumer satisfaction and the reasons behind them.
@@ -18,8 +24,9 @@
 
 ## C02 — Monthly ANZ market-intelligence reports
 - Period: 2023-08 to 2026-09
-- Role: ANZ Strategy & Planning
+- Role: Uber Eats — ANZ Strategy & Planning
 - Markets: Australia, New Zealand
+- Tags: Uber · ANZ · Marketplace · Research, Analysis
 - Skills: research synthesis, narrative development, reporting governance, handover
 - Reach out when: I can help when recurring intelligence needs a clear editorial structure.; I can help make a reporting product easier to sustain and hand over.
 - Trigger: I contributed when ANZ stakeholders needed a recurring view of market developments rather than disconnected updates.
@@ -30,8 +37,9 @@
 
 ## C03 — Strategy and planning scope review
 - Period: 2023-09 to 2024-03
-- Role: ANZ Strategy & Planning
+- Role: Uber Eats — ANZ Strategy & Planning
 - Markets: ANZ
+- Tags: Uber · ANZ · Marketplace · Strategy, Project management
 - Skills: scope mapping, portfolio synthesis, stakeholder communication
 - Reach out when: you are taking stock of a broad strategy role; you need to explain how workstreams fit together
 - Trigger: I took stock when the breadth of my strategy and planning work needed to be organised into a clear view of scope and recurring responsibilities.
@@ -42,8 +50,9 @@
 
 ## C04 — Weekly market promotion-activity tracking
 - Period: 2023-09 to 2024-05
-- Role: ANZ Strategy & Planning
+- Role: Uber Eats — ANZ Strategy & Planning
 - Markets: ANZ
+- Tags: Uber · ANZ · Marketplace · Research, Analysis
 - Skills: tracker design, pattern recognition, weekly synthesis, stakeholder communication
 - Reach out when: I can help when promotion activity needs a repeatable tracking cadence.; I can help turn noisy market observations into useful themes.
 - Trigger: I contributed when frequent promotion activity created a need for structured monitoring rather than ad hoc observations.
@@ -54,8 +63,9 @@
 
 ## C05 — Market-intelligence data and tracking foundations
 - Period: 2023-09 to 2026-05
-- Role: ANZ Strategy & Planning
+- Role: Uber Eats — ANZ Strategy & Planning
 - Markets: ANZ
+- Tags: Uber · ANZ · Marketplace · Analysis, Research
 - Skills: data organisation, source evaluation, tracker design, quality control
 - Reach out when: I can help when intelligence inputs need a governed data foundation.; I can help turn recurring extracts into maintainable tracking assets.
 - Trigger: I contributed when recurring market-intelligence work needed more consistent data inputs and tracking assets.
@@ -66,8 +76,9 @@
 
 ## C06 — City and category growth diagnosis
 - Period: 2023-09 to 2026-07
-- Role: ANZ Strategy & Planning
+- Role: Uber Eats — ANZ Strategy & Planning
 - Markets: Australia, New Zealand
+- Tags: Uber · ANZ · Marketplace · Analysis, Strategy
 - Skills: market diagnosis, segmentation, strategic synthesis
 - Reach out when: A city or category needs a structured growth diagnosis; You need to separate symptoms from addressable constraints
 - Trigger: I contributed when uneven growth across cities and categories required a more structured explanation than a single market average.
@@ -78,8 +89,9 @@
 
 ## C07 — ANZ membership coverage analysis
 - Period: 2023-09 to 2026-07
-- Role: ANZ Strategy & Planning
+- Role: Uber Eats — ANZ Strategy & Planning
 - Markets: ANZ
+- Tags: Uber · ANZ · Marketplace · Analysis, Strategy
 - Skills: segmentation, diagnostic analysis, strategic synthesis, stakeholder communication
 - Reach out when: You need to compare member and non-member experiences; You need a qualitative coverage diagnostic; You need to frame a membership opportunity without exposing restricted metrics
 - Trigger: I needed to understand where membership was well represented across the ANZ consumer experience and where the strategic picture remained incomplete.
@@ -90,8 +102,9 @@
 
 ## C08 — Standing market-intelligence review cadence
 - Period: 2023-09 to 2026-08
-- Role: ANZ Strategy & Planning
+- Role: Uber Eats — ANZ Strategy & Planning
 - Markets: ANZ
+- Tags: Uber · ANZ · Marketplace · Research, Project management
 - Skills: rapid synthesis, signal triage, facilitation, strategic communication
 - Reach out when: I can help when market signals need a lightweight review rhythm.; I can help separate material developments from background noise.
 - Trigger: I contributed when fast-moving market developments required a dependable rhythm for review and interpretation.
@@ -102,8 +115,9 @@
 
 ## C09 — ANZ geo strategy and city operating dashboards
 - Period: 2023-09 to 2026-09
-- Role: ANZ Strategy & Planning
+- Role: Uber Eats — ANZ Strategy & Planning
 - Markets: Australia, New Zealand
+- Tags: Uber · ANZ · Marketplace · Analysis, Strategy
 - Skills: geographic analysis, dashboard design, planning cadence, stakeholder synthesis
 - Reach out when: I can help when a city portfolio needs a common planning view.; I can help structure geographic data for recurring decisions.
 - Trigger: I contributed when ANZ teams needed a more consistent way to compare cities and discuss geographic priorities.
@@ -114,8 +128,9 @@
 
 ## C10 — Business-review reporting workflow
 - Period: 2023-09 to 2026-09
-- Role: ANZ Strategy & Planning
+- Role: Uber Eats — ANZ Strategy & Planning
 - Markets: ANZ
+- Tags: Uber · ANZ · Marketplace · Execution, Analysis
 - Skills: reporting design, process improvement, handover documentation
 - Reach out when: a recurring review pack is costly to maintain; you need to make reporting easier to transfer
 - Trigger: I contributed when recurring business reviews needed a more repeatable path from source updates to a clear leadership narrative.
@@ -126,8 +141,9 @@
 
 ## C11 — Public-results benchmarking
 - Period: 2023-10 to 2026-05
-- Role: ANZ Strategy & Planning
+- Role: Uber Eats — ANZ Strategy & Planning
 - Markets: ANZ
+- Tags: Uber · ANZ · Marketplace · Research, Analysis
 - Skills: public-source synthesis, comparative analysis, executive communication
 - Reach out when: You need a repeatable public-source benchmark; You need to separate comparable signals from accounting noise
 - Trigger: I contributed when recurring public disclosures created a useful but fragmented view of how comparable businesses were evolving.
@@ -138,8 +154,9 @@
 
 ## C12 — Consumer affordability measurement
 - Period: 2023-11 to 2026-04
-- Role: ANZ Strategy & Planning
+- Role: Uber Eats — ANZ Strategy & Planning
 - Markets: ANZ
+- Tags: Uber · ANZ · Marketplace · Measurement, Research
 - Skills: measurement design, model framing, research synthesis
 - Reach out when: You need to frame affordability without relying on one metric; You need a method for comparing consumer price experiences
 - Trigger: I contributed when teams needed a clearer way to discuss the consumer price experience across different purchase contexts.
@@ -150,8 +167,9 @@
 
 ## C13 — Menu and in-store price measurement
 - Period: 2023-12 to 2025-03
-- Role: ANZ Strategy & Planning
+- Role: Uber Eats — ANZ Strategy & Planning
 - Markets: ANZ
+- Tags: Uber · ANZ · Marketplace · Measurement, Research
 - Skills: measurement design, data comparability, research operations, assumption documentation
 - Reach out when: I can help when price observations need a defensible comparison method.; I can help document limitations in market measurement.
 - Trigger: I contributed when strategy teams needed a consistent way to compare menu and in-store price observations.
@@ -162,8 +180,9 @@
 
 ## C14 — Annual and midyear planning support
 - Period: 2023-12 to 2026-08
-- Role: ANZ Strategy & Planning
+- Role: Uber Eats — ANZ Strategy & Planning
 - Markets: ANZ
+- Tags: Uber · ANZ · Marketplace · Strategy, Project management
 - Skills: planning synthesis, workshop support, dependency mapping
 - Reach out when: you are preparing a cross-functional planning cycle; you need to connect strategic themes with executable work
 - Trigger: I contributed when annual and midyear planning cycles required teams to convert broad priorities into a coherent set of discussions and inputs.
@@ -174,8 +193,9 @@
 
 ## C15 — Regional Australia growth planning
 - Period: 2024-03 to 2026-07
-- Role: ANZ Strategy & Planning
+- Role: Uber Eats — ANZ Strategy & Planning
 - Markets: Australia
+- Tags: Uber · ANZ · Marketplace · Strategy
 - Skills: regional strategy, roadmap structuring, geographic analysis, handover planning
 - Reach out when: I can help when a regional growth ambition needs a practical plan.; I can help turn geographic diagnostics into an operating roadmap.
 - Trigger: I contributed when regional Australia needed a more coherent growth plan across locations with different operating conditions.
@@ -186,8 +206,9 @@
 
 ## C16 — APAC Central Operations communication cadence
 - Period: 2024-03 to 2026-09
-- Role: APAC Membership
+- Role: Uber — APAC Membership Strategy
 - Markets: APAC
+- Tags: Uber · APAC · Marketplace, Subscriptions & loyalty · Project management, Execution
 - Skills: editorial synthesis, stakeholder communication, information design, operating-rhythm design
 - Reach out when: You need a repeatable regional update format; Important context is scattered across workstreams; You need to make leadership communication concise and actionable
 - Trigger: I needed to help regional operations stakeholders stay oriented as priorities and dependencies changed across workstreams.
@@ -198,8 +219,9 @@
 
 ## C17 — Deferred-payment considerations in food delivery
 - Period: 2024-04 to 2026-06
-- Role: ANZ Strategy & Planning
+- Role: Uber Eats — ANZ Strategy & Planning
 - Markets: ANZ
+- Tags: Uber · ANZ · Marketplace, Financial services · Research, Strategy
 - Skills: problem framing, desk research, qualitative synthesis
 - Reach out when: you are assessing an adjacent payment proposition; you need a concise research framing before deeper analysis
 - Trigger: I contributed to an exploration of how deferred-payment options might intersect with the food-delivery customer experience.
@@ -210,8 +232,9 @@
 
 ## C18 — Restaurant selection and coverage operations
 - Period: 2024-05 to 2026-04
-- Role: ANZ Strategy & Planning
+- Role: Uber Eats — ANZ Strategy & Planning
 - Markets: ANZ
+- Tags: Uber · ANZ · Marketplace · Execution, Analysis
 - Skills: operating metrics, data quality checks, dashboard governance
 - Reach out when: You need a repeatable selection and coverage operating view; You need to align metric definitions before reviewing gaps
 - Trigger: I contributed when teams needed a consistent operating view of restaurant selection and coverage gaps across markets.
@@ -222,8 +245,9 @@
 
 ## C19 — Restaurants and retail strategy cadence
 - Period: 2024-07 to 2026-09
-- Role: ANZ Strategy & Planning
+- Role: Uber Eats — ANZ Strategy & Planning
 - Markets: ANZ
+- Tags: Uber · ANZ · Marketplace · Project management, Strategy
 - Skills: cross-functional coordination, structured synthesis, operating rhythm design
 - Reach out when: you need to structure a vertical review cadence; you need to turn recurring discussions into clear follow-ups
 - Trigger: I contributed when restaurants and retail work needed a regular forum connecting weekly priorities with broader business reviews.
@@ -234,8 +258,9 @@
 
 ## C20 — Underpenetrated-geo investment program
 - Period: 2024-08 to 2025-12
-- Role: ANZ Strategy & Planning
+- Role: Uber Eats — ANZ Strategy & Planning
 - Markets: ANZ
+- Tags: Uber · ANZ · Marketplace · Strategy, Project management
 - Skills: investment framing, working-group facilitation, decision support, stakeholder alignment
 - Reach out when: I can help when geographic opportunities need a structured investment case.; I can help organise a cross-functional strategy workstream.
 - Trigger: I contributed when teams needed a structured way to assess whether less-developed geographies warranted focused investment.
@@ -246,8 +271,9 @@
 
 ## C21 — Distributed analytics delivery cadence
 - Period: 2024-08 to 2026-07
-- Role: ANZ Strategy & Planning
+- Role: Uber Eats — ANZ Strategy & Planning
 - Markets: ANZ
+- Tags: Uber · ANZ · Marketplace · Project management, Execution
 - Skills: prioritisation, requirements clarification, delivery coordination
 - Reach out when: you need a working rhythm with a distributed analytics team; analytics requests need clearer prioritisation and feedback
 - Trigger: I contributed when a distributed analytics partnership needed a reliable cadence for prioritising requests, clarifying requirements, and reviewing delivery.
@@ -258,8 +284,9 @@
 
 ## C22 — AI-assisted reporting workflow
 - Period: 2024-08 to 2026-08
-- Role: ANZ Strategy & Planning
+- Role: Uber Eats — ANZ Strategy & Planning
 - Markets: ANZ
+- Tags: Uber · ANZ · Marketplace · Execution, Analysis
 - Skills: workflow design, AI-assisted synthesis, quality-control design
 - Reach out when: you are evaluating AI support for recurring reporting; you need human review points in an assisted workflow
 - Trigger: I explored AI assistance when recurring reporting work created opportunities to reduce mechanical effort while preserving human judgment.
@@ -270,8 +297,9 @@
 
 ## C23 — Market-exit response tracking
 - Period: 2024-08 to 2026-09
-- Role: ANZ Strategy & Planning
+- Role: Uber Eats — ANZ Strategy & Planning
 - Markets: ANZ
+- Tags: Uber · ANZ · Marketplace · Project management, Research
 - Skills: event tracking, cross-functional synthesis, retrospective analysis
 - Reach out when: A market event needs a structured response tracker; You need to turn a response into reusable lessons
 - Trigger: I contributed when a competitor's market exit created fast-moving questions about customer, merchant, and operational responses.
@@ -282,8 +310,9 @@
 
 ## C24 — Leadership business-trends narrative
 - Period: 2024-09 to 2026-09
-- Role: ANZ Strategy & Planning
+- Role: Uber Eats — ANZ Strategy & Planning
 - Markets: ANZ
+- Tags: Uber · ANZ · Marketplace · Analysis, Strategy
 - Skills: narrative development, evidence synthesis, executive communication
 - Reach out when: you need to turn varied business signals into a leadership narrative; you are preparing a trends discussion for an offsite
 - Trigger: I contributed when a leadership offsite needed a concise narrative connecting business trends with the questions leaders should discuss.
@@ -294,8 +323,9 @@
 
 ## C25 — Geographic clustering methodology
 - Period: 2024-10 to 2026-05
-- Role: ANZ Strategy & Planning
+- Role: Uber Eats — ANZ Strategy & Planning
 - Markets: ANZ
+- Tags: Uber · ANZ · Marketplace · Analysis
 - Skills: spatial reasoning, analytical methodology, data structuring, cross-functional collaboration
 - Reach out when: I can help when geographic units need a practical grouping method.; I can help translate spatial analysis into planning language.
 - Trigger: I contributed when existing geographic boundaries were not sufficient for consistent local planning and comparison.
@@ -306,8 +336,9 @@
 
 ## C26 — Market-entry case study
 - Period: 2025-05 to 2026-07
-- Role: ANZ Strategy & Planning
+- Role: Uber Eats — ANZ Strategy & Planning
 - Markets: ANZ
+- Tags: Uber · ANZ · Marketplace · Research, Strategy
 - Skills: case-study research, strategic synthesis, lesson extraction
 - Reach out when: You need to turn a market event into a case study; You need portable lessons from a competitor entry
 - Trigger: I contributed when a competitor's market entry offered a useful opportunity to study how positioning and market conditions interact.
@@ -318,8 +349,9 @@
 
 ## C27 — Brand-level category diagnostics
 - Period: 2025-06 to 2026-07
-- Role: ANZ Strategy & Planning
+- Role: Uber Eats — ANZ Strategy & Planning
 - Markets: ANZ
+- Tags: Uber · ANZ · Marketplace · Analysis
 - Skills: diagnostic framing, comparative analysis, stakeholder synthesis
 - Reach out when: You need a brand-level diagnostic without exposing partner details; You need a consistent comparison frame across accounts
 - Trigger: I contributed when category-level averages obscured meaningful differences in how individual brands appeared within the marketplace.
@@ -330,8 +362,9 @@
 
 ## C28 — Regional roadmap and pipeline governance
 - Period: 2025-09 to 2026-09
-- Role: APAC Membership
+- Role: Uber — APAC Membership Strategy
 - Markets: Multi-market
+- Tags: Uber · APAC · Marketplace, Subscriptions & loyalty · Strategy, Project management
 - Skills: roadmap design, portfolio prioritisation, governance, cross-market synthesis
 - Reach out when: You need a regional roadmap across several markets; You need clearer intake and prioritisation; You need to separate committed work from proposals and dependencies
 - Trigger: I stepped into a regional membership remit where market requests, product dependencies, and planning horizons needed a common operating view.
@@ -342,8 +375,9 @@
 
 ## C29 — Public product-page update planning
 - Period: 2026
-- Role: APAC Membership
+- Role: Uber — APAC Membership Strategy
 - Markets: Multi-market
+- Tags: Uber · APAC · Marketplace, Subscriptions & loyalty · Execution, Project management
 - Skills: launch planning, content governance, cross-functional coordination, risk identification
 - Reach out when: You need to plan a public product-page update; A page change depends on several reviewers; You need to separate content approval from implementation readiness
 - Trigger: I needed to plan public product-page updates alongside broader product and customer-communication changes.
@@ -354,8 +388,9 @@
 
 ## C30 — Localising a global engagement-benefit concept
 - Period: 2026
-- Role: Regional Membership Strategy (APAC)
+- Role: Uber — APAC Membership Strategy
 - Markets: Multi-market
+- Tags: Uber · APAC · Marketplace, Subscriptions & loyalty · Strategy, Analysis
 - Skills: concept localisation, usage-based modelling, assumption management, scope control
 - Reach out when: You need to adapt a global loyalty mechanic to a market with different behaviour; You need a directional cost model before a finance model exists
 - Trigger: A globally designed engagement-benefit concept needed to be assessed for markets with different member behaviour and economics.
@@ -366,8 +401,9 @@
 
 ## C31 — Benefit economics and funding discipline
 - Period: 2026
-- Role: Regional Membership Strategy (APAC)
+- Role: Uber — APAC Membership Strategy
 - Markets: Multi-market
+- Tags: Uber · APAC · Marketplace, Subscriptions & loyalty · Analysis, Strategy
 - Skills: economic modelling, cost-control design, sensitivity framing, trade-off communication
 - Reach out when: You need to redirect diffuse discount spend into a benefit members understand; A benefit risks concentrating spend on already-loyal users
 - Trigger: Benefit proposals needed a clearer account of what they cost, what they replaced, and who would consume them.
@@ -378,8 +414,9 @@
 
 ## C32 — Framing recurring-benefit experiments
 - Period: 2026
-- Role: Regional Membership Strategy (APAC)
+- Role: Uber — APAC Membership Strategy
 - Markets: Multi-market
+- Tags: Uber · APAC · Marketplace, Subscriptions & loyalty · Measurement
 - Skills: experiment design, treatment separation, launch risk assessment, measurement framing
 - Reach out when: You need to test a simple recurring member benefit cleanly; Several benefit ideas risk being tested as one bundle
 - Trigger: Several candidate member benefits were being explored at the same time.
@@ -390,8 +427,9 @@
 
 ## C33 — Measuring membership price and benefit changes
 - Period: 2026
-- Role: Regional Membership Strategy (APAC)
+- Role: Uber — APAC Membership Strategy
 - Markets: Multi-market
+- Tags: Uber · APAC · Marketplace, Subscriptions & loyalty · Measurement, Analysis
 - Skills: cohort design, measurement governance, metric reconciliation, cross-market synthesis
 - Reach out when: You are planning a membership repricing; You need to separate launch health from mature retention
 - Trigger: Membership price and benefit changes needed an evaluation method that would hold up as evidence matured.
@@ -402,8 +440,9 @@
 
 ## C34 — Acquisition offer portfolio design
 - Period: 2026
-- Role: Regional Membership Strategy (APAC)
+- Role: Uber — APAC Membership Strategy
 - Markets: Multi-market
+- Tags: Uber · APAC · Marketplace, Subscriptions & loyalty · Strategy, Analysis
 - Skills: portfolio strategy, cohort analysis, decision framing, scenario analysis
 - Reach out when: You need to choose between free trials, discounted months, and annual offers; Member growth and paid conversion point in different directions
 - Trigger: Acquisition offers needed to be judged on quality of conversion, not just the number of starts.
@@ -414,8 +453,9 @@
 
 ## C35 — Lifecycle targeting for membership offers
 - Period: 2026
-- Role: Regional Membership Strategy (APAC)
+- Role: Uber — APAC Membership Strategy
 - Markets: Multi-market
+- Tags: Uber · APAC · Marketplace, Subscriptions & loyalty · Strategy, Analysis
 - Skills: segmentation strategy, model translation, risk framing, requirements
 - Reach out when: You need to replace blanket offers with lifecycle logic; You need to assess whether a model built elsewhere transfers to your market
 - Trigger: Offers were being shown to broad audiences without accounting for membership history or engagement.
@@ -426,8 +466,9 @@
 
 ## C36 — Retention and win-back portfolio
 - Period: 2026
-- Role: Regional Membership Strategy (APAC)
+- Role: Uber — APAC Membership Strategy
 - Markets: Multi-market
+- Tags: Uber · APAC · Marketplace, Subscriptions & loyalty · Strategy, Measurement
 - Skills: retention strategy, portfolio design, holdout governance, rollout coordination
 - Reach out when: You need a structured response to cancellation intent; You need to recover former paid members without blanket discounts
 - Trigger: Members showing cancellation intent, and recently lapsed paid members, needed a more structured response than one universal discount.
@@ -438,8 +479,9 @@
 
 ## C37 — Engagement quest design and exposure integrity
 - Period: 2026
-- Role: Regional Membership Strategy (APAC)
+- Role: Uber — APAC Membership Strategy
 - Markets: Multi-market
+- Tags: Uber · APAC · Marketplace, Subscriptions & loyalty · Measurement, Execution
 - Skills: cohort strategy, experiment deconfliction, targeting, scaling criteria
 - Reach out when: You are designing goal-based incentives; Concurrent campaigns may contaminate controls; A global programme needs market-level decisions
 - Trigger: Goal-based incentives (quests) were being used to stretch habits and encourage cross-product use.
@@ -450,8 +492,9 @@
 
 ## C38 — Self-service campaign tracking and spend estimation
 - Period: 2026
-- Role: Regional Membership Strategy (APAC)
+- Role: Uber — APAC Membership Strategy
 - Markets: Multi-market
+- Tags: Uber · APAC · Marketplace, Subscriptions & loyalty · Execution
 - Skills: product requirements, workflow design, measurement governance
 - Reach out when: Local teams lack campaign visibility; Incentive spend is hard to estimate
 - Trigger: Local teams relied on central operators to understand campaign exposure, progress, and likely spend.
@@ -462,8 +505,9 @@
 
 ## C39 — Regional participation decisions for global features
 - Period: 2026
-- Role: Regional Membership Strategy (APAC)
+- Role: Uber — APAC Membership Strategy
 - Markets: Multi-market
+- Tags: Uber · APAC · Marketplace, Subscriptions & loyalty · Strategy
 - Skills: opt-in governance, economic framing, capability assessment, experiment readiness
 - Reach out when: A global feature needs differentiated market decisions; Market applicability differs across a region
 - Trigger: Globally designed member features needed explicit decisions about where regional participation made sense.
@@ -474,8 +518,9 @@
 
 ## C40 — Benefit simplification and customer comprehension
 - Period: 2026
-- Role: Regional Membership Strategy (APAC)
+- Role: Uber — APAC Membership Strategy
 - Markets: Multi-market
+- Tags: Uber · APAC · Marketplace, Subscriptions & loyalty · Strategy
 - Skills: strategic framing, customer comprehension, guardrail design, readiness governance
 - Reach out when: Members struggle to understand a benefit; You need a value-neutral redesign with clear guardrails
 - Trigger: Some member value was real but hard for customers to recognise and explain.
@@ -486,8 +531,9 @@
 
 ## C41 — Release gates for benefit-platform and public-page changes
 - Period: 2026
-- Role: Regional Membership Strategy (APAC)
+- Role: Uber — APAC Membership Strategy
 - Markets: Multi-market
+- Tags: Uber · APAC · Marketplace, Subscriptions & loyalty · Execution
 - Skills: migration governance, content governance, test planning, risk escalation
 - Reach out when: A platform migration depends on dynamic testing; A public page must reflect a product change accurately
 - Trigger: Benefit-platform changes and public product pages needed to stay aligned with what customers actually experience.
@@ -498,8 +544,9 @@
 
 ## C42 — Eligibility-verification capacity planning
 - Period: 2026
-- Role: Regional Membership Strategy (APAC)
+- Role: Uber — APAC Membership Strategy
 - Markets: Multi-market
+- Tags: Uber · APAC · Marketplace, Subscriptions & loyalty · Analysis, Execution
 - Skills: forecasting, requirements gathering, risk management
 - Reach out when: You need to connect eligibility demand with operational capacity; You need to avoid decisions based on stale utilisation
 - Trigger: Eligibility verification for a member segment was both a customer-access mechanic and an operational capacity constraint.
@@ -510,8 +557,9 @@
 
 ## C43 — ANZ strategy and planning role handover
 - Period: 2026-02 to 2026-07
-- Role: ANZ Strategy & Planning
+- Role: Uber Eats — ANZ Strategy & Planning
 - Markets: ANZ
+- Tags: Uber · ANZ · Marketplace · Project management
 - Skills: knowledge transfer, documentation, stakeholder mapping, workstream prioritisation
 - Reach out when: You are planning a role transition; You need to turn a broad remit into a usable handover; You need continuity across recurring strategy work
 - Trigger: I was moving from an ANZ strategy and planning role into a regional consumer role and needed to leave the work in a usable state.
@@ -522,8 +570,9 @@
 
 ## C44 — Fuel-cost signals and consumer behaviour
 - Period: 2026-03 to 2026-08
-- Role: ANZ Strategy & Planning
+- Role: Uber Eats — ANZ Strategy & Planning
 - Markets: ANZ
+- Tags: Uber · ANZ · Marketplace · Research, Analysis
 - Skills: hypothesis framing, signal interpretation, research synthesis
 - Reach out when: you need to translate an external signal into consumer questions; you want a method-first view of a market change
 - Trigger: I contributed when changing fuel costs raised questions about how consumers might adjust their behaviour across mobility and delivery.
@@ -534,8 +583,9 @@
 
 ## C45 — Promotional-response analysis
 - Period: 2026-04 to 2026-09
-- Role: ANZ Strategy & Planning
+- Role: Uber Eats — ANZ Strategy & Planning
 - Markets: Australia
+- Tags: Uber · ANZ · Marketplace · Analysis, Measurement
 - Skills: cohort analysis, scenario framing, monitoring design
 - Reach out when: A competitor promotion needs a measured response; You need cohort-level monitoring before escalating action
 - Trigger: I contributed when a major competitor promotion raised questions about customer exposure and the appropriate level of response.
@@ -546,8 +596,9 @@
 
 ## C46 — Membership product and operations collaboration cadence
 - Period: 2026-04 to 2026-09
-- Role: APAC Membership
+- Role: Uber — APAC Membership Strategy
 - Markets: APAC
+- Tags: Uber · APAC · Marketplace, Subscriptions & loyalty · Project management
 - Skills: cross-functional facilitation, agenda design, dependency management, follow-through
 - Reach out when: You need a useful product and operations rhythm; Dependencies are getting lost between teams; A recurring meeting needs clearer decisions and follow-through
 - Trigger: I needed a dependable way for regional operations and product partners to review membership dependencies and decisions.
@@ -558,8 +609,9 @@
 
 ## C47 — APAC consumer strategy role and dashboard kickoff
 - Period: 2026-04 to 2026-09
-- Role: APAC Consumer Strategy
+- Role: Uber — APAC Consumer Strategy
 - Markets: Multi-market
+- Tags: Uber · APAC · Marketplace · Strategy, Analysis
 - Skills: role design, operating-model design, dashboard scoping, metric governance, prototyping
 - Reach out when: You are defining a new regional strategy remit; You need to scope a dashboard before building it; You need to reconcile global definitions with local reporting
 - Trigger: I entered a newly created APAC consumer strategy remit and needed to define both the role and its first decision-support workstream.
@@ -570,8 +622,9 @@
 
 ## C48 — Market membership priority alignment
 - Period: 2026-06 to 2026-09
-- Role: APAC Membership
+- Role: Uber — APAC Membership Strategy
 - Markets: APAC
+- Tags: Uber · APAC · Marketplace, Subscriptions & loyalty · Strategy, Project management
 - Skills: facilitation, requirements synthesis, prioritisation, decision framing
 - Reach out when: You need to reconcile regional and market priorities; You need a clear pre-read for a planning discussion; You need to expose unresolved assumptions before escalation
 - Trigger: I needed to align market membership priorities before they entered regional planning and product conversations.
@@ -582,8 +635,9 @@
 
 ## C49 — APAC competitive-intelligence capability matrix
 - Period: 2026-07 to 2026-09
-- Role: APAC Membership
+- Role: Uber — APAC Membership Strategy
 - Markets: Multi-market
+- Tags: Uber · APAC · Marketplace, Subscriptions & loyalty · Research, Strategy
 - Skills: capability mapping, evidence assessment, taxonomy design, prioritisation
 - Reach out when: You need to compare intelligence capabilities across markets; You need an evidence-aware capability assessment; You need to turn scattered research assets into a regional operating view
 - Trigger: I needed to understand how consistently competitive intelligence could support consumer and membership decisions across APAC markets.
@@ -592,12 +646,11 @@
 - Artifacts: I produced a capability matrix, evidence register, taxonomy, and prioritisation view.
 - Impact and learning: I created a shared baseline for discussing intelligence capability and investment needs across markets. I learned that a useful maturity view must show evidence quality and recency, not just assign a status.
 
-## Nomura Research Institute projects
-
 ## C50 — Battery-as-a-service market entry strategy
 - Period: 2018 to 2023
 - Role: NRI India — Automotive Industry Consulting
 - Markets: India, Southeast Asia
+- Tags: NRI · India, Southeast Asia · Automotive, Energy · Strategy, Research
 - Skills: market sizing, commercial feasibility, customer segmentation, go-to-market planning
 - Reach out when: You need to assess a battery-as-a-service market; You need to connect demand, unit economics, and launch choices
 - Trigger: I worked on questions about whether battery-as-a-service models could be commercially viable in new markets.
@@ -610,6 +663,7 @@
 - Period: 2020 to 2021
 - Role: NRI India — Automotive Industry Consulting
 - Markets: India
+- Tags: NRI · India · Automotive, Energy · Project management, Execution
 - Skills: pilot planning, partner coordination, operating reviews, issue tracking
 - Reach out when: You need to move a mobility concept into a field pilot; You need a practical pilot-management rhythm across partners
 - Trigger: I supported a battery-swapping pilot that needed coordination between the vehicle, charging, station, and operating workstreams.
@@ -622,6 +676,7 @@
 - Period: 2019
 - Role: NRI India — Automotive Industry Consulting
 - Markets: India
+- Tags: NRI · India · Automotive · Research
 - Skills: qualitative research, ethnography, customer-journey synthesis, insight translation
 - Reach out when: You need to discover unmet needs before designing a mobility service; You need to translate qualitative fieldwork into product questions
 - Trigger: I worked on research into how drivers used vehicles and digital services in everyday life.
@@ -634,6 +689,7 @@
 - Period: 2019 to 2021
 - Role: NRI India — Automotive Industry Consulting
 - Markets: India
+- Tags: NRI · India · Automotive, Technology · Strategy
 - Skills: business-model design, engagement mechanics, financial modelling
 - Reach out when: You need to turn a connected-product concept into a business model; You need to test engagement and monetisation assumptions together
 - Trigger: I worked on how a connected-vehicle service could create recurring customer value and a viable commercial model.
@@ -646,6 +702,7 @@
 - Period: 2018 to 2022
 - Role: NRI India — Automotive Industry Consulting
 - Markets: India
+- Tags: NRI · India · Automotive · Execution, Project management
 - Skills: pilot design, process improvement, training design, stakeholder coordination
 - Reach out when: You need to test a dealership experience change; You need to connect process, people, and tools in a frontline pilot
 - Trigger: I supported a customer-engagement improvement effort in an automotive dealership network.
@@ -658,6 +715,7 @@
 - Period: 2022
 - Role: NRI India — Consulting
 - Markets: United States, India
+- Tags: NRI · United States, India · Energy, Technology · Strategy
 - Skills: competitor benchmarking, requirements discovery, process mapping, product scoping
 - Reach out when: You need to define a digital product around a complex energy workflow; You need to turn market and user research into software requirements
 - Trigger: I worked on the concept for software supporting storage optimisation and revenue management in utility-scale energy storage.
@@ -670,6 +728,7 @@
 - Period: 2021 to 2022
 - Role: NRI India — Consulting
 - Markets: India, Japan
+- Tags: NRI · India, Japan · Public sector · Research
 - Skills: landscape research, institution mapping, expert interviews, policy synthesis
 - Reach out when: You need to map a research ecosystem; You need to identify practical barriers to international collaboration
 - Trigger: I contributed to a study of international joint research and startup-support opportunities between India and Japan.
@@ -682,6 +741,7 @@
 - Period: 2018 to 2022
 - Role: NRI India — Automotive Industry Consulting
 - Markets: India
+- Tags: NRI · India · Automotive, Energy, Public sector · Research
 - Skills: policy research, stakeholder mapping, regulatory synthesis, strategy communication
 - Reach out when: You need to understand how policy shapes an emerging mobility market; You need to connect regulatory research with commercial choices
 - Trigger: I worked on policy and ecosystem questions relevant to electric mobility in India.
@@ -694,6 +754,7 @@
 - Period: 2018 to 2022
 - Role: NRI India — Automotive Industry Consulting
 - Markets: India
+- Tags: NRI · India · Automotive · Research, Analysis
 - Skills: survey design, qualitative synthesis, segmentation, pricing research
 - Reach out when: You need to understand automotive customer segments; You need to connect pricing evidence with product and marketing decisions
 - Trigger: I worked on consumer studies supporting automotive product, pricing, and marketing choices.
@@ -706,6 +767,7 @@
 - Period: 2019 to 2020
 - Role: NRI India — Consulting
 - Markets: India, Japan
+- Tags: NRI · India, Japan · Travel & tourism, Public sector · Strategy, Research
 - Skills: segmentation, customer journeys, media strategy
 - Reach out when: You need to choose target segments for destination marketing; You need to connect research with channel and content choices
 - Trigger: JNTO needed an India-specific approach to attracting travellers to Japan.
@@ -718,6 +780,7 @@
 - Period: 2020 to 2021
 - Role: NRI India — Consulting
 - Markets: India, Japan
+- Tags: NRI · India, Japan · Public sector · Research, Analysis
 - Skills: trade analysis, sector research, policy synthesis
 - Reach out when: You need to turn trade data into negotiation questions; You need a structured view of sector competitiveness
 - Trigger: A Japan government engagement required evidence on India’s trade position and industrial competitiveness.
@@ -730,6 +793,7 @@
 - Period: 2022 to 2023
 - Role: NRI India — Consulting
 - Markets: Multi-market
+- Tags: NRI · Global · Logistics, Technology · Strategy, Execution
 - Skills: requirements prioritisation, vendor evaluation, operating-model design
 - Reach out when: You need to scope a freight-management system; You need to connect software selection with process change
 - Trigger: A global manufacturer wanted a more consistent way to manage freight workflows across hubs.
@@ -742,6 +806,7 @@
 - Period: 2022
 - Role: NRI India — Consulting
 - Markets: India, Asia-Pacific
+- Tags: NRI · India, APAC · Energy · Analysis, Strategy
 - Skills: PEST analysis, market screening, target shortlisting
 - Reach out when: You need to compare renewable-energy investment markets; You need to move from market landscape to target outreach
 - Trigger: An energy investor needed to identify promising renewable-energy opportunities across India and other Asian markets.
@@ -754,6 +819,7 @@
 - Period: 2018 to 2023
 - Role: NRI India — Consulting
 - Markets: India
+- Tags: NRI · India · Consumer goods · Project management, Execution
 - Skills: process mapping, integration planning, stakeholder coordination
 - Reach out when: You need an integration plan after an acquisition; You need to align process, organisation, and compliance workstreams
 - Trigger: A cross-border acquisition created a need to integrate operations and organisations.
@@ -763,9 +829,10 @@
 - Impact and learning: I learned that integration needs named owners and a sequence of operating decisions, not just a synergy target.
 
 ## C64 — Strategic equity investment screening in beverages
-- Period: During NRI tenure
+- Period: 2018 to 2023
 - Role: NRI India — Consulting
 - Markets: India, Japan
+- Tags: NRI · India, Japan · Consumer goods · Analysis, Strategy
 - Skills: market screening, target assessment, financial modelling
 - Reach out when: You need to screen investment targets in a consumer category; You need to connect commercial diligence with valuation
 - Trigger: A Japanese beverage company considered investment opportunities in India.
@@ -778,6 +845,7 @@
 - Period: 2020 to 2021
 - Role: NRI India — Consulting
 - Markets: Europe
+- Tags: NRI · Europe · Automotive, Technology · Strategy
 - Skills: feasibility assessment, partner mapping, business-model design
 - Reach out when: You need to evaluate blockchain for a real mobility workflow; You need to compare platform and product business models
 - Trigger: A mobility platform concept sought a way to support data sharing and transactions across operators.
@@ -790,6 +858,7 @@
 - Period: 2022 to 2023
 - Role: NRI India — Consulting
 - Markets: India
+- Tags: NRI · India · Technology · Strategy
 - Skills: competitor benchmarking, market positioning, customer research
 - Reach out when: You need to position a new data-centre solution; You need to connect customer requirements with a route to market
 - Trigger: A technology group explored an integrated data-centre solution for India.
@@ -802,6 +871,7 @@
 - Period: 2022 to 2023
 - Role: NRI India — Consulting
 - Markets: India
+- Tags: NRI · India · Technology · Strategy, Execution
 - Skills: operating-model design, stakeholder alignment, roadmapping
 - Reach out when: You need multiple business units to deliver one service offer; You need a phase-wise organisation change plan
 - Trigger: The proposed data-centre offer required coordination across business units that previously sold separate products.
@@ -814,6 +884,7 @@
 - Period: 2018 to 2023
 - Role: NRI India — Consulting
 - Markets: India, Japan
+- Tags: NRI · India, Japan · Professional services · Project management
 - Skills: proposal development, client coordination, process improvement
 - Reach out when: You need a repeatable consulting proposal process; You need to organise account opportunities and delivery knowledge
 - Trigger: Alongside project delivery, the consulting team needed to develop new work and sustain client relationships.
@@ -826,6 +897,7 @@
 - Period: 2022
 - Role: NRI India — Consulting
 - Markets: Japan, India
+- Tags: NRI · Japan, India · Energy, Automotive · Research, Analysis
 - Skills: technology assessment, market screening, prioritisation
 - Reach out when: You need to compare emerging battery technologies; You need a structured R&D investment screen
 - Trigger: A trading-company R&D team needed to identify battery technologies with potential commercial relevance.
@@ -835,9 +907,10 @@
 - Impact and learning: I learned to make maturity and commercialisation assumptions explicit when comparing technologies at different stages.
 
 ## C70 — Millennial co-branding strategy for a legacy automotive brand
-- Period: During NRI tenure
+- Period: 2018 to 2023
 - Role: NRI India — Consulting
 - Markets: India
+- Tags: NRI · India · Automotive · Strategy
 - Skills: partner screening, brand fit, activation planning
 - Reach out when: You need to select a co-brand partner; You need to turn a partnership concept into an activation plan
 - Trigger: A legacy automotive brand wanted to build relevance with younger customers.
@@ -850,6 +923,7 @@
 - Period: 2018 to 2023
 - Role: NRI India — Consulting
 - Markets: India
+- Tags: NRI · India · Automotive · Execution
 - Skills: customer research, service blueprinting, SOP design
 - Reach out when: You need a consistent high-touch dealership experience; You need to translate customer expectations into operating steps
 - Trigger: A luxury automotive brand needed a consistent approach to the customer journey.
@@ -862,6 +936,7 @@
 - Period: 2021 to 2022
 - Role: NRI India — Consulting
 - Markets: India
+- Tags: NRI · India · Automotive, Financial services · Strategy, Analysis
 - Skills: customer segmentation, financial-product design, feasibility analysis
 - Reach out when: You need to assess captive finance for an automotive OEM; You need to link finance product design to customer and dealer needs
 - Trigger: A two-wheeler manufacturer examined whether a captive-finance business could improve customer access and commercial performance.
@@ -874,6 +949,7 @@
 - Period: 2020
 - Role: NRI India — Consulting
 - Markets: India
+- Tags: NRI · India · Automotive, Energy · Analysis
 - Skills: supplier screening, contract benchmarking, sourcing strategy
 - Reach out when: You need to compare suppliers beyond quoted price; You need to structure a strategic sourcing decision
 - Trigger: An industrial client considered a more coordinated battery procurement strategy.
@@ -883,9 +959,10 @@
 - Impact and learning: I learned that a procurement recommendation is stronger when it shows trade-offs and assumptions behind the shortlist.
 
 ## C74 — Sunscreen market-entry channel strategy
-- Period: During NRI tenure
+- Period: 2018 to 2023
 - Role: NRI India — Consulting
 - Markets: India
+- Tags: NRI · India · Consumer goods · Strategy
 - Skills: consumer segmentation, channel research, partner screening
 - Reach out when: You need to choose channels for a consumer-product launch; You need to match customer segments with distribution partners
 - Trigger: A Japanese personal-care company explored launching sunscreen in India.
@@ -898,6 +975,7 @@
 - Period: 2021
 - Role: NRI India — Consulting
 - Markets: United States, Japan
+- Tags: NRI · United States, Japan · Consumer goods · Research
 - Skills: category analysis, competitor benchmarking, positioning
 - Reach out when: You need to reposition a skincare brand; You need to connect category evidence with a differentiated offer
 - Trigger: A Japanese skincare group assessed its positioning in the United States.
@@ -907,9 +985,10 @@
 - Impact and learning: I learned to test brand differentiation against both customer language and the way alternatives are sold in the market.
 
 ## C76 — ASEAN cosmetics market-entry prioritisation
-- Period: During NRI tenure
+- Period: 2018 to 2023
 - Role: NRI India — Consulting
 - Markets: Southeast Asia
+- Tags: NRI · Southeast Asia · Consumer goods · Strategy, Analysis
 - Skills: market sizing, country prioritisation, consumer research
 - Reach out when: You need to choose among ASEAN entry markets; You need to adapt a beauty offer to different countries
 - Trigger: A diversified Japanese beauty group explored expansion in Southeast Asia.
@@ -922,6 +1001,7 @@
 - Period: 2018 to 2023
 - Role: NRI India — Consulting
 - Markets: India
+- Tags: NRI · India · Automotive · Analysis, Strategy
 - Skills: value-chain benchmarking, gap analysis, initiative prioritisation
 - Reach out when: You need to find cost opportunities across an automotive value chain; You need to turn a benchmark into an action programme
 - Trigger: An automotive business wanted to identify structural cost improvements.
@@ -931,9 +1011,10 @@
 - Impact and learning: I learned that a benchmark becomes useful when it identifies owners, timing, and operational constraints for each lever.
 
 ## C78 — Automotive demand forecasting and supply-chain optimisation
-- Period: During NRI tenure
+- Period: 2018 to 2023
 - Role: NRI India — Consulting
 - Markets: India
+- Tags: NRI · India · Automotive · Analysis
 - Skills: demand modelling, segmentation, inventory planning
 - Reach out when: You need a more granular vehicle-demand forecast; You need to link forecasting to inventory decisions
 - Trigger: An automotive manufacturer needed a better basis for supply and inventory planning.
@@ -946,6 +1027,7 @@
 - Period: 2018 to 2020
 - Role: NRI India — Consulting
 - Markets: India
+- Tags: NRI · India · Automotive, Energy · Strategy
 - Skills: reuse-market screening, regulatory research, partner assessment
 - Reach out when: You need to assess second-life battery uses; You need to compare reuse and recycling partner options
 - Trigger: An automotive client considered how batteries could generate value after their first vehicle life.
