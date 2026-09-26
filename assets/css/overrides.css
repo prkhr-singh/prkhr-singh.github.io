@@ -86,6 +86,29 @@ body.subpage header > p {
 /* Optional: slightly wider content for readability */
 .wrapper { max-width: 860px; }
 
+/* NRI project portfolio */
+body.subpage.has-nri-work .wrapper { max-width: 1260px; }
+.nri-page { color: #26343d; }
+.nri-eyebrow { color: #437582; font-size: .74rem; font-weight: 700; letter-spacing: .13em; text-transform: uppercase; margin-bottom: .2rem; }
+.nri-page > h1 { font-size: 2.1rem; margin: .1rem 0 .7rem; }
+.nri-intro { max-width: 70ch; color: #52616b; font-size: 1.05rem; }
+.nri-index { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .55rem; margin: 1.1rem 0 2rem; }
+.nri-index a { display: flex; gap: .6rem; align-items: start; padding: .6rem .7rem; border: 1px solid #dce5e8; border-radius: 8px; background: #f8fbfb; text-decoration: none; line-height: 1.35; }
+.nri-index a:hover { background: #edf5f6; text-decoration: underline; }
+.nri-index span, .nri-id { color: #376a77; font-size: .76rem; font-weight: 700; letter-spacing: .04em; }
+.nri-cards { display: grid; gap: 1.2rem; }
+.nri-card { scroll-margin-top: 1rem; padding: 1.45rem 1.55rem; border: 1px solid #dce5e8; border-radius: 12px; background: #fff; box-shadow: 0 3px 12px rgba(28,63,72,.05); }
+.nri-card h2 { font-size: 1.45rem; margin: .1rem 0 .75rem; }
+.nri-card .nri-id { margin: 0; text-transform: uppercase; }
+.nri-tags { display: flex; gap: .4rem; flex-wrap: wrap; margin-bottom: 1rem; }
+.nri-tags span { background: #eaf3f4; color: #245b68; border-radius: 99px; padding: .2rem .6rem; font-size: .78rem; }
+.nri-fields { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .8rem 1.3rem; }
+.nri-fields > div:nth-child(-n+3) { grid-column: 1 / -1; }
+.nri-fields h3 { color: #46646d; font-size: .72rem; letter-spacing: .07em; text-transform: uppercase; margin: 0 0 .2rem; }
+.nri-fields p { margin: 0; }
+.nri-top { display: inline-block; font-size: .8rem; margin-top: 1rem; }
+@media (max-width: 760px) { .nri-index, .nri-fields { grid-template-columns: 1fr; } .nri-fields > div:nth-child(-n+3) { grid-column: auto; } .nri-card { padding: 1.15rem; } }
+
 /* Sublease template: give the listing room beside the site nav */
 body.subpage.has-sublease .wrapper {
   max-width: 1320px;
