@@ -15,7 +15,7 @@ description: "Filter Prakhar Singh's project cards by company, geography, indust
 <div class="px-controls">
   <input id="px-q" type="search" placeholder="Search projects, skills, methods…" aria-label="Search projects">
   <div id="px-facets"></div>
-  <div class="px-bar"><span id="px-count" aria-live="polite"></span><button type="button" id="px-clear">Clear all</button></div>
+  <div class="px-bar"><span id="px-count" aria-live="polite"></span><label class="px-sort">Sort <select id="px-sort"><option value="rank">Most significant</option><option value="date">Newest</option></select></label><button type="button" id="px-clear">Clear all</button></div>
 </div>
 <div id="px-list" class="nri-cards"></div>
 <noscript><p>This page needs JavaScript. The full list is also available as <a href="{{ '/llms.txt' | relative_url }}">plain text</a>.</p></noscript>
@@ -87,12 +87,17 @@ description: "Filter Prakhar Singh's project cards by company, geography, indust
     var b = e.target.closest('.px-chip'); if (!b) return;
     var s = sel[b.dataset.k], v = b.dataset.v; s.has(v) ? s.delete(v) : s.add(v); sync();
   });
+  function sortCards() {
+    var byDate = $('px-sort').value === 'date';
+    cards.sort(function (a, b) { return byDate ? b.period.localeCompare(a.period) || a.rank - b.rank : a.rank - b.rank; });
+  }
+  $('px-sort').addEventListener('change', function () { sortCards(); renderCards(); });
   $('px-q').addEventListener('input', function (e) { q = e.target.value.trim().toLowerCase(); sync(); });
   $('px-clear').addEventListener('click', function () { AXES.forEach(function (a) { sel[a.key].clear(); }); q = ''; $('px-q').value = ''; sync(); });
 
   fetch('{{ "/work/cards.json" | relative_url }}').then(function (r) { return r.json(); }).then(function (d) {
-    cards = d.cards.map(function (c) { c._t = JSON.stringify(c).toLowerCase(); return c; })
-      .sort(function (a, b) { return b.period.localeCompare(a.period); });
+    cards = d.cards.map(function (c) { c._t = JSON.stringify(c).toLowerCase(); return c; });
+    sortCards();
     readHash(); sync();
   }).catch(function () { $('px-list').innerHTML = '<p>Could not load projects. The full list is available as <a href="{{ "/llms.txt" | relative_url }}">plain text</a>.</p>'; });
 })();

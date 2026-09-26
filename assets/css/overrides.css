@@ -283,3 +283,5 @@ body.subpage.has-nri-work .wrapper > section { float: none; width: auto; max-wid
   body.subpage.has-nri-work .wrapper > header { padding-right: 0; }
 }
 body.subpage.has-nri-work .nri-page { overflow-wrap: anywhere; }
+.px-sort { margin-left: auto; margin-right: 1rem; font-size: .82rem; color: #52616b; }
+.px-sort select { font: inherit; font-size: .82rem; padding: .1rem .3rem; border: 1px solid #c9d6da; border-radius: 6px; background: #fff; color: #245b68; }
