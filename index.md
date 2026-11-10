@@ -19,12 +19,11 @@ This site is where I document selected work and ongoing explorations — spannin
 ---
 
 ## Now
-_Updated September 2026._
+_Updated November 2026._
 
 - Building this site.
-- Exploring AI workflows.
-- Cycling along trails in Melbourne.
-- Planning itinerary for an upcoming ambitious travel.
+- Exploring what AI can do.
+- Gardening and fixing up the house.
 
 ---
 
