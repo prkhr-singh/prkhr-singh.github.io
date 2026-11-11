@@ -24,3 +24,6 @@ This is a minimal, fast, and low-maintenance personal site using **GitHub Pages*
 ## SEO & AI readability
 - `jekyll-seo-tag`, `jekyll-feed`, and `jekyll-sitemap` are enabled.
 - Person **JSON-LD** is injected via `_includes/head-custom.html`.
+
+## Deploys
+- Pushing to `main` triggers the GitHub Pages "pages build and deployment" run. Re-running an old run rebuilds its original commit, so if a merge did not trigger a build, push a new commit instead.
