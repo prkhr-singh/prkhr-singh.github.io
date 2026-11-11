@@ -28,7 +28,7 @@ If you’d like the formal version, see the CV section below.
 
 ### CV
 
-- Download: **[Prakhar Singh — Redacted CV (Nov 2026)]({{ '/assets/cv/Prakhar%20Singh%20-%20Redacted%20CV%20for%20Website%20-%20Nov%202026.pdf' | relative_url }})**
+- Download: **[Prakhar Singh — Redacted CV (Nov 2026)]({{ '/assets/cv/Prakhar%20Singh%20-%20Redacted%20CV%20for%20Website%20-%20Nov%202026.pdf?v=2' | relative_url }})**
 
 I keep the latest copy here. If the link doesn’t work, I’m probably updating it — check back soon.
 
