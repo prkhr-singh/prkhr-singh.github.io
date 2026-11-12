@@ -10,6 +10,10 @@ I tend to understand a new technology by giving it a real problem. These are a f
 
 The original tools contain personal information and keep changing as the decisions change. So this is a portfolio of what became possible, how I approached it, and what I learnt along the way. The dates are also a useful record of how my use of AI is changing.
 
+<p class="experiment-date">November 2026</p>
+## [The Next Jobs: Work After AI]({{ '/ai/the-next-jobs/' | relative_url }})
+We can already describe the jobs AI will end; the open question is which ones it will start. A 100-slide perspective that draws seven rules from the industrial and computer revolutions, tests them against four years of AI evidence, and makes thirteen predictions for work to 2040.
+
 <p class="experiment-date">August 2026</p>
 ## [Wheel or Wire: Total Cost of Ownership]({{ '/ai/wheel-or-wire-tco/' | relative_url }})
 A car's price is obvious. Its cost is not. I built an interactive model for comparing used versus new, petrol versus EV, finance offers, running costs, resale and the opportunity cost of taking money out of a home-loan offset account.
