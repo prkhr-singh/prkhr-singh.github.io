@@ -9,9 +9,12 @@ permalink: /ai/the-next-jobs/
 <p class="experiment-date">November 2026</p>
 
 <div class="experiment-artifact">
-  <span class="experiment-artifact-label">PERSPECTIVE DECK · 100 SLIDES</span>
-  <a href="https://docs.google.com/presentation/d/1t1YBlsKzG9ClyEPiqmOofkLR7YPy7tK31iJcMvUaiYU/edit" target="_blank" rel="noopener">Open the deck in Google Slides →</a>
-  <p>Every slide title is a sentence. Read the titles alone for the argument.</p>
+  <span class="experiment-artifact-label">PERSPECTIVE DECK · 100 SLIDES · PODCAST</span>
+  <div class="experiment-artifact-links">
+    <a href="https://docs.google.com/presentation/d/1t1YBlsKzG9ClyEPiqmOofkLR7YPy7tK31iJcMvUaiYU/edit" target="_blank" rel="noopener">Open the deck in Google Slides →</a>
+    <a class="secondary" href="https://notebook.google.com/notebook/841b1907-a9cf-4b02-a022-33c0e85aa39e/artifact/e62471ee-2e2f-41de-b7ef-1f82464fcbf3" target="_blank" rel="noopener">Listen to the podcast →</a>
+  </div>
+  <p>Every slide title is a sentence, so the titles alone carry the argument. The podcast talks through it in audio form.</p>
 </div>
 
 Most of the conversation about AI and work is about the jobs it will end. That list is already fairly well mapped. The more interesting question, and the harder one, is which jobs it will start.

@@ -141,28 +141,61 @@ ul.social-media-list li {
 
 .experiment-artifact {
   margin: 0.55rem 0 1.6rem;
-  padding: 1rem 1.1rem;
-  border-left: 4px solid #26745b;
-  border-radius: 0 8px 8px 0;
-  background: #f3f6f3;
+  padding: 1rem 1.1rem 1.05rem;
+  border: 1px solid #cfdcd5;
+  border-radius: 10px;
+  background: #fff;
 }
 
 .experiment-artifact-label {
   display: block;
-  margin-bottom: 0.25rem;
+  margin-bottom: 0.6rem;
   color: #68706c;
   font-size: 0.7rem;
   font-weight: 700;
   letter-spacing: 0.08em;
 }
 
+.experiment-artifact-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+}
+
 .experiment-artifact a {
-  font-size: 1.05rem;
+  display: inline-block;
+  padding: 0.6rem 1rem;
+  border: 2px solid #26745b;
+  border-radius: 7px;
+  background: #26745b;
+  color: #fff;
+  font-size: 1rem;
   font-weight: 700;
+  line-height: 1.3;
+  text-decoration: none;
+}
+
+.experiment-artifact a:hover,
+.experiment-artifact a:focus-visible {
+  border-color: #1b5743;
+  background: #1b5743;
+  color: #fff;
+  text-decoration: none;
+}
+
+.experiment-artifact a.secondary {
+  background: #fff;
+  color: #1b5743;
+}
+
+.experiment-artifact a.secondary:hover,
+.experiment-artifact a.secondary:focus-visible {
+  background: #eef5f1;
+  color: #1b5743;
 }
 
 .experiment-artifact p {
-  margin: 0.35rem 0 0;
+  margin: 0.65rem 0 0;
   color: #5f6662;
   font-size: 0.9rem;
 }
