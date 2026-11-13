@@ -38,7 +38,7 @@ Local preview (optional):
   - `work.md`: Work highlights + CV subsection linking to the PDF.
   - `personal.md`: Personal Pursuits hub with five linked subsections (brief overviews only):
     - Writing → `/writing/`
-    - Travel & Photography → `/personal/travel-photography/`
+    - Travel & Photography → `/personal/travel-photography/` (map + list built from `_data/travel_places.json`, one place per line; countries in `_data/travel_countries.yml`. To add a place, add one line to the JSON; counts, filter, lists and the text download update automatically)
     - Fitness → `/personal/fitness/`
     - Hikes → `/personal/hikes/` (Leaflet map; data in `_data/hikes.json`, script `assets/js/hikes-map.js`; shows season + year only, never exact dates)
     - Consumption → `/personal/consumption/`

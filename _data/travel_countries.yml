@@ -1,0 +1,16 @@
+# Countries and territories on the Travel & Photography page, in display order.
+# To add a new country: add a line here, then add its places to travel_places.json
+# with the same `code`. The dropdown, region lists and counts update automatically.
+- { code: IN, name: India }
+- { code: AU, name: Australia }
+- { code: US, name: United States }
+- { code: JP, name: Japan }
+- { code: NZ, name: New Zealand }
+- { code: MA, name: Morocco }
+- { code: MX, name: Mexico }
+- { code: TH, name: Thailand }
+- { code: TR, name: Türkiye }
+- { code: VN, name: Vietnam }
+- { code: MY, name: Malaysia }
+- { code: NP, name: Nepal }
+- { code: HK, name: Hong Kong }
