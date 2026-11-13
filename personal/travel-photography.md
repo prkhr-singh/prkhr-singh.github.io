@@ -50,7 +50,7 @@ For a new country, also add it to _data/travel_countries.yml. Counts, filters an
     </div>
     <p id="travel-visible-count">{{ travel_places.size }} labels</p>
   </div>
-  <p class="travel-list-intro">This started as a snapshot of the Places view on 26 September 2026, and newer trips (most recently New Zealand) are added as they happen. Google Photos can include overlapping labels for the same area. For {{ travel_approx.size }} smaller or ambiguous labels, the map uses an approximate nearby location, marked ≈ in the list. The names below are kept as listed.</p>
+  <p class="travel-list-intro">This mirrors the Places view, last refreshed on 13 November 2026. Google Photos can include overlapping labels for the same area. For {{ travel_approx.size }} smaller or ambiguous labels, the map uses an approximate nearby location, marked ≈ in the list. The names below are kept as listed.</p>
   <label class="travel-search-label" for="travel-place-search">Find a place</label>
   <input id="travel-place-search" type="search" placeholder="Search all {{ travel_places.size }} places" autocomplete="off">
 
