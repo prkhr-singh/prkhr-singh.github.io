@@ -36,10 +36,11 @@ Local preview (optional):
   - `index.md`: Home (links to About, Work, Personal, AI).
   - `about.md`: About page.
   - `work.md`: Work highlights + CV subsection linking to the PDF.
-  - `personal.md`: Personal Pursuits hub with four linked subsections (brief overviews only):
+  - `personal.md`: Personal Pursuits hub with five linked subsections (brief overviews only):
     - Writing → `/writing/`
     - Travel & Photography → `/personal/travel-photography/`
     - Fitness → `/personal/fitness/`
+    - Hikes → `/personal/hikes/` (Leaflet map; data in `_data/hikes.json`, script `assets/js/hikes-map.js`; shows season + year only, never exact dates)
     - Consumption → `/personal/consumption/`
   - `writing.md`: All posts list (not in top nav, still useful as an archive).
   - `ai/index.md`: AI Projects landing (links to subpages).
@@ -62,7 +63,7 @@ Local preview (optional):
 
 ## Content Model
 - Homepage (`index.md`) links to sections; copy may change freely.
-- Personal hub (`personal.md`) shows four concise intros with links to detail pages; details live on their own URLs.
+- Personal hub (`personal.md`) shows five concise intros with links to detail pages; details live on their own URLs.
 - Writing archive (`writing.md`) lists all posts and uses `layout: default` (not in top nav).
 - Work (`work.md`) contains a CV subsection that links directly to the PDF.
 

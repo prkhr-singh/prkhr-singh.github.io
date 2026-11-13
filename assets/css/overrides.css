@@ -379,3 +379,31 @@ body.subpage.has-travel-map .wrapper { max-width: 1280px; }
   body.subpage.has-travel-map .wrapper > section,
   body.subpage.has-travel-map .wrapper > footer { float: none; position: static; width: auto; margin-left: 0; }
 }
+
+/* Hikes page (reuses the travel atlas styles above) */
+.hikes-map { width: 100%; aspect-ratio: 16 / 9; min-height: 320px; border: 1px solid #d6e1e3; border-radius: 10px; background: #eaf3f6; z-index: 0; }
+.hikes-pin { display: flex; align-items: center; justify-content: center; }
+.hikes-pin span { display: flex; align-items: center; justify-content: center; width: 24px; height: 24px; border: 2px solid #fff; border-radius: 50%; background: #a23f42; color: #fff; font-size: .7rem; font-weight: 700; line-height: 1; box-shadow: 0 1px 4px rgba(35, 45, 50, .35); }
+.hikes-pin.is-dim { opacity: .28; }
+.hikes-pop { font: 13px/1.4 inherit; color: #25333b; }
+.hikes-pop-eyebrow { margin: 0 0 .15rem !important; color: #797372; font-size: .68rem; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; }
+.hikes-pop-title { margin: 0 0 .4rem !important; font-weight: 700; }
+.hikes-pop ul, .hikes-trails { margin: 0; padding: 0; list-style: none; }
+.hikes-pop li, .hikes-trails li { margin: 0 0 .35rem; }
+.hikes-pop li span, .hikes-trails li span { display: block; color: #69767a; font-size: .8rem; }
+.hikes-trips { margin: 1.1rem 0 1.8rem; padding: 0; list-style: none; display: grid; gap: .65rem; }
+.hikes-trip { padding: .85rem 1rem; border: 1px solid #dce4e4; border-radius: 8px; background: #fff; }
+.hikes-trip.is-active { border-color: #aa6263; background: #fbf5f3; }
+.hikes-trip-head { display: flex; align-items: flex-start; gap: .7rem; }
+.hikes-trip-head > div { flex: 1; min-width: 0; }
+.hikes-trip h3 { margin: 0; font-size: 1.1rem; }
+.hikes-num { flex: none; display: flex; align-items: center; justify-content: center; width: 28px; height: 28px; border-radius: 50%; background: #a23f42; color: #fff; font-size: .78rem; font-weight: 700; }
+.hikes-meta { margin: .1rem 0 0 !important; color: #69767a; font-size: .84rem; }
+.hikes-show { flex: none; min-height: 32px; padding: .25rem .6rem; border: 1px solid #b8c9ca; border-radius: 7px; background: #fff; color: #25333b; font: inherit; font-size: .8rem; cursor: pointer; }
+.hikes-show:hover, .hikes-show:focus-visible { border-color: #9e4550; background: #fbf5f3; }
+.hikes-show:focus-visible, #hikes-trip-filter:focus-visible { outline: 2px solid #ab5962; outline-offset: 2px; }
+#hikes-trip-filter { max-width: 100%; }
+.hikes-blurb { margin: .55rem 0 .6rem !important; color: #4e5c62; font-size: .93rem; }
+.hikes-trails { columns: 2; column-gap: 1.3rem; font-size: .88rem; }
+.hikes-trails li { break-inside: avoid; }
+@media (max-width: 700px) { .hikes-trails { columns: 1; } .hikes-map { aspect-ratio: 4 / 5; } }
