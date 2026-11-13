@@ -29,7 +29,7 @@ Moving to Melbourne gave me both inspiration and opportunity. I found myself sur
 - **Apple Watch**: Clear inflection point in my fitness data once I started tracking.
 - **Hevy**: For strength training logs and sticking to routines.
 - **Strava (free)**: Auto-sync from Apple Watch.
-- **AllTrails**: Great for discovering Melbourne hikes (though the nearby options are mostly ticked off now).
+- **AllTrails**: Great for discovering Melbourne hikes (though the nearby options are mostly ticked off now). Everything I have walked is on my [Hikes]({{ '/personal/hikes/' | relative_url }}) page.
 
 ## Companions & Motivation
 - **Cycling**: Exploring Melbourne’s neighbourhoods and trails.

@@ -23,6 +23,11 @@ Cycling and fitness logs focused on simple routines and consistency.
 
 ---
 
+### <a href="{{ '/personal/hikes/' | relative_url }}">Hikes</a>
+Every trail I have completed, on one map and grouped into trips, from Melbourne river loops to the Hooker Valley.
+
+---
+
 ### <a href="{{ '/personal/consumption/' | relative_url }}">Consumption</a>
 Books, articles, podcasts, and tools I found useful — with short notes.
 

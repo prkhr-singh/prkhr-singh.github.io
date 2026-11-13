@@ -1,0 +1,765 @@
+[
+ {
+  "chapter": 1,
+  "title": "Yarra Bend and Geelong",
+  "region": "Victoria, Australia",
+  "when": "By autumn 2024",
+  "blurb": "Where it started: river loops and flying-fox colonies close to home.",
+  "trails": [
+   {
+    "name": "Warun Ponds Parkland Loop",
+    "slug": "australia/victoria/warun-ponds-parkland-loop",
+    "lat": -38.19028,
+    "lon": 144.34305,
+    "km": 4.7,
+    "gain_m": 20,
+    "max_m": 27,
+    "route": "Loop",
+    "place": "Geelong",
+    "region": "Victoria",
+    "country": "Australia"
+   },
+   {
+    "name": "Flying-Fox Walk",
+    "slug": "australia/victoria/flying-fox-walk",
+    "lat": -37.79664,
+    "lon": 145.01832,
+    "km": 4.7,
+    "gain_m": 48,
+    "max_m": 26,
+    "route": "Out & back",
+    "place": "Yarra Bend",
+    "region": "Victoria",
+    "country": "Australia"
+   },
+   {
+    "name": "Studley Park to River Retreat",
+    "slug": "australia/victoria/studley-park-to-river-retreat",
+    "lat": -37.80059,
+    "lon": 145.01025,
+    "km": 3.4,
+    "gain_m": 17,
+    "max_m": 15,
+    "route": "Out & back",
+    "place": "Yarra Bend",
+    "region": "Victoria",
+    "country": "Australia"
+   },
+   {
+    "name": "Flying Foxes and Boathouses",
+    "slug": "australia/victoria/flying-foxes-and-boathouses",
+    "lat": -37.79615,
+    "lon": 144.9993,
+    "km": 10.1,
+    "gain_m": 134,
+    "max_m": 40,
+    "route": "Loop",
+    "place": "Yarra Bend",
+    "region": "Victoria",
+    "country": "Australia"
+   },
+   {
+    "name": "Yarra Bend Park Loop",
+    "slug": "australia/victoria/yarra-bend-park-loop",
+    "lat": -37.79678,
+    "lon": 145.01831,
+    "km": 8.7,
+    "gain_m": 91,
+    "max_m": 34,
+    "route": "Loop",
+    "place": "Yarra Bend",
+    "region": "Victoria",
+    "country": "Australia"
+   }
+  ]
+ },
+ {
+  "chapter": 2,
+  "title": "The Grampians",
+  "region": "Gariwerd, Victoria",
+  "when": "Spring 2024",
+  "blurb": "Sandstone peaks, waterfalls and the Pinnacle above Halls Gap, walked over a long weekend of loops.",
+  "trails": [
+   {
+    "name": "Halls Gap to The Pinnacle Loop",
+    "slug": "australia/victoria/halls-gap-to-pinnacle-track",
+    "lat": -37.13945,
+    "lon": 142.51848,
+    "km": 9.3,
+    "gain_m": 497,
+    "max_m": 705,
+    "route": "Loop",
+    "place": "Halls Gap",
+    "region": "Victoria",
+    "country": "Australia"
+   },
+   {
+    "name": "Mackeys Peak via Halls Gap to Pinnacle Track",
+    "slug": "australia/victoria/mackeys-peak-via-halls-gap-to-pinnacle-track",
+    "lat": -37.13924,
+    "lon": 142.51824,
+    "km": 2.9,
+    "gain_m": 199,
+    "max_m": 440,
+    "route": "Out & back",
+    "place": "Halls Gap",
+    "region": "Victoria",
+    "country": "Australia"
+   },
+   {
+    "name": "Splitters Falls from Wonderland Carpark",
+    "slug": "australia/victoria/splitters-falls-from-wonderland-carpark",
+    "lat": -37.15057,
+    "lon": 142.50304,
+    "km": 1.6,
+    "gain_m": 75,
+    "max_m": 420,
+    "route": "Out & back",
+    "place": "Halls Gap",
+    "region": "Victoria",
+    "country": "Australia"
+   },
+   {
+    "name": "Venus Baths and Wonderland Walk",
+    "slug": "australia/victoria/venus-baths-and-wonderland-walk",
+    "lat": -37.13922,
+    "lon": 142.5182,
+    "km": 3.7,
+    "gain_m": 107,
+    "max_m": 334,
+    "route": "Loop",
+    "place": "Halls Gap",
+    "region": "Victoria",
+    "country": "Australia"
+   },
+   {
+    "name": "Splitter's Falls",
+    "slug": "australia/victoria/splitters-falls--2",
+    "lat": -37.13913,
+    "lon": 142.51795,
+    "km": 5.0,
+    "gain_m": 151,
+    "max_m": 368,
+    "route": "Out & back",
+    "place": "Halls Gap",
+    "region": "Victoria",
+    "country": "Australia"
+   },
+   {
+    "name": "The Pinnacle via Wonderland Carpark",
+    "slug": "australia/victoria/the-pinnacle-via-wonderland-carpark",
+    "lat": -37.15057,
+    "lon": 142.50304,
+    "km": 4.2,
+    "gain_m": 284,
+    "max_m": 705,
+    "route": "Out & back",
+    "place": "Halls Gap",
+    "region": "Victoria",
+    "country": "Australia"
+   },
+   {
+    "name": "Chatauqua Peak Loop",
+    "slug": "australia/victoria/chatauqua-peak-loop",
+    "lat": -37.13922,
+    "lon": 142.51819,
+    "km": 6.1,
+    "gain_m": 220,
+    "max_m": 412,
+    "route": "Loop",
+    "place": "Halls Gap",
+    "region": "Victoria",
+    "country": "Australia"
+   },
+   {
+    "name": "Clematis Falls",
+    "slug": "australia/victoria/clematis-falls",
+    "lat": -37.13542,
+    "lon": 142.51884,
+    "km": 2.4,
+    "gain_m": 61,
+    "max_m": 299,
+    "route": "Out & back",
+    "place": "Halls Gap",
+    "region": "Victoria",
+    "country": "Australia"
+   },
+   {
+    "name": "Chatauqua Peak",
+    "slug": "australia/victoria/chatauqua-peak",
+    "lat": -37.13836,
+    "lon": 142.51755,
+    "km": 4.5,
+    "gain_m": 193,
+    "max_m": 412,
+    "route": "Out & back",
+    "place": "Halls Gap",
+    "region": "Victoria",
+    "country": "Australia"
+   },
+   {
+    "name": "Boronia Peak",
+    "slug": "australia/victoria/boronia-peak",
+    "lat": -37.15703,
+    "lon": 142.53005,
+    "km": 8.2,
+    "gain_m": 338,
+    "max_m": 530,
+    "route": "Out & back",
+    "place": "Halls Gap",
+    "region": "Victoria",
+    "country": "Australia"
+   },
+   {
+    "name": "Fyans Creek Loop",
+    "slug": "australia/victoria/fyans-creek-loop",
+    "lat": -37.15697,
+    "lon": 142.53005,
+    "km": 2.9,
+    "gain_m": 44,
+    "max_m": 255,
+    "route": "Loop",
+    "place": "Halls Gap",
+    "region": "Victoria",
+    "country": "Australia"
+   }
+  ]
+ },
+ {
+  "chapter": 3,
+  "title": "Bass Coast",
+  "region": "Victoria, Australia",
+  "when": "Spring 2024",
+  "blurb": "Clifftop walking along the George Bass Coastal Walk.",
+  "trails": [
+   {
+    "name": "George Bass Coastal Walk: Kilcunda – Punchbowl",
+    "slug": "australia/victoria/george-bass-coastal-walk-kilcunda-punchbowl",
+    "lat": -38.54963,
+    "lon": 145.47067,
+    "km": 15.4,
+    "gain_m": 389,
+    "max_m": 74,
+    "route": "Out & back",
+    "place": "Kilcunda",
+    "region": "Victoria",
+    "country": "Australia"
+   },
+   {
+    "name": "Sandy Waterhole Beach from Shelly Beach Carpark",
+    "slug": "australia/victoria/sandy-waterhole-beach-from-shelly-beach-carpark",
+    "lat": -38.54971,
+    "lon": 145.47068,
+    "km": 8.0,
+    "gain_m": 176,
+    "max_m": 60,
+    "route": "Out & back",
+    "place": "Kilcunda",
+    "region": "Victoria",
+    "country": "Australia"
+   },
+   {
+    "name": "Shelly Beach via George Bass Coastal Walk",
+    "slug": "australia/victoria/shelly-beach-via-george-bass-coastal-walk",
+    "lat": -38.53605,
+    "lon": 145.40702,
+    "km": 7.4,
+    "gain_m": 212,
+    "max_m": 74,
+    "route": "Out & back",
+    "place": "San Remo",
+    "region": "Victoria",
+    "country": "Australia"
+   }
+  ]
+ },
+ {
+  "chapter": 4,
+  "title": "Bright",
+  "region": "Alpine Victoria",
+  "when": "Summer 2024–25",
+  "blurb": "A river loop through the Ovens River canyon.",
+  "trails": [
+   {
+    "name": "Ovens River Canyon Walk",
+    "slug": "australia/victoria/ovens-river-canyon-walk",
+    "lat": -36.72608,
+    "lon": 146.96169,
+    "km": 6.0,
+    "gain_m": 52,
+    "max_m": null,
+    "route": "Loop",
+    "place": "Bright",
+    "region": "Victoria",
+    "country": "Australia"
+   }
+  ]
+ },
+ {
+  "chapter": 5,
+  "title": "Carnarvon Gorge",
+  "region": "Queensland, Australia",
+  "when": "Summer 2024–25",
+  "blurb": "Sandstone side gorges, moss gardens and rock art in central Queensland.",
+  "trails": [
+   {
+    "name": "Mickey's Creek",
+    "slug": "australia/queensland/mickeys-creek",
+    "lat": -25.07206,
+    "lon": 148.24458,
+    "km": 3.9,
+    "gain_m": 136,
+    "max_m": 543,
+    "route": "Out & back",
+    "place": "Carnarvon Gorge",
+    "region": "Queensland",
+    "country": "Australia"
+   },
+   {
+    "name": "Art Gallery via Ward's Canyon, Amphitheatre and Moss Garden",
+    "slug": "australia/queensland/art-gallery-via-ward-s-canyon-amphitheatre-and-moss-garden",
+    "lat": -25.06131,
+    "lon": 148.2386,
+    "km": 14.6,
+    "gain_m": 562,
+    "max_m": 556,
+    "route": "Out & back",
+    "place": "Carnarvon Gorge",
+    "region": "Queensland",
+    "country": "Australia"
+   },
+   {
+    "name": "Moss Garden Walk",
+    "slug": "australia/queensland/moss-garden-walk",
+    "lat": -25.0613,
+    "lon": 148.23848,
+    "km": 7.7,
+    "gain_m": 257,
+    "max_m": 556,
+    "route": "Out & back",
+    "place": "Carnarvon Gorge",
+    "region": "Queensland",
+    "country": "Australia"
+   }
+  ]
+ },
+ {
+  "chapter": 6,
+  "title": "Great Ocean Road country",
+  "region": "Victoria, Australia",
+  "when": "Autumn 2025",
+  "blurb": "A volcano crater loop at Tower Hill and rainforest falls in the Otways.",
+  "trails": [
+   {
+    "name": "Journey to the Last Volcano Loop",
+    "slug": "australia/victoria/tower-hill-circuit",
+    "lat": -38.31832,
+    "lon": 142.36266,
+    "km": 2.3,
+    "gain_m": 64,
+    "max_m": 76,
+    "route": "Loop",
+    "place": "Tower Hill",
+    "region": "Victoria",
+    "country": "Australia"
+   },
+   {
+    "name": "Beauchamp Falls Track",
+    "slug": "australia/victoria/beauchamp-falls-track",
+    "lat": -38.65133,
+    "lon": 143.60674,
+    "km": 2.7,
+    "gain_m": 93,
+    "max_m": 467,
+    "route": "Out & back",
+    "place": "Beech Forest",
+    "region": "Victoria",
+    "country": "Australia"
+   }
+  ]
+ },
+ {
+  "chapter": 7,
+  "title": "Sydney bushland",
+  "region": "New South Wales, Australia",
+  "when": "Autumn 2025",
+  "blurb": "A creek circuit in Sydney's northern bushland.",
+  "trails": [
+   {
+    "name": "Two Creeks Track Circuit",
+    "slug": "australia/new-south-wales/two-creeks-track-circuit",
+    "lat": -33.76746,
+    "lon": 151.18718,
+    "km": 6.4,
+    "gain_m": 138,
+    "max_m": 106,
+    "route": "Loop",
+    "place": "Sydney",
+    "region": "New South Wales",
+    "country": "Australia"
+   }
+  ]
+ },
+ {
+  "chapter": 8,
+  "title": "Kosciuszko",
+  "region": "Snowy Mountains, New South Wales",
+  "when": "Autumn 2025",
+  "blurb": "Up to the roof of mainland Australia from Thredbo.",
+  "trails": [
+   {
+    "name": "Eagles Nest to Kosciuszko Summit",
+    "slug": "australia/new-south-wales/eagles-nest-to-kosciusko-summit",
+    "lat": -36.4939,
+    "lon": 148.28761,
+    "km": 13.2,
+    "gain_m": 374,
+    "max_m": 2225,
+    "route": "Out & back",
+    "place": "Thredbo",
+    "region": "New South Wales",
+    "country": "Australia"
+   },
+   {
+    "name": "Kosciuszko Lookout via Eagles Nest",
+    "slug": "australia/new-south-wales/kosciusko-lookout-via-eagles-nest",
+    "lat": -36.49387,
+    "lon": 148.2877,
+    "km": 4.0,
+    "gain_m": 137,
+    "max_m": 2062,
+    "route": "Out & back",
+    "place": "Thredbo",
+    "region": "New South Wales",
+    "country": "Australia"
+   }
+  ]
+ },
+ {
+  "chapter": 9,
+  "title": "Mount Buller",
+  "region": "Alpine Victoria",
+  "when": "Autumn 2025",
+  "blurb": "A short summit walk at the top of the mountain.",
+  "trails": [
+   {
+    "name": "The Summit Nature Walk",
+    "slug": "australia/victoria/the-summit-nature-walk",
+    "lat": -37.1459,
+    "lon": 146.44319,
+    "km": 4.5,
+    "gain_m": 156,
+    "max_m": 1796,
+    "route": "Loop",
+    "place": "Mount Buller",
+    "region": "Victoria",
+    "country": "Australia"
+   }
+  ]
+ },
+ {
+  "chapter": 10,
+  "title": "The Capital City Trail",
+  "region": "Melbourne, Victoria",
+  "when": "Winter 2025",
+  "blurb": "A long loop of Melbourne along the Yarra and Merri Creek.",
+  "trails": [
+   {
+    "name": "Capital City Trail",
+    "slug": "australia/victoria/capital-city-trail",
+    "lat": -37.81856,
+    "lon": 144.96818,
+    "km": 29.6,
+    "gain_m": 150,
+    "max_m": 49,
+    "route": "Loop",
+    "place": "Melbourne",
+    "region": "Victoria",
+    "country": "Australia"
+   },
+   {
+    "name": "Capital City Trail: Linear Park Reserve",
+    "slug": "australia/victoria/capital-city-trail-linear-park-reserve",
+    "lat": -37.78089,
+    "lon": 144.98381,
+    "km": 3.1,
+    "gain_m": 8,
+    "max_m": 41,
+    "route": "Out & back",
+    "place": "Melbourne",
+    "region": "Victoria",
+    "country": "Australia"
+   }
+  ]
+ },
+ {
+  "chapter": 11,
+  "title": "Kauaʻi and Oʻahu",
+  "region": "Hawaiʻi, United States",
+  "when": "Winter 2025",
+  "blurb": "The Nā Pali Coast, Waimea Canyon and a crater garden on Oʻahu.",
+  "trails": [
+   {
+    "name": "Iliau Nature Loop Trail",
+    "slug": "hawaii/kaua-i--2/iliau-nature-loop-trail",
+    "lat": 22.05158,
+    "lon": -159.66002,
+    "km": 0.5,
+    "gain_m": 8,
+    "max_m": 891,
+    "route": "Loop",
+    "place": "Waimea Canyon",
+    "region": "Kauaʻi",
+    "country": "Hawaiʻi"
+   },
+   {
+    "name": "Hanakāpīʻai Falls Trail",
+    "slug": "hawaii/kaua-i--2/hanakapi-ai-falls-trail",
+    "lat": 22.22122,
+    "lon": -159.57891,
+    "km": 14.5,
+    "gain_m": 823,
+    "max_m": 233,
+    "route": "Out & back",
+    "place": "Hanalei",
+    "region": "Kauaʻi",
+    "country": "Hawaiʻi"
+   },
+   {
+    "name": "Hanakāpīʻai Beach via the Kalalau Trail",
+    "slug": "hawaii/kaua-i--2/hanakapi-ai-beach-via-the-kalalau-trail",
+    "lat": 22.22043,
+    "lon": -159.5827,
+    "km": 7.6,
+    "gain_m": 575,
+    "max_m": 205,
+    "route": "Out & back",
+    "place": "Hanalei",
+    "region": "Kauaʻi",
+    "country": "Hawaiʻi"
+   },
+   {
+    "name": "Keʻe Beach–Kalalau Overlook",
+    "slug": "hawaii/kaua-i--2/ke-e-beach-kalalau-overlook",
+    "lat": 22.22042,
+    "lon": -159.58271,
+    "km": 1.9,
+    "gain_m": 159,
+    "max_m": 158,
+    "route": "Out & back",
+    "place": "Hanalei",
+    "region": "Kauaʻi",
+    "country": "Hawaiʻi"
+   },
+   {
+    "name": "Nā Pali Coast (Kalalau) Trail: Keʻe Beach to Hanakāpīʻai Beach",
+    "slug": "hawaii/kaua-i--2/na-pali-coast-kalalau-trail-ke-e-beach-to-hanakapi-ai-beach",
+    "lat": 22.22119,
+    "lon": -159.5788,
+    "km": 4.5,
+    "gain_m": 299,
+    "max_m": 210,
+    "route": "Point to point",
+    "place": "Hanalei",
+    "region": "Kauaʻi",
+    "country": "Hawaiʻi"
+   },
+   {
+    "name": "Sleeping Giant (Nounou Mountain) West Trail",
+    "slug": "hawaii/kaua-i--2/sleeping-giant-nounou-mountain-west-trail",
+    "lat": 22.0677,
+    "lon": -159.35887,
+    "km": 3.2,
+    "gain_m": 256,
+    "max_m": 377,
+    "route": "Out & back",
+    "place": "Kapaʻa",
+    "region": "Kauaʻi",
+    "country": "Hawaiʻi"
+   },
+   {
+    "name": "Koko Crater Botanic Garden",
+    "slug": "hawaii/oahu/koko-crater-botanic-garden",
+    "lat": 21.29369,
+    "lon": -157.67728,
+    "km": 2.9,
+    "gain_m": 73,
+    "max_m": 122,
+    "route": "Loop",
+    "place": "Waimānalo",
+    "region": "Oʻahu",
+    "country": "Hawaiʻi"
+   }
+  ]
+ },
+ {
+  "chapter": 12,
+  "title": "Cappadocia",
+  "region": "Nevşehir, Türkiye",
+  "when": "Winter 2026",
+  "blurb": "Fairy chimneys and valleys between Göreme and Uçhisar.",
+  "trails": [
+   {
+    "name": "Göreme - Love Valley - Uçhisar Castle - Pigeon Valley",
+    "slug": "turkey/nevsehir/goreme-love-white-uchisar-pigeon-goreme",
+    "lat": 38.64424,
+    "lon": 34.82917,
+    "km": 11.4,
+    "gain_m": 364,
+    "max_m": 1352,
+    "route": "Loop",
+    "place": "Göreme",
+    "region": "Nevşehir",
+    "country": "Türkiye"
+   },
+   {
+    "name": "Love Valley Trail North Gate",
+    "slug": "turkey/nevsehir/love-valley-trail-north-gate",
+    "lat": 38.6633,
+    "lon": 34.82961,
+    "km": 4.3,
+    "gain_m": 206,
+    "max_m": 1253,
+    "route": "Point to point",
+    "place": "Göreme",
+    "region": "Nevşehir",
+    "country": "Türkiye"
+   }
+  ]
+ },
+ {
+  "chapter": 13,
+  "title": "Back on the Barwon",
+  "region": "Geelong, Victoria",
+  "when": "Spring 2026",
+  "blurb": "Buckley Falls along the Barwon River.",
+  "trails": [
+   {
+    "name": "Buckley Falls and Barwon River Walk",
+    "slug": "australia/victoria/buckley-falls-and-barwon-river-walk",
+    "lat": -38.14899,
+    "lon": 144.31137,
+    "km": 4.7,
+    "gain_m": 73,
+    "max_m": 47,
+    "route": "Out & back",
+    "place": "Geelong",
+    "region": "Victoria",
+    "country": "Australia"
+   }
+  ]
+ },
+ {
+  "chapter": 14,
+  "title": "New Zealand's South Island",
+  "region": "Otago and Canterbury, New Zealand",
+  "when": "Spring 2026",
+  "blurb": "Glenorchy, the Hooker Valley and Sealy Tarns under Aoraki, Mount John at Tekapo, then Rakaia Gorge and Banks Peninsula.",
+  "trails": [
+   {
+    "name": "Glenorchy Lagoon Walkway",
+    "slug": "new-zealand/otago/glenorchy-lagoon-walkway",
+    "lat": -44.84989,
+    "lon": 168.38215,
+    "km": 3.4,
+    "gain_m": 14,
+    "max_m": 319,
+    "route": "Loop",
+    "place": "Glenorchy",
+    "region": "Otago",
+    "country": "New Zealand"
+   },
+   {
+    "name": "Hooker Lake via Hooker Valley Track",
+    "slug": "new-zealand/canterbury/hooker-lake-via-hooker-valley-track",
+    "lat": -43.71929,
+    "lon": 170.09368,
+    "km": 11.1,
+    "gain_m": 238,
+    "max_m": 886,
+    "route": "Out & back",
+    "place": "Mount Cook Village",
+    "region": "Canterbury",
+    "country": "New Zealand"
+   },
+   {
+    "name": "Muller Lake Lookout via Hooker Valley Track",
+    "slug": "new-zealand/canterbury/muller-lake-lookout-track",
+    "lat": -43.71925,
+    "lon": 170.0937,
+    "km": 1.8,
+    "gain_m": 22,
+    "max_m": 776,
+    "route": "Out & back",
+    "place": "Mount Cook Village",
+    "region": "Canterbury",
+    "country": "New Zealand"
+   },
+   {
+    "name": "Sealy Tarns Track",
+    "slug": "new-zealand/canterbury/sealy-tarns-track",
+    "lat": -43.71864,
+    "lon": 170.0923,
+    "km": 5.3,
+    "gain_m": 543,
+    "max_m": 1311,
+    "route": "Out & back",
+    "place": "Mount Cook Village",
+    "region": "Canterbury",
+    "country": "New Zealand"
+   },
+   {
+    "name": "Mount John Walkway",
+    "slug": "new-zealand/canterbury/mount-john-walkway",
+    "lat": -43.99531,
+    "lon": 170.46163,
+    "km": 8.4,
+    "gain_m": 338,
+    "max_m": 1004,
+    "route": "Loop",
+    "place": "Lake Tekapo",
+    "region": "Canterbury",
+    "country": "New Zealand"
+   },
+   {
+    "name": "Mount John Observatory Southern Viewpoint Track",
+    "slug": "new-zealand/canterbury/mount-john-observatory-southern-viewpoint-track",
+    "lat": -43.99537,
+    "lon": 170.46159,
+    "km": 4.0,
+    "gain_m": 293,
+    "max_m": 1012,
+    "route": "Out & back",
+    "place": "Lake Tekapo",
+    "region": "Canterbury",
+    "country": "New Zealand"
+   },
+   {
+    "name": "Lower Gorge Lookout via Rakaia Gorge Walk",
+    "slug": "new-zealand/canterbury/lower-gorge-lookout-via-rakaia-gorge-walk",
+    "lat": -43.51855,
+    "lon": 171.65925,
+    "km": 3.4,
+    "gain_m": 115,
+    "max_m": 356,
+    "route": "Out & back",
+    "place": "Rakaia",
+    "region": "Canterbury",
+    "country": "New Zealand"
+   },
+   {
+    "name": "Ngaio Point Coastal Track",
+    "slug": "new-zealand/canterbury/ngaio-point-coastal-track",
+    "lat": -43.75948,
+    "lon": 172.94259,
+    "km": 1.8,
+    "gain_m": 94,
+    "max_m": 88,
+    "route": "Loop",
+    "place": "Akaroa",
+    "region": "Canterbury",
+    "country": "New Zealand"
+   }
+  ]
+ }
+]
