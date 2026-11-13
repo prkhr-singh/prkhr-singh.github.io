@@ -38,7 +38,7 @@ Local preview (optional):
   - `work.md`: Work highlights + CV subsection linking to the PDF.
   - `personal.md`: Personal Pursuits hub with five linked subsections (brief overviews only):
     - Writing → `/writing/`
-    - Travel & Photography → `/personal/travel-photography/`
+    - Travel & Photography → `/personal/travel-photography/` (map + list built from `_data/travel_places.json`, one place per line; countries in `_data/travel_countries.yml`. To refresh, run `_tools/places-diff.js` on photos.google.com/places: it returns only labels added or removed since the live list. Add each as one JSON line; counts, filter, lists and the text download update automatically)
     - Fitness → `/personal/fitness/`
     - Hikes → `/personal/hikes/` (Leaflet map; data in `_data/hikes.json`, script `assets/js/hikes-map.js`; shows season + year only, never exact dates)
     - Consumption → `/personal/consumption/`
