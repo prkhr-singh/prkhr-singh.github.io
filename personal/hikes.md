@@ -64,7 +64,7 @@ travel_map_page: true
     {% endfor %}
   </ol>
 
-  <p class="travel-sources">Trails: my <a href="https://www.alltrails.com/members/prakhar-singh-7">AllTrails profile</a>. Distances and elevation gain are AllTrails’ listed figures for each trail, not my recorded tracks, and overlapping variants of the same walk are listed separately. Map tiles: © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, © <a href="https://carto.com/attributions">CARTO</a>.</p>
+  <p class="travel-sources">Trails: my <a href="https://www.alltrails.com/members/prakhar-singh-7">AllTrails profile</a>. Distances and elevation gain are AllTrails’ listed figures for each trail, not my recorded tracks, and overlapping variants of the same walk are listed separately. Map tiles: © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors.</p>
 </div>
 <script id="hikes-data" type="application/json">{{ site.data.hikes | jsonify }}</script>
 <script defer src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
