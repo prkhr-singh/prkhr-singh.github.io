@@ -68,4 +68,4 @@ travel_map_page: true
 </div>
 <script id="hikes-data" type="application/json">{{ site.data.hikes | jsonify }}</script>
 <script defer src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
-<script defer src="{{ '/assets/js/hikes-map.js' | relative_url }}"></script>
+<script defer src="{{ '/assets/js/hikes-map.js?v=' | append: site.github.build_revision | relative_url }}"></script>
