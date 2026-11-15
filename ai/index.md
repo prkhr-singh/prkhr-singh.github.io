@@ -10,9 +10,9 @@ I tend to understand a new technology by giving it a real problem. These are a f
 
 The original tools contain personal information and keep changing as the decisions change. So this is a portfolio of what became possible, how I approached it, and what I learnt along the way. The dates are also a useful record of how my use of AI is changing.
 
-<p class="experiment-date">November 2026</p>
-## [The Next Jobs: Work After AI]({{ '/ai/the-next-jobs/' | relative_url }})
-We can already describe the jobs AI will end; the open question is which ones it will start. A 100-slide perspective that draws seven rules from the industrial and computer revolutions, tests them against four years of AI evidence, and makes thirteen predictions for work to 2040.
+<p class="experiment-date">November 2026 · Series of two</p>
+## [After AI: Reasoning from History]({{ '/ai/after-ai/' | relative_url }})
+I asked AI to reason from first principles and from earlier technological revolutions before projecting what comes next. Two 100-slide perspectives so far: [The Next Jobs]({{ '/ai/the-next-jobs/' | relative_url }}), on which work AI will create, and [The Next Republic]({{ '/ai/the-next-republic/' | relative_url }}), on how people should organise and govern themselves after AI.
 
 <p class="experiment-date">August 2026</p>
 ## [Wheel or Wire: Total Cost of Ownership]({{ '/ai/wheel-or-wire-tco/' | relative_url }})

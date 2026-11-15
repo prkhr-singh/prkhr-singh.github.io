@@ -6,7 +6,7 @@ permalink: /ai/the-next-jobs/
 
 # The Next Jobs: Work After AI
 
-<p class="experiment-date">November 2026</p>
+<p class="experiment-date">November 2026 · <a href="{{ '/ai/after-ai/' | relative_url }}">After AI</a>, part 1 of 2</p>
 
 <div class="experiment-artifact">
   <span class="experiment-artifact-label">PERSPECTIVE DECK · 100 SLIDES · PODCAST</span>
@@ -45,7 +45,7 @@ A 100-slide perspective deck in six parts:
 
 ## Where AI helped
 
-I used AI as a research partner and an editor: to pull sources together, check claims against them, pressure-test the rules against counter-examples and keep a long argument consistent from the first slide to the last. The judgement calls, especially in the predictions, are mine.
+I gave AI the question and asked it to reason from history and first principles before projecting anything forward: find the evidence, extract the rules, test them against what AI has done so far, and only then predict. My part was the brief, the pushback and the edit—challenging rules that looked too neat, asking for counter-examples and keeping a long argument consistent from the first slide to the last.
 
 There is a small irony in that. The deck argues that the scarce work will be verification, accountability and context—exactly the parts of the job that stayed with me while making it.
 
@@ -53,4 +53,6 @@ There is a small irony in that. The deck argues that the scarce work will be ver
 
 The history made me less worried about whether new work will appear and more concerned with who it reaches and how long it takes. This time the early cost is falling on people entering the workforce rather than those already in it. For someone in a strategy and operations role, the practical conclusion is to move towards the bottleneck: the judgement, sign-off and coordination that AI makes more valuable rather than less.
 
-[← Back to Experiments with AI]({{ '/ai/' | relative_url }})
+Next in the series: [The Next Republic: How People Should Organise After AI]({{ '/ai/the-next-republic/' | relative_url }})
+
+[← Back to the After AI series]({{ '/ai/after-ai/' | relative_url }})
