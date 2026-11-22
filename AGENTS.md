@@ -118,6 +118,12 @@ Local preview (optional):
 6) Analytics / verification
 - Paste tokens into `_config.yml`; the tags will be injected automatically.
 
+## Work portfolio cards
+- Source of truth: `work/cards.json` (top-level `profile` plus `cards`). The explorer page `work/portfolio.md` renders it client-side; `llms.txt` is generated from it.
+- After any card edit, run `python3 bin/build-portfolio.py`. It validates the schema, runs the confidentiality checks and regenerates `llms.txt`; fix every error before committing. `--figures` lists every number for review.
+- Confidentiality: the site is public. No absolute financials, Uber counts, share levels, plan targets, experiment or membership metrics, names, vendor or partner names, internal codenames, or unlaunched plans. Write a withheld figure as `<redacted>`. The private term blocklist lives outside this repo at `~/.config/prakhar-portfolio/blocklist.txt` and must never be committed here.
+- Card fields: `headline` (one resume-ready sentence), `what_i_did` (3–4 `{summary, detail}` bullets), `outcome` + `outcome_status`, `learning`, `role_fit`, `tools`, `related`, `merged_from`. Uber roles use exactly two labels: "Uber Eats — ANZ Strategy & Planning" and "Uber — APAC Consumer Strategy".
+
 ## Gotchas & Conventions
 - Front matter must be wrapped with `---` at both start and end; missing the opening `---` will render YAML as page text.
 - Nav is hard‑coded in `default.html`. Ensure links reflect actual permalinks.

@@ -3,13 +3,13 @@ layout: default
 title: Work portfolio explorer
 permalink: /work/portfolio/
 work_explorer_page: true
-description: "Filter Prakhar Singh's project cards by company, geography, industry, and theme."
+description: "Filter Prakhar Singh's project cards by company, geography, industry, theme, and role type."
 ---
 
 <div class="nri-page px">
 <p class="nri-eyebrow">Work portfolio</p>
 <h1>Explore my projects</h1>
-<p class="nri-intro">Every project from my time at Nomura Research Institute and Uber in one place. Pick filters to narrow the list. Filters in the same group show any match; filters in different groups must all match.</p>
+<p class="nri-intro">Every project from my time at Nomura Research Institute and Uber in one place. Pick filters to narrow the list. Filters in the same group show any match; filters in different groups must all match. Open a card for what I did and what came of it; <span class="px-redacted">&lt;redacted&gt;</span> marks a figure I have but can't share publicly.</p>
 <p><a href="{{ '/work/' | relative_url }}">← Back to Work</a></p>
 
 <div class="px-controls">
@@ -27,7 +27,8 @@ description: "Filter Prakhar Singh's project cards by company, geography, indust
     { key: 'company', label: 'Company' },
     { key: 'geos', label: 'Geography' },
     { key: 'industries', label: 'Industry' },
-    { key: 'themes', label: 'Theme' }
+    { key: 'themes', label: 'Theme' },
+    { key: 'role_fit', label: 'Role type' }
   ];
   var ORDER = { company: ['NRI', 'Uber'] };
   var sel = {}, cards = [], q = '';
@@ -56,15 +57,32 @@ description: "Filter Prakhar Singh's project cards by company, geography, indust
     }).join('');
   }
 
+  var STATUS = { 'adopted': 'Adopted', 'launched': 'Launched', 'delivered': 'Delivered', 'in progress': 'In progress', 'not launched': 'Not launched' };
+  // Figures removed for confidentiality are written as <redacted>; keep the literal text but style it.
+  var tx = function (s) { return esc(s).replace(/&lt;redacted&gt;/g, '<span class="px-redacted" title="Figure available on request; removed for confidentiality">&lt;redacted&gt;</span>'); };
+
   function renderCards() {
     var shown = cards.filter(function (c) { return matches(c); });
     $('px-count').textContent = shown.length + ' of ' + cards.length + ' projects';
     $('px-list').innerHTML = shown.map(function (c) {
       var tags = [c.company].concat(c.geos, c.industries, c.themes).map(function (t) { return '<span>' + esc(t) + '</span>'; }).join('');
-      var f = [['Context', c.trigger], ['Problem', c.problem], ['What I did', c.method_and_execution], ['Artifacts', c.artifacts], ['What I learned', c.impact_or_learning]];
-      return '<details class="nri-card px-card" id="' + c.id.toLowerCase() + '"><summary><p class="nri-id">' + esc(c.role) + ' · ' + esc(c.period) + '</p><h2>' + esc(c.title) + '</h2><div class="nri-tags">' + tags + '</div></summary>' +
-        '<div class="nri-fields">' + f.map(function (x) { return '<div><h3>' + x[0] + '</h3><p>' + esc(x[1]) + '</p></div>'; }).join('') + '</div>' +
-        '<p class="px-skills"><strong>Skills:</strong> ' + esc(c.skills.join(', ')) + '</p></details>';
+      var did = '<ul class="px-did">' + (c.what_i_did || []).map(function (b) { return '<li><strong>' + tx(b.summary) + '</strong> — ' + tx(b.detail) + '</li>'; }).join('') + '</ul>';
+      var status = c.outcome_status ? ' <span class="px-status">' + esc(STATUS[c.outcome_status] || c.outcome_status) + '</span>' : '';
+      var f = [
+        ['Context', '<p>' + tx(c.trigger) + '</p>', ''],
+        ['Problem', '<p>' + tx(c.problem) + '</p>', ''],
+        ['What I did', did, ' px-full'],
+        ['Outcome' + status, '<p>' + tx(c.outcome) + '</p>', ' px-full'],
+        ['What I learned', '<p>' + tx(c.learning) + '</p>', ''],
+        ['Artifacts', '<p>' + tx(c.artifacts) + '</p>', '']
+      ];
+      var meta = '<p class="px-skills"><strong>Skills:</strong> ' + esc((c.skills || []).join(', ')) + '</p>' +
+        ((c.tools || []).length ? '<p class="px-skills"><strong>Tools:</strong> ' + esc(c.tools.join(', ')) + '</p>' : '') +
+        ((c.role_fit || []).length ? '<p class="px-skills"><strong>Relevant to:</strong> ' + esc(c.role_fit.join(', ')) + '</p>' : '');
+      return '<details class="nri-card px-card" id="' + c.id.toLowerCase() + '"><summary><p class="nri-id">' + esc(c.role) + ' · ' + esc(c.period) + '</p><h2>' + esc(c.title) + '</h2>' +
+        (c.headline ? '<p class="px-headline">' + tx(c.headline) + '</p>' : '') + '<div class="nri-tags">' + tags + '</div></summary>' +
+        '<div class="nri-fields">' + f.map(function (x) { return '<div class="px-f' + x[2] + '"><h3>' + x[0] + '</h3>' + x[1] + '</div>'; }).join('') + '</div>' +
+        meta + '</details>';
     }).join('') || '<p>No projects match these filters. Try removing one.</p>';
   }
 
