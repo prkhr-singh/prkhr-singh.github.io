@@ -407,3 +407,15 @@ body.subpage.has-travel-map .wrapper { max-width: 1280px; }
 .hikes-trails { columns: 2; column-gap: 1.3rem; font-size: .88rem; }
 .hikes-trails li { break-inside: avoid; }
 @media (max-width: 700px) { .hikes-trails { columns: 1; } .hikes-map { aspect-ratio: 4 / 5; } }
+
+/* Portfolio explorer v2: headline, bullets, outcome status, redaction marker */
+.px-headline { margin: -.35rem 0 .8rem; color: #3b4a53; font-size: 1rem; line-height: 1.45; max-width: 80ch; }
+.px-card .nri-fields > div { grid-column: auto; }
+.px-card .nri-fields > div.px-full { grid-column: 1 / -1; }
+.px-did { margin: .1rem 0 0; padding-left: 1.1rem; }
+.px-did li { margin: 0 0 .35rem; }
+.px-did strong { color: #245b68; }
+.px-status { display: inline-block; margin-left: .4rem; padding: .05rem .45rem; border-radius: 99px; background: #eaf3f4; color: #245b68; font-size: .68rem; letter-spacing: .04em; vertical-align: 1px; }
+.px-redacted { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .85em; background: #f1f3f4; color: #5b6770; border-radius: 4px; padding: 0 .25rem; white-space: nowrap; }
+.px-card .px-skills + .px-skills { margin-top: .3rem; }
+@media (max-width: 760px) { .px-card .nri-fields > div.px-full { grid-column: auto; } }
